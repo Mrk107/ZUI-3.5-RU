@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animator_duration_scale_entries">
+        <item>Без анимации</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Без фоновых процессов</item>
+        <item>Не более одного процесса</item>
+        <item>Не более 2 процессов</item>
+        <item>Не более 3 процессов</item>
+        <item>Не более 4 процессов</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>16 бит/отсчет</item>
+        <item>24 бит/отсчет</item>
+        <item>32 бит/отсчет</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>16 бит/отсчет</item>
+        <item>24 бит/отсчет</item>
+        <item>32 бит/отсчет</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>Моно</item>
+        <item>Стерео</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Оптимизировать качество звука</item>
+        <item>Баланс качества звука и скорости подключения</item>
+        <item>Оптимизировать скорость подключения</item>
+        <item>Лучший возможный результат (адаптивный битрейт)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Оптимизировать качество звука (990/909 Кбит/с)</item>
+        <item>Баланс качества звука и скорости подключения (660/606 кбит/с)</item>
+        <item>Оптимизировать скорость подключения (330/303 Кбит/с)</item>
+        <item>Лучший возможный результат (адаптивный битрейт)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>44,1 кГц</item>
+        <item>48 кГц</item>
+        <item>88,2 кГц</item>
+        <item>96 кГц</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>44,1 кГц</item>
+        <item>48 кГц</item>
+        <item>88,2 кГц</item>
+        <item>96 кГц</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Включить дополнительные кодеки</item>
+        <item>Отключить дополнительные кодеки</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Выбор системы (по умолчанию)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Включить дополнительные кодеки</item>
+        <item>Отключить дополнительные кодеки</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (по умолчанию)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Улучшенные цвета</item>
+        <item>Натуральные цвета, привычные глазу</item>
+        <item>Цвета, оптимизированные для цифрового контента</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Насыщенный (по умолчанию)</item>
+        <item>Естественный</item>
+        <item>Стандартный</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>ВЫКЛ</item>
+        <item>Показывать области наложения</item>
+        <item>Выделять области определенного цвета</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (по умолчанию)</item>
+        <item>OpenGL (Skia)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Нет</item>
+        <item>Logcat</item>
+        <item>Systrace (графика)</item>
+        <item>Список вызовов в glGetError</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Не использовать проверку HDCP</item>
+        <item>Использовать проверку HDCP только для DRM-контента</item>
+        <item>Всегда использовать проверку HDCP</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проверять только DRM-контент</item>
+        <item>Всегда проверять</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Нет</item>
+        <item>480p</item>
+        <item>480p (защита)</item>
+        <item>720p</item>
+        <item>720p (защита)</item>
+        <item>1080p</item>
+        <item>1080p (защита)</item>
+        <item>4K</item>
+        <item>4K (защита)</item>
+        <item>4K (масштабирование)</item>
+        <item>4K (масштабирование, защита)</item>
+        <item>720p, 1080p (два экрана)</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Выкл.</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Выкл.</item>
+        <item>Буфер: макс. 64 КБ</item>
+        <item>Буфер: макс. 256 КБ</item>
+        <item>Буфер: макс. 1 МБ</item>
+        <item>Буфер: макс. 4 МБ</item>
+        <item>Буфер: макс. 16 МБ</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Выкл.</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+        <item>4 МБ</item>
+        <item>16 МБ</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Отключено</item>
+        <item>Все буферы журналов</item>
+        <item>Все, кроме буферов системного журнала</item>
+        <item>только буфер журнала ядра</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Отключено</item>
+        <item>Все</item>
+        <item>Все, кроме системных</item>
+        <item>только ядро</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Откл.</item>
+        <item>Непрямоугольное усечение синим</item>
+        <item>Тест. команды рисования зеленым</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Отключить</item>
+        <item>На экране в виде полос</item>
+        <item>В adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Без анимации</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Умеренно быстрая</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+        <item>Ускоренная</item>
+        <item>Сильно ускоренная</item>
+        <item>Максимальная</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Зарядка</item>
+        <item>MTP</item>
+        <item>PTP</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Источник аудио</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Поиск...</item>
+        <item>Подключение...</item>
+        <item>Аутентификация...</item>
+        <item>Получение IP-адреса...</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение...</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Поиск...</item>
+        <item>Соединение с сетью %1$s…</item>
+        <item>Аутентификация в сети %1$s...</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s…</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Без анимации</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
+    </string-array>
+    <string-array name="datePickerXMonth">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Вск</item>
+        <item>Пон</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чет</item>
+        <item>Пят</item>
+        <item>Суб</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>ГЛАВА</item>
+        <item>PAP или CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4 / IPv6</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Внутреннее хранилище устройств</item>
+        <item>Съемная SD-карта</item>
+        <item>Пусть система решит</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Местоположение</item>
+        <item>Персональный</item>
+        <item>Обмен сообщениями</item>
+        <item>СМИ</item>
+        <item>устройство</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вибрация</item>
+        <item>Чтение контактов</item>
+        <item>Изменить контакты</item>
+        <item>Чтение журнала вызовов</item>
+        <item>Изменить журнал вызовов</item>
+        <item>Прочитать календарь</item>
+        <item>Изменить календарь</item>
+        <item>Местоположение</item>
+        <item>Почтовое уведомление</item>
+        <item>Местоположение</item>
+        <item>Телефонный звонок</item>
+        <item>Чтение SMS / MMS</item>
+        <item>Написать SMS / MMS</item>
+        <item>Получение SMS / MMS</item>
+        <item>Получение SMS / MMS</item>
+        <item>Получение SMS / MMS</item>
+        <item>Получение SMS / MMS</item>
+        <item>Отправить SMS / MMS</item>
+        <item>Чтение SMS / MMS</item>
+        <item>Написать SMS / MMS</item>
+        <item>Изменить настройки</item>
+        <item>Нарисуйте сверху</item>
+        <item>Уведомления о доступе</item>
+        <item>Камера</item>
+        <item>Запись аудио</item>
+        <item>Воспроизводить аудио</item>
+        <item>Прочитать буфер обмена</item>
+        <item>Изменить буфер обмена</item>
+        <item>Кнопки мультимедиа</item>
+        <item>Фокус аудио</item>
+        <item>Общий объем</item>
+        <item>Объем голоса</item>
+        <item>Объем звонка</item>
+        <item>Объем носителя</item>
+        <item>Громкость звука</item>
+        <item>Объем уведомлений</item>
+        <item>Уровень громкости Bluetooth</item>
+        <item>Бодрствовать</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Получить статистику использования</item>
+        <item>Отключить звук / включить микрофон</item>
+        <item>Показывать тосты</item>
+        <item>Проектная среда</item>
+        <item>Активировать VPN</item>
+        <item>Написать обои</item>
+        <item>Вспомогательная структура</item>
+        <item>Помогите снимок экрана</item>
+        <item>Чтение состояния телефона</item>
+        <item>Добавить голосовую почту</item>
+        <item>Использовать глоток</item>
+        <item>Исходящий вызов процесса</item>
+        <item>отпечаток пальца</item>
+        <item>Датчики кузова</item>
+        <item>Чтение ячеек</item>
+        <item>Макет местоположения</item>
+        <item>Чтение хранилища</item>
+        <item>Запись хранилища</item>
+        <item>Включить экран</item>
+        <item>Получить учетные записи</item>
+        <item>Запустить в фоновом режиме</item>
+        <item>Объем доступности</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>грубое местоположение</item>
+        <item>точное местоположение</item>
+        <item>GPS</item>
+        <item>вибрировать</item>
+        <item>читать контакты</item>
+        <item>изменять контакты</item>
+        <item>читать журнал вызовов</item>
+        <item>изменить журнал вызовов</item>
+        <item>читать календарь</item>
+        <item>изменить календарь</item>
+        <item>сканирование wi-fi</item>
+        <item>уведомление</item>
+        <item>сканирование соты</item>
+        <item>телефонный звонок</item>
+        <item>читать SMS</item>
+        <item>написать SMS</item>
+        <item>получать SMS-сообщения</item>
+        <item>получать экстренные SMS</item>
+        <item>получать MMS</item>
+        <item>получать WAP-push</item>
+        <item>Отправить смс</item>
+        <item>читать ICC SMS</item>
+        <item>написать ICC SMS</item>
+        <item>изменить настройки</item>
+        <item>нарисовать сверху</item>
+        <item>уведомления о доступе</item>
+        <item>камера</item>
+        <item>запись аудио</item>
+        <item>воспроизводить аудио</item>
+        <item>читать буфер обмена</item>
+        <item>изменить буфер обмена</item>
+        <item>кнопки мультимедиа</item>
+        <item>аудиофокус</item>
+        <item>мастер-объем</item>
+        <item>громкость голоса</item>
+        <item>объем кольца</item>
+        <item>объем носителя</item>
+        <item>громкость</item>
+        <item>громкость уведомлений</item>
+        <item>громкость Bluetooth</item>
+        <item>бодрствовать</item>
+        <item>местоположение монитора</item>
+        <item>контролировать местоположение высокой мощности</item>
+        <item>получить статистику использования</item>
+        <item>микрофон без звука</item>
+        <item>показывать тосты</item>
+        <item>проектная среда</item>
+        <item>активировать VPN</item>
+        <item>написать обои</item>
+        <item>вспомогательная структура</item>
+        <item>помогать снимок экрана</item>
+        <item>читать состояние телефона</item>
+        <item>добавить голосовую почту</item>
+        <item>использовать глоток</item>
+        <item>обрабатывать исходящий вызов</item>
+        <item>отпечаток пальца</item>
+        <item>датчики кузова</item>
+        <item>чтение ячеек</item>
+        <item>макет местоположения</item>
+        <item>читать хранилище</item>
+        <item>записать хранилище</item>
+        <item>включить экран</item>
+        <item>получать счета</item>
+        <item>запустить в фоновом режиме</item>
+        <item>объем доступности</item>
+    </string-array>
+    <string-array name="automatic_storage_management_days">
+        <item>Более 30 дней</item>
+        <item>Более 60 дней</item>
+        <item>Более 90 дней</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Неопределенные</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>1 час</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>По умолчанию</item>
+        <item>Нет</item>
+        <item>Контур</item>
+        <item>Тень</item>
+        <item>поднятый</item>
+        <item>подавленный</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Очень маленький</item>
+        <item>Малые</item>
+        <item>Нормальный</item>
+        <item>Большие</item>
+        <item>Очень большой</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Использовать настройки по умолчанию</item>
+        <item>Белый на черном</item>
+        <item>Черный на белом</item>
+        <item>Желтый на черном</item>
+        <item>Желтый на синем</item>
+        <item>Свой</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>По умолчанию</item>
+        <item>Без засечек</item>
+        <item>Без засечек с уплотнением</item>
+        <item>Sans-serif monospace</item>
+        <item>засечка</item>
+        <item>Моноширины серифа</item>
+        <item>Повседневная</item>
+        <item>скоропись</item>
+        <item>Небольшие капиталы</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>чирок</item>
+        <item>Синий</item>
+        <item>Индиго</item>
+        <item>Пурпурный</item>
+        <item>Розовый</item>
+        <item>Красный</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Последние 30 дней</item>
+        <item>Установите цикл использования ...</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Никогда</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>ПРЫЖОК</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Малые</item>
+        <item>По умолчанию</item>
+        <item>Большие</item>
+        <item>Очень большой</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Немедленно</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+        <item>50 минут</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Короткая</item>
+        <item>Норм.</item>
+        <item>Длинная</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Нет</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Нормальный</item>
+        <item>Умеренный</item>
+        <item>Низкая</item>
+        <item>критический</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>настойчивый</item>
+        <item>Основная деятельность</item>
+        <item>Важно (на переднем плане)</item>
+        <item>Важное (фоновое)</item>
+        <item>Сделать резервную копию</item>
+        <item>Тяжелый вес</item>
+        <item>Сервис (работает)</item>
+        <item>Сервис (перезагрузка)</item>
+        <item>Получатель</item>
+        <item>Домой</item>
+        <item>Последняя активность</item>
+        <item>Кэширование (активность)</item>
+        <item>Кэшированный (клиент активности)</item>
+        <item>Кэшированный (пустой)</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>Нормальный</item>
+        <item>Умеренный</item>
+        <item>Низкая</item>
+        <item>критический</item>
+        <item>\?</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Просить</item>
+        <item>Никогда не допускайте</item>
+        <item>Всегда позволяют</item>
+    </string-array>
+    <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>миролюбивый</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Последнее использование времени</item>
+        <item>Имя приложения</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Отключён</item>
+        <item>Инициализация ...</item>
+        <item>Подключение ...</item>
+        <item>Подключён</item>
+        <item>Тайм-аут</item>
+        <item>неудачный</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP / IPSec VPN с предварительно разделенными ключами</item>
+        <item>L2TP / IPSec VPN с сертификатами</item>
+        <item>IPSec VPN с предварительно разделяемыми ключами и аутентификацией Xauth</item>
+        <item>IPSec VPN с сертификатами и аутентификацией Xauth</item>
+        <item>IPSec VPN с сертификатами и гибридной аутентификацией</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Wi-Fi предпочтительнее</item>
+        <item>Мобильный телефон</item>
+        <item>Только Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>Вай-фай</item>
+        <item>Мобильная</item>
+        <item>Только Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>Вай-фай</item>
+        <item>Мобильная</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Wi-Fi предпочтительнее</item>
+        <item>Мобильный телефон</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values_without_wifi_only">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>ПРЫЖОК</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>АКА</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>статический</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Подключён</item>
+        <item>приглашенный</item>
+        <item>неудачный</item>
+        <item>Доступный</item>
+        <item>Вне диапазона</item>
+        <item>Получение IP-адреса</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Нажать кнопку</item>
+        <item>PIN-код от однорангового устройства</item>
+        <item>PIN-код с этого устройства</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Нет</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>Нет</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>АКА</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Нет</item>
+        <item>Ручное управление</item>
+        <item>Автоопределение прокси-сервера</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Бедные</item>
+        <item>Бедные</item>
+        <item>Справедливая</item>
+        <item>Хорошо</item>
+        <item>Отлично</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Всегда</item>
+        <item>Только когда на зарядке</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Всегда</item>
+        <item>Только когда на зарядке</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="zen_mode_from">
+        <item>От кого</item>
+        <item>Только от контактов</item>
+        <item>Только из избранных контактов</item>
+        <item>Никто</item>
+    </string-array>
+    <string-array name="zen_mode_summary">
+        <item>«Если одно и то же лицо»</item>
+        <item>Если тот же человек без контактов</item>
+        <item>«Если тот же человек без звездных контактов»</item>
+        <item>«Если одно и то же лицо»</item>
+    </string-array>
+    <string-array name="zen_repeat_mode">
+        <item>Каждый день</item>
+        <item>Рабочие дни</item>
+        <item>Свой</item>
+    </string-array>
+    <string-array name="choose_password_items">
+        <item>Шаблон</item>
+        <item>ШТЫРЬ</item>
+        <item>Пароль</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="animator_duration_scale_values">
+        <item>0</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="apn_auth_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="apn_protocol_values">
+        <item>IP</item>
+        <item>IPV6</item>
+        <item>IPV4V6</item>
+    </string-array>
+    <string-array name="app_install_location_values">
+        <item>устройство</item>
+        <item>SD Card</item>
+        <item>авто</item>
+    </string-array>
+    <string-array name="app_process_limit_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="automatic_storage_management_days_values">
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+    </string-array>
+    <integer-array name="battery_saver_trigger_values">
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+    </integer-array>
+    <integer-array name="batterymeter_bolt_points">
+        <item>73</item>
+        <item>0</item>
+        <item>392</item>
+        <item>0</item>
+        <item>201</item>
+        <item>259</item>
+        <item>442</item>
+        <item>259</item>
+        <item>4</item>
+        <item>703</item>
+        <item>157</item>
+        <item>334</item>
+        <item>0</item>
+        <item>334</item>
+    </integer-array>
+    <integer-array name="batterymeter_color_levels">
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+    <array name="batterymeter_color_values">
+        <item>?android:colorError</item>
+        <item>@android:color/white</item>
+    </array>
+    <integer-array name="batterymeter_plus_points">
+        <item>3</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>3</item>
+        <item>8</item>
+        <item>3</item>
+        <item>8</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>8</item>
+        <item>3</item>
+        <item>8</item>
+        <item>3</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+    </integer-array>
+    <string-array name="bearer_values">
+        <item>0</item>
+        <item>14</item>
+        <item>15</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>13</item>
+        <item>12</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
+        <item>1000</item>
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_values">
+        <item>1000000</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="bytes_picker_sizes">
+        <item>@string/megabyteShort</item>
+        <item>@string/gigabyteShort</item>
+    </string-array>
+    <string-array name="captioning_color_selector_titles">
+        <item>@string/color_unspecified</item>
+        <item>@string/color_white</item>
+        <item>@string/color_black</item>
+        <item>@string/color_red</item>
+        <item>@string/color_yellow</item>
+        <item>@string/color_green</item>
+        <item>@string/color_cyan</item>
+        <item>@string/color_blue</item>
+        <item>@string/color_magenta</item>
+    </string-array>
+    <integer-array name="captioning_color_selector_values">
+        <item>0x00FFFFFF</item>
+        <item>0xFFFFFFFF</item>
+        <item>0xFF000000</item>
+        <item>0xFFFF0000</item>
+        <item>0xFFFFFF00</item>
+        <item>0xFF00FF00</item>
+        <item>0xFF00FFFF</item>
+        <item>0xFF0000FF</item>
+        <item>0xFFFF00FF</item>
+        <item>0xFF000055</item>
+        <item>0xFF0000AA</item>
+        <item>0xFF005500</item>
+        <item>0xFF005555</item>
+        <item>0xFF0055AA</item>
+        <item>0xFF0055FF</item>
+        <item>0xFF00AA00</item>
+        <item>0xFF00AA55</item>
+        <item>0xFF00AAAA</item>
+        <item>0xFF00AAFF</item>
+        <item>0xFF00FF55</item>
+        <item>0xFF00FFAA</item>
+        <item>0xFF550000</item>
+        <item>0xFF550055</item>
+        <item>0xFF5500AA</item>
+        <item>0xFF5500FF</item>
+        <item>0xFF555500</item>
+        <item>0xFF555555</item>
+        <item>0xFF5555AA</item>
+        <item>0xFF5555FF</item>
+        <item>0xFF55AA00</item>
+        <item>0xFF55AA55</item>
+        <item>0xFF55AAAA</item>
+        <item>0xFF55AAFF</item>
+        <item>0xFF55FF00</item>
+        <item>0xFF55FF55</item>
+        <item>0xFF55FFAA</item>
+        <item>0xFF55FFFF</item>
+        <item>0xFFAA0000</item>
+        <item>0xFFAA0055</item>
+        <item>0xFFAA00AA</item>
+        <item>0xFFAA00FF</item>
+        <item>0xFFAA5500</item>
+        <item>0xFFAA5555</item>
+        <item>0xFFAA55AA</item>
+        <item>0xFFAA55FF</item>
+        <item>0xFFAAAA00</item>
+        <item>0xFFAAAA55</item>
+        <item>0xFFAAAAAA</item>
+        <item>0xFFAAAAFF</item>
+        <item>0xFFAAFF00</item>
+        <item>0xFFAAFF55</item>
+        <item>0xFFAAFFAA</item>
+        <item>0xFFAAFFFF</item>
+        <item>0xFFFF0055</item>
+        <item>0xFFFF00AA</item>
+        <item>0xFFFF5500</item>
+        <item>0xFFFF5555</item>
+        <item>0xFFFF55AA</item>
+        <item>0xFFFF55FF</item>
+        <item>0xFFFFAA00</item>
+        <item>0xFFFFAA55</item>
+        <item>0xFFFFAAAA</item>
+        <item>0xFFFFAAFF</item>
+        <item>0xFFFFFF55</item>
+        <item>0xFFFFFFAA</item>
+    </integer-array>
+    <integer-array name="captioning_edge_type_selector_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="captioning_font_size_selector_values">
+        <item>0.25</item>
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+    </string-array>
+    <integer-array name="captioning_opacity_selector_values">
+        <item>0x40FFFFFF</item>
+        <item>0x80FFFFFF</item>
+        <item>0xC0FFFFFF</item>
+        <item>0xFFFFFFFF</item>
+    </integer-array>
+    <integer-array name="captioning_preset_selector_values">
+        <item>4</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>-1</item>
+    </integer-array>
+    <string-array name="captioning_typeface_selector_values">
+        <item></item>
+        <item>без засечек</item>
+        <item>без засечек-конденсируют</item>
+        <item>без засечек-моноширинный</item>
+        <item>засечка</item>
+        <item>засечек-моноширинный</item>
+        <item>повседневная</item>
+        <item>скоропись</item>
+        <item>рубленый-SmallCaps</item>
+    </string-array>
+    <integer-array name="color_mode_ids">
+        <item>0</item>
+        <item>-1</item>
+        <item>7</item>
+    </integer-array>
+    <array name="config_preinstalled_audio_and_caption_services" />
+    <array name="config_preinstalled_display_services" />
+    <array name="config_preinstalled_interaction_control_services" />
+    <array name="config_preinstalled_screen_reader_services" />
+    <string-array name="daltonizer_type_entries">
+        <item>@string/daltonizer_mode_deuteranomaly</item>
+        <item>@string/daltonizer_mode_protanomaly</item>
+        <item>@string/daltonizer_mode_tritanomaly</item>
+    </string-array>
+    <string-array name="daltonizer_type_values">
+        <item>12</item>
+        <item>11</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_values">
+        <item>ложный</item>
+        <item>показать</item>
+        <item>show_deuteranomaly</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_values">
+        <item>OpenGL</item>
+        <item>skiagl</item>
+    </string-array>
+    <string-array name="default_install_package_name_array">
+        <item>com.google.android.webview</item>
+        <item>com.lenovo.lsf</item>
+    </string-array>
+    <string-array name="dream_timeout_values">
+        <item>0</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_values">
+        <item>0</item>
+        <item>1</item>
+        <item>Systrace</item>
+        <item>ошибка</item>
+    </string-array>
+    <string-array name="entryvalues_font_size">
+        <item>0.85</item>
+        <item>1.0</item>
+        <item>1.15</item>
+        <item>1.30</item>
+    </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>никогда</item>
+        <item>ЦУП-только</item>
+        <item>всегда</item>
+    </string-array>
+    <string-array name="hidden_apps_package_name_array">
+        <item>com.zui.compass</item>
+        <item>com.zui.recorder</item>
+        <item>com.zui.findmyphoneweb</item>
+        <item>com.zui.fmplayer</item>
+        <item>com.zui.safecenter</item>
+        <item>com.zui.safecenters</item>
+        <item>com.zui.calculator</item>
+        <item>com.zui.calendar</item>
+        <item>com.zui.notes</item>
+        <item>com.zui.gallery</item>
+        <item>com.zui.weather</item>
+        <item>com.zui.modsmgr</item>
+        <item>com.zui.email</item>
+        <item>com.zui.videoplayer</item>
+        <item>com.zui.usercenter</item>
+        <item>com.lenovonc.mgc</item>
+        <item>com.lenovo.carrobot</item>
+        <item>com.microsoft.office.word</item>
+        <item>com.microsoft.office.excel</item>
+        <item>com.microsoft.office.powerpoint</item>
+        <item>com.microsoft.office.outlook</item>
+        <item>com.microsoft.office.onenote</item>
+        <item>com.lenovo.menu_assistant</item>
+    </string-array>
+    <string-array name="input_method_selector_titles">
+        <item>@string/input_method_selector_show_automatically_title</item>
+        <item>@string/input_method_selector_always_show_title</item>
+        <item>@string/input_method_selector_always_hide_title</item>
+    </string-array>
+    <string-array name="input_method_selector_values">
+        <item>@string/input_method_selector_show_automatically_value</item>
+        <item>@string/input_method_selector_always_show_value</item>
+        <item>@string/input_method_selector_always_hide_value</item>
+    </string-array>
+    <string-array name="interruption_level_array">
+        <item>@string/interruption_level_alarms</item>
+        <item>@string/interruption_level_priority</item>
+        <item>@string/interruption_level_none</item>
+    </string-array>
+    <string-array name="lock_after_timeout_values">
+        <item>0</item>
+        <item>5000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+        <item>3000000</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_values">
+        <item>400</item>
+        <item>1000</item>
+        <item>1500</item>
+    </string-array>
+    <string-array name="multi_favourite_app">
+        <item>com.immomo.momo</item>
+        <item>com.sina.weibo</item>
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.tencent.tmgp.sgame</item>
+        <item>com.supercell.clashroyale</item>
+    </string-array>
+    <string-array name="mvno_type_values">
+        <item></item>
+        <item>spn</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
+    <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480 / 142</item>
+        <item>720x480 / 142, безопасный</item>
+        <item>1280x720 / 213</item>
+        <item>1280x720 / 213, безопасный</item>
+        <item>1920x1080 / 320</item>
+        <item>1920x1080 / 320, безопасный</item>
+        <item>3840x2160 / 320</item>
+        <item>3840x2160 / 320, безопасный</item>
+        <item>1920x1080 / 320 | 3840x2160 / 640</item>
+        <item>1920x1080 / 320 | 3840x2160 / 640, безопасный</item>
+        <item>1280x720 / 213; 1920x1080 / 320</item>
+    </string-array>
+    <string-array name="screen_timeout_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+        <item>300000000</item>
+    </string-array>
+    <string-array name="select_logd_size_values">
+        <item>32768</item>
+        <item>65536</item>
+        <item>262144</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>16777216</item>
+    </string-array>
+    <string-array name="select_logpersist_values">
+        <item></item>
+        <item>все</item>
+        <item>по умолчанию, безопасность, ядро</item>
+        <item>ядро</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_values">
+        <item>скрывать</item>
+        <item>область</item>
+        <item>основной момент</item>
+    </string-array>
+    <string-array name="simulate_color_space_entries">
+        <item>@string/daltonizer_mode_disabled</item>
+        <item>@string/daltonizer_mode_monochromacy</item>
+        <item>@string/daltonizer_mode_deuteranomaly</item>
+        <item>@string/daltonizer_mode_protanomaly</item>
+        <item>@string/daltonizer_mode_tritanomaly</item>
+    </string-array>
+    <string-array name="simulate_color_space_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="track_frame_time_values">
+        <item>ложный</item>
+        <item>visual_bars</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="transition_animation_scale_values">
+        <item>0</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>Это пример синтеза речи на английском языке.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese в Deutsch.</item>
+        <item>Квесто и во всём в Италии.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>Это пример синтеза корейской речи</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="usb_configuration_values">
+        <item>нет</item>
+        <item>мтп</item>
+        <item>PTP</item>
+        <item>RNDIS</item>
+        <item>audio_source</item>
+        <item>миди</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Вознесенные существа</item>
+        <item>Человек</item>
+        <item>неандерталец</item>
+        <item>Шимпанзе</item>
+        <item>Обезьяна</item>
+    </string-array>
+    <string-array name="user_content_ratings_values">
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="vpn_types">
+        <item>PPTP</item>
+        <item>L2TP / IPSec PSK</item>
+        <item>L2TP / IPSec RSA</item>
+        <item>IPSec Xauth PSK</item>
+        <item>IPSec Xauth RSA</item>
+        <item>IPSec Hybrid RSA</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_only">
+        <item>@string/wifi_ap_choose_2G</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_full">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wpa2</item>
+    </string-array>
+    <string-array name="wifi_p2p_device_inactivity_timeout">
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+        <item>Никогда не отсоединять</item>
+    </string-array>
+    <string-array name="wifi_p2p_device_inactivity_timeout_values">
+        <item>900</item>
+        <item>1800</item>
+        <item>3600</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="wifi_p2p_device_limit">
+        <item>2 устройства</item>
+        <item>3 устройства</item>
+        <item>4 устройства</item>
+        <item>5 устройств</item>
+        <item>8 устройств</item>
+    </string-array>
+    <string-array name="wifi_p2p_device_limit_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="wifi_p2p_frequency_band_entries">
+        <item>Только 2,4 ГГц</item>
+        <item>5.0 ГГц / Автоматически</item>
+    </string-array>
+    <string-array name="wifi_p2p_frequency_band_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+    </string-array>
+    <string-array name="wifi_security_no_eap">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+    </string-array>
+    <string-array name="wifi_sim_slot_entries">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+</resources>

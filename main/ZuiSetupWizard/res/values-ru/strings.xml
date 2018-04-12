@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="status_bar_notification_info_overflow">>999+</string>
+    <string name="date_picker_dialog_x_title">%4$s, %2$s %3$s, %1$s</string>
+    <string name="listview_x_title_items_selected">%1$s элементов</string>
+    <string name="listview_x_title_main">Выбрано %1$s</string>
+    <string name="listview_x_title_no_item_selected">Выбрать</string>
+    <string name="listview_x_title_one_item_selected">1 элемент</string>
+    <string name="listview_x_title_select_all">Выбрать все</string>
+    <string name="listview_x_title_unselect_all">Убрать все</string>
+    <string name="reboot_progress">Перезагрузка</string>
+    <string name="time_picker_dialog_x_am">AM</string>
+    <string name="time_picker_dialog_x_complete">Готово</string>
+    <string name="time_picker_dialog_x_midnight">полночь</string>
+    <string name="time_picker_dialog_x_noon">полдень</string>
+    <string name="time_picker_dialog_x_pm">вечера</string>
+    <string name="time_picker_dialog_x_title">%1$s:%2$s %3$s</string>
+    <string name="add_fingerprint">Добавить отпечаток пальца</string>
+    <string name="app_name">Мастер настроек</string>
+    <string name="button_ok">ОК</string>
+    <string name="continue_btn">Далее</string>
+    <string name="dw_statement">Заявление о конфиденциальности DMPr</string>
+    <string name="fingerprint_already_added">Вы добавили отпечаток пальца</string>
+    <string name="fingerprint_explain">Используйте отпечаток пальца, чтобы разблокировать телефон</string>
+    <string name="language_setupwizard_settings" />
+    <string name="lenovo_title">Мото</string>
+    <string name="next_step">Далее</string>
+    <string name="privacy_policy">Политику конфиденциальности</string>
+    <string name="quick_settings">Быстрая настройка</string>
+    <string name="setupwizard_finish">Настройки выполнены</string>
+    <string name="skip_btn">Пропуск</string>
+    <string name="skip_emergency_dialing">Экстренный вызов</string>
+    <string name="skip_setupwizard">Пропустить</string>
+    <string name="skip_setupwizard_settings">Пропустить</string>
+    <string name="start_to_use">Ок</string>
+    <string name="title_complete">Привет!</string>
+    <string name="title_fingerprinter">Отпечаток пальца</string>
+    <string name="title_mobiledata">Мобильные данные</string>
+    <string name="user_agreement">Пользовательское Соглашение</string>
+    <string name="utouch_back">"Нажатие 
+Назад"</string>
+    <string name="utouch_long_touch_back_home">"Длинное касание
+Домой"</string>
+    <string name="utouch_switch_history">"Свайп
+Последние приложения"</string>
+    <string name="utouch_title">U-Touch</string>
+    <string name="utouch_toast">"U-touch - это жесты на кнопке отпечатка пальца.
+Предоставляет
+простой и эффективный способ взаимодействия. Подтвердите использование U-Touch."</string>
+    <string name="xui_device_nick_name">%1$s из %2$s</string>
+    <string name="xui_show_tv">Я принимаю %1$s и %2$s</string>
+    <string name="xui_show_tv_cmcc">Я прочитал и согласен с приведенными выше условиями</string>
+    <string name="abc_font_family_body_1_material">без засечек</string>
+    <string name="abc_font_family_body_2_material">без засечек среды</string>
+    <string name="abc_font_family_button_material">без засечек среды</string>
+    <string name="abc_font_family_caption_material">без засечек</string>
+    <string name="abc_font_family_display_1_material">без засечек</string>
+    <string name="abc_font_family_display_2_material">без засечек</string>
+    <string name="abc_font_family_display_3_material">без засечек</string>
+    <string name="abc_font_family_display_4_material">без засечек света</string>
+    <string name="abc_font_family_headline_material">без засечек</string>
+    <string name="abc_font_family_menu_material">без засечек</string>
+    <string name="abc_font_family_subhead_material">без засечек</string>
+    <string name="abc_font_family_title_material">без засечек среды</string>
+    <string name="message_dialog_paired_message_separator">:</string>
+</resources>

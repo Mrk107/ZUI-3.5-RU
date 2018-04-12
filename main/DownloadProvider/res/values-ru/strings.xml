@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Менеджер загрузки</string>
+    <string name="storage_description">Загрузки</string>
+    <string name="permlab_downloadManager">Доступ к менеджеру загрузки.</string>
+    <string name="permdesc_downloadManager">Приложение сможет обращаться к диспетчеру загрузки и использовать его для загрузки файлов.</string>
+    <string name="permlab_downloadManagerAdvanced">Расширенные функции диспетчера загрузки.</string>
+    <string name="permdesc_downloadManagerAdvanced">«Позволяет приложению получать доступ к расширенным функциям диспетчера загрузки. Вредоносные приложения могут использовать это, чтобы заролучить доступ к личной информации».</string>
+    <string name="permlab_downloadCompletedIntent">Отправить уведомления о загрузке.</string>
+    <string name="permdesc_downloadCompletedIntent">Приложение сможет отправлять уведомления о завершенных загрузках.</string>
+    <string name="permlab_seeAllExternal">Просмотреть все загрузки на SD-карту</string>
+    <string name="permdesc_seeAllExternal">Приложение сможет видеть все загрузки на SD-карте, независимо от того, какое приложение загрузило их.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Запасное пространство в кеше загрузки</string>
+    <string name="permdesc_downloadCacheNonPurgeable">«Приложение сможет загружать файлы в кэш загрузки, которые нельзя автоматически удалить, когда менеджеру загрузки требуется больше места».</string>
+    <string name="permlab_downloadWithoutNotification">Скачивать файлы без уведомления</string>
+    <string name="permdesc_downloadWithoutNotification">Приложение сможет загружать файлы через диспетчер загрузки без уведомления пользователя.</string>
+    <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам системы</string>
+    <string name="permdesc_accessAllDownloads">Приложение сможет просматривать и изменять все загрузки, инициированные любым приложением в системе.</string>
+    <string name="download_unknown_title">&lt;Без названия></string>
+    <string name="notification_download_complete">Загрузка завершена.</string>
+    <string name="notification_download_failed">Загрузка не удалась.</string>
+    <string name="notification_need_wifi_for_size">Для загрузки требуется Wi-Fi.</string>
+    <string name="notification_paused_in_background">Приостановлено в фоновом режиме.</string>
+    <string name="wifi_required_title">Загрузка слишком большая для моб.сети</string>
+    <string name="wifi_required_body" formatted="false">"Вы должны использовать Wi-Fi для завершения %s загрузок. 
+
+Нажмите %s, чтобы начать загрузку при следующем подключении к Wi-Fi."</string>
+    <string name="wifi_recommended_title">Поставить в очередь для скачивания позже?</string>
+    <string name="wifi_recommended_body" formatted="false">"Запуск этой %s загрузки может сократить время автономной работы и/или привести к чрезмерному использованию моб. данны.
+
+ Нажмите %s для запуска этой загрузки при следующем подключении к Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Очередь</string>
+    <string name="button_cancel_download">Отмена</string>
+    <string name="button_start_now">Начать сейчас</string>
+    <string name="download_remaining">%s осталось</string>
+    <string name="download_no_application_title">«Не удается открыть файл»</string>
+    <string name="root_downloads">Загрузки</string>
+    <string name="download_queued">В очереди</string>
+    <string name="download_running">В ходе выполнения</string>
+    <string name="download_error">Неудачно</string>
+    <string name="download_running_percent">Выполняется, %s</string>
+</resources>

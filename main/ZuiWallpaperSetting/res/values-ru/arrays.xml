@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXMonth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="desktop_previewa_menu_list">
+        <item>Экран блокировки</item>
+        <item>Рабочий стол</item>
+        <item>Оба экрана</item>
+        <item>отменить</item>
+    </string-array>
+    <string-array name="lockscreen_previewa_menu_list">
+        <item>Экран блокировки</item>
+        <item>Рабочий стол</item>
+        <item>Оба экрана</item>
+        <item>отменить</item>
+    </string-array>
+    <string-array name="poly_wallpapers">
+        <item>poly_000</item>
+        <item>poly_001</item>
+    </string-array>
+    <string-array name="wallpapers">
+        <item>wallpaper_015</item>
+        <item>wallpaper_014</item>
+        <item>wallpaper_021</item>
+        <item>wallpaper_001</item>
+        <item>wallpaper_002</item>
+        <item>wallpaper_000</item>
+        <item>wallpaper_003</item>
+        <item>wallpaper_004</item>
+        <item>wallpaper_005</item>
+        <item>wallpaper_006</item>
+        <item>wallpaper_007</item>
+        <item>wallpaper_008</item>
+        <item>wallpaper_011</item>
+        <item>wallpaper_012</item>
+        <item>wallpaper_013</item>
+    </string-array>
+</resources>

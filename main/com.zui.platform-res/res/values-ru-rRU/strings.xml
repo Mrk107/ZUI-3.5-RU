@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_picker_dialog_x_title">%4$s, %2$s %3$s, %1$s</string>
+    <string name="listview_x_title_items_selected">%1$s предметов</string>
+    <string name="listview_x_title_no_item_selected">Выбрать</string>
+    <string name="listview_x_title_one_item_selected">1 предмет</string>
+    <string name="listview_x_title_select_all">Выбрать все</string>
+    <string name="listview_x_title_unselect_all">Убрать все</string>
+    <string name="message_dialog_paired_message_separator">:</string>
+    <string name="reboot_progress">Перезагрузка</string>
+    <string name="time_picker_dialog_x_am">Утра</string>
+    <string name="time_picker_dialog_x_complete">Готово</string>
+    <string name="time_picker_dialog_x_midnight">Полночь</string>
+    <string name="time_picker_dialog_x_noon">Ночь</string>
+    <string name="time_picker_dialog_x_pm">Вечера</string>
+    <string name="time_picker_dialog_x_title">%1$s:%2$s %3$s</string>
+    <string name="listview_x_title_main">%1$s предметов выбрано</string>
+    <string name="zui_system_label">ZUI Система</string>
+    <string name="permlab_accessThemeService">Доступ к сервису темы</string>
+    <string name="permdesc_accessThemeService">Приложение сможет получать доступ к сервису темы. (Не требуется для обычных приложений.)</string>
+    <string name="permlab_readThemes">Прочитать информацию о вашей теме</string>
+    <string name="permdesc_readThemesDesc">Приложение сможет увидеть ваши темы и определить, какая тема была применена.</string>
+    <string name="permlab_writeThemes">Редактировать темы</string>
+    <string name="permdesc_writeThemesDesc">Приложение сможет добавлять новые темы и изменять их.</string>
+</resources>

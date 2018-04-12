@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choose_mode_three_state">
+        <item>Принять</item>
+        <item>Запрос</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="choose_mode_two_state">
+        <item>Принять</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="datePickerXMonth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="op_to_perms_name">
+        <item>Определять местоположения</item>
+        <item>Определять местоположение</item>
+        <item>Определять местоположение</item>
+        <item>Вибрация</item>
+        <item>Читать контакты</item>
+        <item>Удалять контакты</item>
+        <item>Читать историю звонков</item>
+        <item>Удалять историю звонков</item>
+        <item>Доступ к календарю</item>
+        <item>Доступ к календарю</item>
+        <item>Определять местоположение</item>
+        <item>Отправлять уведомлений</item>
+        <item>Определять местоположение</item>
+        <item>Делать звонки</item>
+        <item>Читать SMS</item>
+        <item>Отправлять SMS</item>
+        <item>Получение SMS</item>
+        <item>Получение SMS</item>
+        <item>Получение MMS</item>
+        <item>Получение SMS</item>
+        <item>Отправка SMS</item>
+        <item>Читать SMS messages</item>
+        <item>Отправлять SMS messages</item>
+        <item>Изменение системных настроек</item>
+        <item>Отображать плавающее окно</item>
+        <item>Чтение уведомлений</item>
+        <item>Включать камеру</item>
+        <item>Включать микрофон</item>
+        <item>Воспроизведение аудио</item>
+        <item>Чтение буфера обмена</item>
+        <item>Изменение буфера обмена</item>
+        <item>Кнопки мультимедиа</item>
+        <item>Аудио фокус</item>
+        <item>Мастер громкость</item>
+        <item>Громкость голоса</item>
+        <item>Громкость звонка</item>
+        <item>Громкость медиа</item>
+        <item>Громкость будильника</item>
+        <item>Громкость уведомлений</item>
+        <item>Громкость Bluetooth</item>
+        <item>Поддержание включенного состояния</item>
+        <item>Determine location</item>
+        <item>Determine location</item>
+        <item>Получение статистики использования</item>
+        <item>Отк./вкл. микрофона</item>
+        <item>Всплывающие окна</item>
+        <item>Медиафайлы проекта</item>
+        <item>Активирование VPN</item>
+        <item>Включение Wi-Fi</item>
+        <item>Включение Bluetooth</item>
+        <item>Отправка MMS</item>
+        <item>Чтение MMS-сообщений</item>
+        <item>Запись и удаление MMS-сообщений</item>
+        <item>Приложения с автозапуском</item>
+        <item>Читать NFC</item>
+        <item>Запись и удаление SMS-сообщений</item>
+        <item>Запись и удаление MMS-сообщений</item>
+        <item>Запись и удаление контактов</item>
+        <item>Запись и удаление журналов вызовов</item>
+        <item>Включать моб. сеть</item>
+        <item>Получать информацию об устройстве</item>
+        <item>Создавать ярлык на рабочем столе</item>
+        <item>Связанные с доступом</item>
+        <item>Читать номер телефона</item>
+        <item>Редактировать обои</item>
+        <item>Assist structure</item>
+        <item>Делать скриншоты</item>
+        <item>Читать инфо о телефоне</item>
+        <item>Использовать голосовую почту</item>
+        <item>Use sip</item>
+        <item>Обрабатывать исх. вызовы</item>
+        <item>Использовать отпечаток</item>
+        <item>Использовать датчики</item>
+        <item>Read cell broadcasts</item>
+        <item>Фиктивное местоположение</item>
+        <item>Чтение внутреннего хранилища</item>
+        <item>Запись внутреннего хранилища</item>
+        <item>Включать экран</item>
+        <item>Доступ к данным учетной записи</item>
+    </string-array>
+    <string-array name="perms_category">
+        <item>Связанные с звонками и смс</item>
+        <item>Связанные с конфиденциальностью</item>
+        <item>Связанные с мультимедиа</item>
+        <item>Связанные с настройками</item>
+    </string-array>
+    <string-array name="perms_mode">
+        <item>Принять</item>
+        <item>Нет</item>
+        <item>Запрос</item>
+        <item>Неизвестный</item>
+    </string-array>
+    <string-array name="choose_mode_allDeny_restoreDefault">
+        <item>Отключить все</item>
+        <item>Восстановить все</item>
+    </string-array>
+    <string-array name="cleanmgr_fm_cleansetting_autoclean_array">
+        <item>Когда более 20Мб</item>
+        <item>Когда более 50Мб</item>
+        <item>Когда более 100Мб</item>
+        <item>Отключить автоочистку</item>
+    </string-array>
+    <string-array name="cleanmgr_fm_deepclean_compositor_array">
+        <item>Сортировка по имени</item>
+        <item>Сортировка по размеру</item>
+        <item>Сортировка по времени загрузки</item>
+    </string-array>
+    <string-array name="cleanmgr_fm_deepclean_openfile_array">
+        <item>Текст</item>
+        <item>Аудио</item>
+        <item>Видео</item>
+        <item>Изображения</item>
+    </string-array>
+    <string-array name="cleanmgr_fm_deepclean_tab_array">
+        <item>Кэш</item>
+        <item>Большие файлы</item>
+        <item>Мусор</item>
+        <item>Изображения</item>
+        <item>Аудио</item>
+        <item>Видео</item>
+    </string-array>
+    <string-array name="mainui_cta_short_message_word">
+        <item>для антивирусного сканирования онлайн</item>
+        <item>для блокировки спама</item>
+        <item>для калибровки использования трафика</item>
+    </string-array>
+    <string-array name="mainui_cta_short_title_word">
+        <item>Доступ к моб. сети</item>
+        <item>Доступ к контактам</item>
+        <item>Отправка сообщений</item>
+    </string-array>
+    <string-array name="messcall_permsName">
+        <item>Звонки и котакты</item>
+        <item>SMS и MMS</item>
+    </string-array>
+    <string-array name="op_to_perms_name_zui">
+        <item>Редактировать обои</item>
+        <item>Assist structure</item>
+        <item>Делать скриншоты</item>
+        <item>Читать статус телефона</item>
+        <item>Использовать голосовую почту</item>
+        <item>Использование Sip</item>
+        <item>Обработка исх. вызовов</item>
+        <item>Использование отпечатка</item>
+        <item>Использование датчиков</item>
+        <item>Read cell broadcasts</item>
+        <item>Фиктивное местоположение</item>
+        <item>Чтение внутреннего хранилища</item>
+        <item>Запись внутреннего хранилища</item>
+        <item>Включать экран</item>
+        <item>Доступ к данным учет. записи</item>
+        <item>RUN_IN_BACKGROUND</item>
+        <item>AUDIO_ACCESSIBILITY_VOLUME</item>
+        <item>Чтение номера телефона</item>
+        <item>OP_REQUEST_INSTALL_PACKAGES</item>
+        <item>PICTURE_IN_PICTURE</item>
+        <item>INSTANT_APP_START_FOREGROUND</item>
+        <item>ANSWER_PHONE_CALLS</item>
+        <item>Приложения с автозапуском</item>
+        <item>Включение Wi-Fi</item>
+        <item>Включать bluetooth</item>
+        <item>Отправка MMS</item>
+        <item>Отправка MMS-сообщений</item>
+        <item>Запись и удаление MMS-сообщений</item>
+        <item>Создать ярлык на рабочем столе</item>
+        <item>Доступ к SMS-сообщениям</item>
+        <item>Доступ к файлам MMS</item>
+        <item>Доступ к контактам</item>
+        <item>Доступ к истории звонкам</item>
+        <item>Включать моб. данные</item>
+        <item>Доступ к галерее</item>
+        <item>Читать NFC</item>
+        <item>Читать список установленных прил.</item>
+    </string-array>
+</resources>

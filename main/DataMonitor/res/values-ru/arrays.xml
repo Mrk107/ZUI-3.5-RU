@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXMonth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="correct_result">
+        <item>Уcпешно отредактировано</item>
+        <item>Неверный слот</item>
+        <item>Запрос обратного вызова не установлен</item>
+        <item>Последний запрос для этой SIM карты еще не завершён</item>
+        <item>Нет информации о местонахождении</item>
+        <item>Нет информации об операторе</item>
+        <item>Проверочный код не установлен</item>
+        <item>Проверочный код был изменен</item>
+        <item>Неверный проверочный код</item>
+        <item>Ошибка сети</item>
+        <item>Ошибка сервера</item>
+        <item>Ошибка получения SMS</item>
+        <item>Ошибка отправки SMS</item>
+        <item>Сеть занята</item>
+        <item>SIM карта не готова</item>
+        <item>Неизвестная ошибка</item>
+        <item>Не удалось определить сеть</item>
+    </string-array>
+    <string-array name="data_usage_common_problem">
+        <item>1. Мои конфиденциальные данные будут в безопасности во время использования функции экономии трафика?</item>
+        <item>2. Каким образом функция экономии трафика помогает уменьшить трафик?</item>
+        <item>3. Я уже включил функцию экономии трафика, почему трафик не уменьшается?</item>
+        <item>4. Не увеличивает ли потребление трафика функция экономии трафика?</item>
+        <item>5. Экономится ли Wi-Fi трафик?</item>
+    </string-array>
+    <string-array name="data_usage_common_problem_respon">
+        <item>Да. Конфиденциальные данные используют протокол HTTPS.</item>
+        <item>После включения функции экономии трафика, будет снижено потребление трафика в 2G/3G/4G сетях за счет сжатия данных и ускорения с помощью облачных сервисов Liuliangbao, что не требет каких-либо действий с вашей стороны..</item>
+        <item>Liuliangbao не сжимает уже сжатые данные и изображения плохого качества. Сжатие данных также не происходит если используется VPN соединение.</item>
+        <item>После включения функции экономии трафика, все данные 2G/3G/4G сетей будут сжиматься . Тем не менее, некоторые данные могут не сжаматься в силу их специфики.</item>
+        <item>Функция экономии трафика работает только для 2G/3G/4G сетей и не экономит Wi-Fi трафик.</item>
+    </string-array>
+    <string-array name="datetime_unit_name">
+        <item>День</item>
+        <item>Часов</item>
+        <item>Минут</item>
+        <item>Секунд</item>
+    </string-array>
+    <string-array name="month_remaining1_bt">
+        <item>OK</item>
+        <item>Введите размер моб.трафика</item>
+    </string-array>
+    <string-array name="month_remaining2_bt">
+        <item>Продолжить подключение к сети</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="month_remaining2_bt_new">
+        <item>Покупка пакета данных</item>
+        <item>Отключение мобильных данных</item>
+        <item>Продолжить</item>
+    </string-array>
+    <string-array name="month_remaining3_bt">
+        <item>Продолжить подключение к сети</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="month_remaining4_bt">
+        <item>Продолжить для подключения</item>
+        <item>поддерживать разъединение</item>
+    </string-array>
+    <string-array name="month_remaining4_bt_new">
+        <item>Отмена</item>
+        <item>Покупка пакета данных</item>
+    </string-array>
+    <string-array name="operator_name">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="sim_name">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+    </string-array>
+    <string-array name="traffic_auto_correct_time">
+        <item>1 день</item>
+        <item>3 дня</item>
+        <item>7 дней</item>
+        <item>Выключить автокалибровку</item>
+    </string-array>
+    <string-array name="traffic_correct_cycle_time">
+        <item>Каждый день</item>
+        <item>Каждые три дня</item>
+        <item>Каждую неделю</item>
+        <item>Закрыть</item>
+    </string-array>
+    <string-array name="traffic_month_sheet_date">
+        <item>1-ый день</item>
+        <item>2-ый день</item>
+        <item>3-ый день</item>
+        <item>4-ый день</item>
+        <item>5-ый день</item>
+        <item>6-ый день</item>
+        <item>7-ый день</item>
+        <item>8-ый день</item>
+        <item>9-ый день</item>
+        <item>10-ый день</item>
+        <item>11-ый день</item>
+        <item>12-ый день</item>
+        <item>13-ый день</item>
+        <item>14-ый день</item>
+        <item>15-ый день</item>
+        <item>16-ый день</item>
+        <item>17-ый день</item>
+        <item>18-ый день</item>
+        <item>19-ый день</item>
+        <item>20-ый день</item>
+        <item>21-ый день</item>
+        <item>22-ый день</item>
+        <item>23-ый день</item>
+        <item>24-ый день</item>
+        <item>25-ый день</item>
+        <item>26-ый день</item>
+        <item>27-ый день</item>
+        <item>28-ый день</item>
+        <item>29-ый день</item>
+        <item>30-ый день</item>
+        <item>31-ый день</item>
+    </string-array>
+    <string-array name="traffic_notice_month_percents">
+        <item>80%</item>
+        <item>90%</item>
+        <item>95%</item>
+        <item>Закрыть</item>
+    </string-array>
+    <string-array name="traffic_provinces">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Tianjing</item>
+        <item>Chongqing</item>
+        <item>Hebei</item>
+        <item>Henan</item>
+        <item>Shanxi</item>
+        <item>Shandong</item>
+        <item>Inner Mongoria</item>
+        <item>Liaoning</item>
+        <item>Jilin</item>
+        <item>Heilongjiang</item>
+        <item>Jiangsu</item>
+        <item>Zhejiang</item>
+        <item>Anhui</item>
+        <item>Fujian</item>
+        <item>Jiangxi</item>
+        <item>Hubei</item>
+        <item>Hunan</item>
+        <item>Guangdong</item>
+        <item>Guangxi</item>
+        <item>Hainan</item>
+        <item>Sichuan</item>
+        <item>Guizhou</item>
+        <item>Tibet</item>
+        <item>Yunnan</item>
+        <item>Shanxi</item>
+        <item>Gansu</item>
+        <item>Qinghai</item>
+        <item>Ningxia</item>
+        <item>Xinjiang</item>
+    </string-array>
+    <string-array name="app_list_sort_save_type_entries">
+        <item>@string/net_netfilter_sort_name</item>
+        <item>@string/datausage_sort_by_save</item>
+    </string-array>
+    <string-array name="app_list_sort_type_entries">
+        <item>@string/net_netfilter_sort_name</item>
+        <item>@string/net_netfilter_sort_flow</item>
+    </string-array>
+    <string-array name="brand_array">
+        <item>@string/net_operators_m_3</item>
+        <item>@string/net_operators_m_2</item>
+        <item>@string/net_operators_m_1</item>
+        <item>@string/net_operators_u_1</item>
+        <item>@string/net_operators_u_2</item>
+        <item>@string/net_operators_u_3</item>
+        <item>@string/net_operators_cdma</item>
+    </string-array>
+    <string-array name="traffic_provinces_cn">
+        <item>北京</item>
+        <item>上海</item>
+        <item>天津</item>
+        <item>重庆</item>
+        <item>河北</item>
+        <item>河南</item>
+        <item>山西</item>
+        <item>山东</item>
+        <item>内蒙古</item>
+        <item>辽宁</item>
+        <item>吉林</item>
+        <item>黑龙江</item>
+        <item>江苏</item>
+        <item>浙江</item>
+        <item>安徽</item>
+        <item>福建</item>
+        <item>江西</item>
+        <item>湖北</item>
+        <item>湖南</item>
+        <item>广东</item>
+        <item>广西</item>
+        <item>海南</item>
+        <item>四川</item>
+        <item>贵州</item>
+        <item>西藏</item>
+        <item>云南</item>
+        <item>陕西</item>
+        <item>甘肃</item>
+        <item>青海</item>
+        <item>宁夏</item>
+        <item>新疆</item>
+    </string-array>
+    <string-array name="traffic_provinces_code">
+        <item>10</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>311</item>
+        <item>371</item>
+        <item>351</item>
+        <item>531</item>
+        <item>471</item>
+        <item>24</item>
+        <item>431</item>
+        <item>451</item>
+        <item>25</item>
+        <item>571</item>
+        <item>551</item>
+        <item>591</item>
+        <item>791</item>
+        <item>27</item>
+        <item>731</item>
+        <item>20</item>
+        <item>771</item>
+        <item>898</item>
+        <item>28</item>
+        <item>851</item>
+        <item>891</item>
+        <item>871</item>
+        <item>29</item>
+        <item>931</item>
+        <item>971</item>
+        <item>951</item>
+        <item>991</item>
+    </string-array>
+</resources>

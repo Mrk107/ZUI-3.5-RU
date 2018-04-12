@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXMonth">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="allinone_menu_items">
+        <item>Обзор</item>
+        <item>Год</item>
+        <item>Настройки</item>
+    </string-array>
+    <string-array name="array_birthday_alert">
+        <item>Во время</item>
+        <item>за 1 день</item>
+        <item>за 2 дня</item>
+        <item>за 1 неделю</item>
+        <item>за 15 дней</item>
+        <item>за 1 месяц</item>
+    </string-array>
+    <string-array name="array_reminder_multi_alert">
+        <item>Во время</item>
+        <item>за 1 день</item>
+        <item>за 2 дня</item>
+        <item>за 3 дня</item>
+        <item>за 7 дней</item>
+        <item>за 15 дней</item>
+        <item>за 30 дней</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Занят</item>
+        <item>Доступен</item>
+        <item>Неопределен</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Только это мероприятие</item>
+        <item>Все мероприятия в серии</item>
+    </string-array>
+    <string-array name="cta_msg_array">
+        <item>Для синхронизации информации сервисов календаря</item>
+        <item>Для чтения информации календаря с внутренней памяти</item>
+        <item>Для чтения SMS и информации сервисов календаря</item>
+        <item>Для синхронизации информации о национальных праздниках</item>
+        <item>Для синхронизации дней рождения контактов</item>
+    </string-array>
+    <string-array name="cta_title_array">
+        <item>Доступ к информации календаря</item>
+        <item>Доступ к внутренней памяти</item>
+        <item>Доступ к SMS</item>
+        <item>Доступ к мобильной сети</item>
+        <item>Доступ к контактам</item>
+    </string-array>
+    <string-array name="default_reminder_rule_labels1">
+        <item>Нет</item>
+        <item>Во время</item>
+        <item>за 5 минут</item>
+        <item>за 15 минут</item>
+        <item>за 30 минут</item>
+        <item>за 1 час</item>
+        <item>за 2 часа</item>
+        <item>за 3 часа</item>
+        <item>за 1 день</item>
+        <item>за 2 дня</item>
+        <item>за 1 неделю</item>
+    </string-array>
+    <string-array name="default_reminder_rule_labels2">
+        <item>Нет</item>
+        <item>Во время</item>
+        <item>за 1 день</item>
+        <item>за 2 дня</item>
+        <item>за 3 дня</item>
+        <item>за 1 неделю</item>
+        <item>за 15 дней</item>
+        <item>за 1 месяяц</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Только это мероприятие</item>
+        <item>Это и будущие мероприятия</item>
+        <item>Все мероприятия</item>
+    </string-array>
+    <string-array name="emails">
+        <item>\@gmail.com</item>
+        <item>\@hotmail.com</item>
+        <item>\@yahoo.com</item>
+        <item>\@live.com</item>
+    </string-array>
+    <string-array name="grabvote_tips_array">
+        <item>Показывает подсказки о билетах на основе установленной вами даты туда и обратно</item>
+        <item>Только в главном интерфейсе показаны национальные праздничные дни</item>
+        <item></item>
+    </string-array>
+    <string-array name="newbuildlist_menu_items">
+        <item>Новое</item>
+        <item>Поиск</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>послед.</item>
+    </string-array>
+    <string-array name="pasttime_remindertype">
+        <item>дн.</item>
+        <item>нед.</item>
+        <item>мес.</item>
+    </string-array>
+    <string-array name="permission_dialog_contents">
+        <item>Для синхронизации информации сервисов календаря</item>
+        <item>Для чтения информации календаря с внутренней памяти</item>
+        <item>Для чтения SMS и информации сервисов календаря</item>
+        <item>Для синхронизации информации о национальных праздниках</item>
+        <item>Для синхронизации дней рождения контактов</item>
+    </string-array>
+    <string-array name="permission_dialog_titles">
+        <item>Доступ к информации календаря</item>
+        <item>Доступ к внутренней памяти</item>
+        <item>Доступ к SMS</item>
+        <item>Доступ к мобильной сети</item>
+        <item>Доступ к контактам</item>
+    </string-array>
+    <string-array name="popmenu_banks">
+        <item>@string/bank_icbc</item>
+        <item>@string/bank_ccb</item>
+        <item>@string/bank_abc</item>
+        <item>@string/bank_bc</item>
+        <item>@string/bank_boc</item>
+        <item>@string/bank_cmb</item>
+        <item>@string/bank_cgb</item>
+        <item>@string/bank_ceb</item>
+        <item>@string/bank_cib</item>
+        <item>@string/bank_cmbc</item>
+        <item>@string/bank_hxb</item>
+        <item>@string/bank_cittic</item>
+        <item>@string/bank_spdb</item>
+        <item>@string/bank_pingan</item>
+        <item>@string/bank_psbc</item>
+    </string-array>
+    <string-array name="preferences_book_ticket_labels">
+        <item>Установить дату</item>
+        <item>Праздники</item>
+        <item>Не показывать</item>
+    </string-array>
+    <string-array name="preferences_book_ticket_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_styles_labels">
+        <item>Не напоминать</item>
+        <item>Только в панели уведомлений</item>
+        <item>В панели уведомлений и всплывающем окне</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_styles_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Только, если отклонено</item>
+        <item>Если отклонено или не отвечено</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>По умолчанию</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Бегу, буду через пару минут</item>
+        <item>Буду через 10 минут</item>
+        <item>Начинайте без меня</item>
+        <item>Извиняюсь, я не могу. Придётся отменить</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Уведомление</item>
+        <item>Почта</item>
+        <item>SMS</item>
+        <item>Сигнал</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Во время</item>
+        <item>"за 1 мин. "</item>
+        <item>"за 5 мин. "</item>
+        <item>"за 10 мин. "</item>
+        <item>"за 15 мин. "</item>
+        <item>"за 20 мин. "</item>
+        <item>"за 25 мин. "</item>
+        <item>"за 30 мин. "</item>
+        <item>"за 45 мин. "</item>
+        <item>"за 1 час "</item>
+        <item>"за 2 часа "</item>
+        <item>"за 3 часа "</item>
+        <item>"за 12 часов "</item>
+        <item>"за 24 часа "</item>
+        <item>"за 2 дня "</item>
+        <item>"за 1 неделю "</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels2">
+        <item>Во время</item>
+        <item>"за 5 мин. "</item>
+        <item>"за 15 мин. "</item>
+        <item>"за 30 мин. "</item>
+        <item>"за 1 час "</item>
+        <item>"за 2 часа "</item>
+        <item>"за 3 часа "</item>
+        <item>"за 1 день "</item>
+        <item>"за 2 дня "</item>
+        <item>"за 1 неделю "</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels_with_none">
+        <item>Нет напоминать</item>
+        <item>Во время</item>
+        <item>"за 1 мин. "</item>
+        <item>"за 5 мин. "</item>
+        <item>"за 10 мин. "</item>
+        <item>"за 15 мин. "</item>
+        <item>"за 20 мин. "</item>
+        <item>"за 25 мин. "</item>
+        <item>"за 30 мин. "</item>
+        <item>"за 45 мин. "</item>
+        <item>"за 1 час "</item>
+        <item>"за 2 часа "</item>
+        <item>"за 3 часа "</item>
+        <item>"за 12 часов "</item>
+        <item>"за 24 часа "</item>
+        <item>"за 2 дня "</item>
+        <item>"за 1 неделю "</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>каждую первую пятницу</item>
+        <item>каждую вторую пятницу</item>
+        <item>каждую третью пятницу</item>
+        <item>каждую четвертую пятницу</item>
+        <item>каждую последнюю пятницу</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>каждый первый понедельник</item>
+        <item>каждый второй понедельник</item>
+        <item>каждый третий понедельник</item>
+        <item>каждый четвертый понедельник</item>
+        <item>каждый последний понедельник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>каждую первую субботу</item>
+        <item>каждую вторую субботу</item>
+        <item>каждую третью субботу</item>
+        <item>каждую четвертую субботу</item>
+        <item>каждую последнюю субботу</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>каждое первое воскресенье</item>
+        <item>каждое второе воскресенье</item>
+        <item>каждое третье воскресенье</item>
+        <item>каждое четвертое воскресенье</item>
+        <item>каждое последнее воскресенье</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>каждый первый четверг</item>
+        <item>каждый второй четверг</item>
+        <item>каждый третий четверг</item>
+        <item>каждый четвертый четверг</item>
+        <item>каждый последний четверг</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>каждый первый вторник</item>
+        <item>каждый второй вторник</item>
+        <item>каждый третий вторник</item>
+        <item>каждый четвертый вторник</item>
+        <item>каждый последний вторник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>каждая первая среда</item>
+        <item>каждая вторая среда</item>
+        <item>каждая третья среда</item>
+        <item>каждая четвертая среда</item>
+        <item>каждая последняя среда</item>
+    </string-array>
+    <string-array name="repeat_by_nth_week">
+        <item>on every first week</item>
+        <item>on every second week</item>
+        <item>on every third week</item>
+        <item>on every fourth week</item>
+        <item>on every last week</item>
+    </string-array>
+    <string-array name="repeat_by_nth_weekday">
+        <item>"on every first Week's weekday"</item>
+        <item>"on every second Week's weekday"</item>
+        <item>"on every third Week's weekday"</item>
+        <item>"on every fourth Week's weekday"</item>
+        <item>"on every last Week's weekday"</item>
+    </string-array>
+    <string-array name="repeat_by_nth_weekend">
+        <item>"on every first Week's weekend"</item>
+        <item>"on every second Week's weekend"</item>
+        <item>"on every third Week's weekend"</item>
+        <item>"on every fourth Week's weekend"</item>
+        <item>"on every last Week's weekend"</item>
+    </string-array>
+    <string-array name="repeat_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Март</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Авг</item>
+        <item>Сент</item>
+        <item>Окт</item>
+        <item>Нояб</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="repeat_week_array1">
+        <item>Первый</item>
+        <item>Второй</item>
+        <item>Третий</item>
+        <item>Четвертый</item>
+        <item>Последний</item>
+    </string-array>
+    <string-array name="repeat_week_array2">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
+        <item>Пн-Пт</item>
+        <item>Сб-Вс</item>
+        <item>Всю неделю</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Не отвечать</item>
+        <item>Да</item>
+        <item>Может быть</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Маршалловы острова</item>
+        <item>Среднее время по Гринвичу</item>
+        <item>Гавайи</item>
+        <item>Аляска</item>
+        <item>Тихоокеанское стандартное время</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чихуахуа</item>
+        <item>Mountain стандартное время</item>
+        <item>Центральное время</item>
+        <item>Центральное поясное время</item>
+        <item>Мексика</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Североамериканское восточное время</item>
+        <item>Венесуэла</item>
+        <item>Атлантический(Барбадос)</item>
+        <item>Атлантический(Канада)</item>
+        <item>Манаус</item>
+        <item>Сан-Диего</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразилиа</item>
+        <item>Буэнос Айрес</item>
+        <item>Гренландия</item>
+        <item>Монтевидео</item>
+        <item>Среднеатлантическое время</item>
+        <item>Азорские острова</item>
+        <item>Кабо-Верде</item>
+        <item>Касабланка</item>
+        <item>Лондон, Дублин</item>
+        <item>Амстердам, Берлин</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>Западная Африка</item>
+        <item>Амман, Иордания</item>
+        <item>Афины, Стамбул</item>
+        <item>Бейрут, Ливан</item>
+        <item>Каир</item>
+        <item>Хельсинки</item>
+        <item>Иерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найроби</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Исламабад, Карачи</item>
+        <item>Уральск</item>
+        <item>Екатеринбург</item>
+        <item>Калькутта</item>
+        <item>Шри-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Магнитогорск</item>
+        <item>Бангкок</item>
+        <item>Пекин</item>
+        <item>Гонконг</item>
+        <item>Иркутск</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токио, Осака</item>
+        <item>Якутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбен</item>
+        <item>Хобарта</item>
+        <item>Сидней, Канберра</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фиджи</item>
+        <item>Тонга</item>
+    </string-array>
+    <string-array name="timezone_values">
+        <item>Тихий океан/Маджуро</item>
+        <item>Тихий океан/Мидвей</item>
+        <item>Тихий океан/Гонолулу</item>
+        <item>Америка/Анкоридж</item>
+        <item>Америка/Лос Анжелес</item>
+        <item>Америка/Тихуана</item>
+        <item>Америка/Феникс</item>
+        <item>Америка/Чиуауа</item>
+        <item>Америка/Денвер</item>
+        <item>Америка/Коста Рика</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Мехико</item>
+        <item>Америка/Регина</item>
+        <item>Америка/Богота</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Каракас</item>
+        <item>Америка/Барбадос</item>
+        <item>Америка/Галифакс</item>
+        <item>Америка/Манаус</item>
+        <item>Америка/Сантьяго</item>
+        <item>Америка/Саинт Джонс</item>
+        <item>Америка/Сан Пауло</item>
+        <item>Америка/Аргентина/Буэнос Айрес</item>
+        <item>Америка/Готхоб</item>
+        <item>Америка/Монтевидео</item>
+        <item>Атлантический/Южная Джорджия</item>
+        <item>Атлантический/Азорские острова</item>
+        <item>Атлантический/Капу Верде</item>
+        <item>Африка/Касабланка</item>
+        <item>Европа/Лондон</item>
+        <item>Европа/Амстердам</item>
+        <item>Европа/Белград</item>
+        <item>Европа/Брюссель</item>
+        <item>Европа/Сараево</item>
+        <item>Африка/Виндхук</item>
+        <item>Африка/Браззавиль</item>
+        <item>Азия/Амман</item>
+        <item>Европа/Афины</item>
+        <item>Азия/Бейрут</item>
+        <item>Африка/Каир</item>
+        <item>Европа/Хельсинки</item>
+        <item>Азия/Иерусалим</item>
+        <item>Европа/Минск</item>
+        <item>Африка/Хараре</item>
+        <item>Азия/Багдад</item>
+        <item>Европа/Москва</item>
+        <item>Азия/Кувейт</item>
+        <item>Африка/Найроби</item>
+        <item>Азия/Тегеран</item>
+        <item>Азия/Баку</item>
+        <item>Азия/Тбилиси</item>
+        <item>Азия/Ереван</item>
+        <item>Азия/Дубай</item>
+        <item>Азия/Кабул</item>
+        <item>Азия/Карачи</item>
+        <item>Азия/Уральск</item>
+        <item>Азия/Екатеринбург</item>
+        <item>Азия/Калькутта</item>
+        <item>Азия/Коломбо</item>
+        <item>Азия/Катманду</item>
+        <item>Азия/Алматы</item>
+        <item>Азия/Рангун</item>
+        <item>Азия/Красноярск</item>
+        <item>Азия/Бангкок</item>
+        <item>Азия/Шанхай</item>
+        <item>Азия/Гонг Конг</item>
+        <item>Азия/Иркутск</item>
+        <item>Азия/Куала-Лумпур</item>
+        <item>Австралия/Перт</item>
+        <item>Азия/Тайбэй</item>
+        <item>Азия/Сеул</item>
+        <item>Азия/Токио</item>
+        <item>Азия/Якутск</item>
+        <item>Австралия/Аделаида</item>
+        <item>Австралия/Дарвин</item>
+        <item>Австралия/Брисбен</item>
+        <item>Австралия/Хобарт</item>
+        <item>Австралия/Сидней</item>
+        <item>Азия/Владивосток</item>
+        <item>Тихоокеанский/Гуам</item>
+        <item>Азия/Магадан</item>
+        <item>Тихоокеанский/Окленд</item>
+        <item>Тихоокеанский/Фиджи</item>
+        <item>Тихоокеанский/Тонгатапу</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>По умолчанию</item>
+        <item>Приватное</item>
+        <item>Публичное</item>
+    </string-array>
+    <string-array name="week_index_array1">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+        <item>Fifth</item>
+        <item>Last one</item>
+    </string-array>
+    <string-array name="week_index_array2">
+        <item>Mon.</item>
+        <item>Tues.</item>
+        <item>Wed.</item>
+        <item>Thur.</item>
+        <item>Fri.</item>
+        <item>Sat.</item>
+        <item>Sun.</item>
+        <item>Mon.~Fri.</item>
+        <item>Sat.~Sun.</item>
+        <item>A week</item>
+    </string-array>
+    <string-array name="almanac_week">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+    <integer-array name="availability_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="chong_sha">
+        <item>煞北</item>
+        <item>煞西</item>
+        <item>煞南</item>
+        <item>煞东</item>
+    </string-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="dizhi_text">
+        <item>«Цзы»</item>
+        <item>«Чоу»</item>
+        <item>«Инь»</item>
+        <item>«Мао»</item>
+        <item>«Чэнь»</item>
+        <item>«Сы»</item>
+        <item>«У»</item>
+        <item>«Вэй»</item>
+        <item>«Шэнь»</item>
+        <item>«Ю»</item>
+        <item>«Сюй»</item>
+        <item>«Хай»</item>
+    </string-array>
+    <string-array name="hour_array">
+        <item>вр:23:00 ~ 1:00</item>
+        <item>вр:1:00 ~ 3:00</item>
+        <item>вр:3:00 ~ 5:00</item>
+        <item>вр:5:00 ~ 7:00</item>
+        <item>вр:7:00 ~ 9:00</item>
+        <item>вр:9:00 ~ 11:00</item>
+        <item>вр:11:00 ~ 13:00</item>
+        <item>вр:13:00 ~ 15:00</item>
+        <item>вр:15:00 ~ 17:00</item>
+        <item>вр:17:00 ~ 19:00</item>
+        <item>вр:19:00 ~ 21:00</item>
+        <item>вр:21:00 ~ 23:00</item>
+    </string-array>
+    <string-array name="lunar_daynum_text">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="lunar_month_array">
+        <item>"Январь "</item>
+        <item>"Февраль "</item>
+        <item>"Март "</item>
+        <item>"Апрель "</item>
+        <item>"Май "</item>
+        <item>"Июнь "</item>
+        <item>"Июль "</item>
+        <item>"Август "</item>
+        <item>"Сентябрь "</item>
+        <item>"Октябрь "</item>
+        <item>"Ноябрь "</item>
+        <item>"Декабрь "</item>
+    </string-array>
+    <string-array name="pengzu_dizhi">
+        <item>子不问卜自惹祸殃</item>
+        <item>丑不冠带主不还乡</item>
+        <item>寅不祭祀神鬼不尝</item>
+        <item>卯不穿井水泉不香</item>
+        <item>辰不哭泣必主重丧</item>
+        <item>巳不远行财物伏藏</item>
+        <item>午不苫盖屋主更张</item>
+        <item>未不服药毒气入肠</item>
+        <item>申不安床鬼祟入房</item>
+        <item>酉不宴客醉坐颠狂</item>
+        <item>戌不吃犬作怪上床</item>
+        <item>亥不嫁娶不利新郎</item>
+    </string-array>
+    <string-array name="pengzu_tiangan">
+        <item>甲不开仓财物耗亡</item>
+        <item>乙不栽植千株不长</item>
+        <item>丙不修灶必见灾殃</item>
+        <item>丁不剃头头主生疮</item>
+        <item>戊不受田田主不祥</item>
+        <item>己不破券二比并亡</item>
+        <item>庚不经络织机虚张</item>
+        <item>辛不合酱主人不尝</item>
+        <item>壬不决水更难提防</item>
+        <item>癸不词讼理弱敌强</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_values">
+        <item>declined</item>
+        <item>not_responded</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_values">
+        <item>-1</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="shengxiao_text">
+        <item>Крыса</item>
+        <item>Бык</item>
+        <item>Тигр</item>
+        <item>Кролик</item>
+        <item>Дракон</item>
+        <item>Змея</item>
+        <item>Лошадь</item>
+        <item>Коза</item>
+        <item>Обезьяна</item>
+        <item>Петух</item>
+        <item>Собака</item>
+        <item>Свинья</item>
+    </string-array>
+    <string-array name="solar_term_array">
+        <item>Малые холода</item>
+        <item>Большие холода</item>
+        <item>Начало весны</item>
+        <item>Дожди</item>
+        <item>Пробуждение</item>
+        <item>Весеннее равноденствие</item>
+        <item>Ясные дни</item>
+        <item>Хлебные дожди</item>
+        <item>Начало лета</item>
+        <item>Малое изобилие</item>
+        <item>Остистый колос</item>
+        <item>Летнее солнцестояние</item>
+        <item>Малая жара</item>
+        <item>Большая жара</item>
+        <item>Начало осени</item>
+        <item>Конец жары</item>
+        <item>Белые росы</item>
+        <item>Осеннее равноденствие</item>
+        <item>Холодные росы</item>
+        <item>Выпадение инея</item>
+        <item>Начало зимы</item>
+        <item>Малые снега</item>
+        <item>Большие снега</item>
+        <item>Зимнее солнцестояние</item>
+    </string-array>
+    <string-array name="solar_term_detail_array">
+        <item>小寒是第二十三个节气，在1月5－7日之间，太阳位于黄经285°。对于中国而言，小寒标志着开始进入一年中最寒冷的日子。根据中国的气象资料，小寒是气温最低的节气，只有少数年份的大寒气温是低于小寒的。</item>
+        <item>大寒是二十四节气中最后一个节气，每年1月20日前后太阳到达黄经300°时为“大寒”。大寒，是天气寒冷到极点的意思。《授时通考·天时》引《三礼义宗》：“大寒为中者，上形于小寒，故谓之大……寒气之逆极，故谓大寒。”</item>
+        <item>立春，是二十四节气之一，又称“打春”，“立”是“开始”的意思，中国以立春为春季的开始，每年2月4日或5日太阳到达黄经315度时为立春，《月令七十二候集解》：“正月节，立，建始也，立夏秋冬同。”古代“四立”，指春、夏、秋、冬四季开始，其农业意义为“春种、夏长、秋收、冬藏”，概括了黄河中下游农业生产与气候关系的全过程。</item>
+        <item>公历每年二月十八日前后为雨水节气，此时太阳到达黄经330度，为交“雨水”节气。雨水，表示两层意思，一是天气回暖，降水量逐渐增多了，二是在降水形式上，雪渐少了，雨渐多了，《月令七十二候集解》中说：“正月中，天一生水。春始属木，然生木者必水也，故立春后继之雨水。且东风既解冻，则散而为雨矣。”</item>
+        <item>惊蛰是二十四节气之一，每年太阳运行至黄经345度时即为惊蛰，一般在每年在3月5日或6日，这时气温回升较快，渐有春雷萌动，“惊蛰”是指钻到泥土里越冬的小动物被雷震苏醒出来活动。</item>
+        <item>春分，古时又称为“日中”、“日夜分”、“仲春之月”，在每年的3月21日前后，农历日期不固定。这时太阳到达黄经0度。据《月令七十二候集解》：“二月中，分者半也，此当九十日之半，故谓之分。”所以，春分的意义，一是指一天时间白天黑夜平分，各为12小时；二是古时以立春至立夏为春季，春分正当春季三个月之中，平分了春季。</item>
+        <item>清明的意思是清淡明智，“清明”是夏历二十四节气之一，中国广大地区有在清明之日进行祭祖、扫墓、踏青的习俗，逐渐演变为华人以扫墓、祭拜等形式纪念祖先的一个中国传统节日。另外还有很多以“清明”为题的诗歌，其中最著名的是唐代诗人杜牧的七绝《清明》。</item>
+        <item>谷雨，顾名思义，播谷降雨是也，是二十四节气之一，同时也是播种移苗、埯瓜点豆的最佳时节。每年4月19日至21日视太阳到达黄经30°时为谷雨。谷雨时雨水增多，大大有利于谷类农作物的生长。</item>
+        <item>每年5月5日或5月6日是农历的立夏。“斗指东南，维为立夏，万物至此皆长大，故名立夏也。”此时，太阳黄经为45度，在天文学上，立夏表示即将告别春天，是夏日天的开始。人们习惯上都把立夏当作是温度明显升高，炎暑将临，雷雨增多，农作物进入旺季生长的一个重要节气。</item>
+        <item>小满是二十四节气之一，夏季的第二个节气。其含义是夏熟作物的籽粒开始灌浆饱满，但还未成熟，只是小满，还未大满。每年5月20日或22日视太阳到达黄经60°时为小满。</item>
+        <item>芒种是二十四节气之一，一般在6月6日前后，太阳到达黄经75度的时候。芒种字面的意思是“有芒的麦子快收，有芒的稻子可种”。《月令七十二侯集解》：“五月节，谓有芒之种谷可稼种矣。”此时中国长江中下游地区将进入多雨的黄梅时节。</item>
+        <item>夏至是二十四节气之一，在每年公历6月21日或22日。夏至这天，太阳直射地面的位置到达一年的最北端，几乎直射北回归线，此时，北半球的白昼达最长，且越往北越长。</item>
+        <item>小暑，二十四节气之第十一节气，每年7月7日或8日视太阳到达黄经105°时为小暑。暑，表示炎热的意思，小暑为小热，还不十分热，意指天气开始炎热，但还没到最热，全国大部分地区基本符合。全国的农作物都进入了茁壮成长阶段，需加强田间管理。</item>
+        <item>大暑，二十四节气之一。在每年的7月22日至24日之间，太阳到达黄经120°。《月令七十二候集解》：“六月中，……暑，热也，就热之中分为大小，月初为小，月中为大，今则热气犹大也。”这时正值“中伏”前后，是一年中最热的时期，气温最高，农作物生长最快。民间有饮伏茶，晒伏姜，烧伏香等习俗。</item>
+        <item>立秋，是二十四节气中的第13个节气，每年8月7至9日立秋。“秋”就是指暑去凉来，意味着秋天的开始。到了立秋，梧桐树必定开始落叶，因此才有“落一叶而知秋”的成语。从文字角度来看，“秋”字由禾与火字组成，是禾谷成熟的意思。立秋是秋季的第一个节气，而秋季又是由热转凉，再由凉转寒的过渡性季节。</item>
+        <item>处暑，二十四节气之一。处暑节气在每年8月23日左右。此时太阳到达黄经150°。据《月令七十二候集解》说：“处，去也，暑气至此而止矣。”意思是炎热的夏天即将过去了。虽然，处暑前后我国北京、太原、西安、成都和贵阳一线以东及以南的广大地区和新疆塔里木盆地地区日平均气温仍在摄氏二十二度以上，处于夏季，但是这时冷空气南下次数增多，气温下降逐渐明显。</item>
+        <item>白露是二十四节气之一，此时气温开始下降，天气转凉，早晨草木上有了露水。每年公历的9月7日前后是白露。我国古代将白露分为三候：“一候鸿雁来；二候玄鸟归；三候群鸟养羞。”说此节气正是鸿雁与燕子等候鸟南飞避寒，百鸟开始贮存干果粮食以备过冬。可见白露实际上是天气转凉的象征。</item>
+        <item>秋分，农历二十四节气中的第十六个节气，时间一般为每年的9月22或23日。南方的气候由这一节气起才始入秋。太阳在这一天到达黄经180度，直射地球赤道，因此这一天24小时昼夜均分，各12小时；全球无极昼极夜现象。秋分之后，北极附近极夜范围渐大，南极附近极昼范围渐大。</item>
+        <item>每年10月8日或9日视太阳到达黄经195°时为寒露。《月令七十二候集解》说：“九月节，露气寒冷，将凝结也。”寒露的意思是气温比白露时更低，地面的露水更冷，快要凝结成霜了。寒露时节，南岭及以北的广大地区均已进入秋季，东北和西北地区已进入或即将进入冬季。</item>
+        <item>二十四节气之一，在公历10月23日或24日。这时中国黄河流域一般出现初霜，大部分地区多忙于播种三麦等作物。《逸周书·周月》：“秋三月中气：处暑、秋分、霜降。”《国语·周语中》：“火见而清风戒寒。”三国吴韦昭注：“谓霜降之后，清风先至，所以戒人为寒备也。”</item>
+        <item>“立冬”节气在每年的11月7日或8日，我国古时民间习惯以立冬为冬季的开始，我国幅员广大，除全年无冬的华南沿海和长冬无夏的青藏高原地区外，各地的冬季并不都是于立冬日同时开始的。按气候学划分四季标准，以下半年候平均气温降到10度以下为冬季，则“立冬为冬日始”的说法与黄淮地区的气候规律基本吻合。</item>
+        <item>每年11月22或23日，视太阳到达黄经240°时为小雪。《月令七十二候集解》有曰：“十月中，雨下而为寒气所薄，故凝而为雪。小者未盛之辞。”这个时期天气逐渐变冷，黄河中下游平均初雪期基本与小雪节令一致。虽然开始下雪，一般雪量较小，并且夜冻昼化。如果冷空气势力较强，暖湿气流又比较活跃的话，也有可能下大雪。</item>
+        <item>“大雪”节气，通常在每年的12月6至8日。太阳黄经达255度时，为二十四节气之一的“大雪”。大雪，顾名思义，雪量大。古人云：“大者，盛也，至此而雪盛也”。到了这个时段，雪往往下得大、范围也广，故名大雪。</item>
+        <item>冬至，是一个非常重要的节气，也是中华民族的一个传统节日，俗称“冬节”、“长至节”、“亚岁”等。早在二千五百多年前的春秋时代，中国就已经用土圭观测太阳，测定出了冬至，它是二十四节气中最早制订出的一个，时间在每年阳历12月21日至23日之间，这一天是北半球全年中白天最短、夜晚最长的一天；中国北方大部分地区在这一天还有吃饺子的习俗，谚语：冬至到，吃水饺。</item>
+    </string-array>
+    <string-array name="taishen_dizhi">
+        <item>duì</item>
+        <item>cè</item>
+        <item>lú</item>
+        <item>mén</item>
+        <item>qī</item>
+        <item>chuáng</item>
+    </string-array>
+    <string-array name="taishen_fangwei">
+        <item>外西南</item>
+        <item>外正南</item>
+        <item>外正西</item>
+        <item>外西北</item>
+        <item>外正北</item>
+        <item>房内北</item>
+        <item>房内南</item>
+        <item>房内东</item>
+        <item>外东北</item>
+        <item>外正东</item>
+        <item>外东南</item>
+        <item>外正南</item>
+    </string-array>
+    <string-array name="taishen_tiangan">
+        <item>占门</item>
+        <item>碓磨</item>
+        <item>厨灶</item>
+        <item>仓库</item>
+        <item>房床</item>
+    </string-array>
+    <string-array name="tiangan_text">
+        <item>«Цзя»</item>
+        <item>«И»</item>
+        <item>«Бин»</item>
+        <item>«Дин»</item>
+        <item>«У»</item>
+        <item>«Цзи»</item>
+        <item>«Гэн»</item>
+        <item>«Синь»</item>
+        <item>«Жэнь»</item>
+        <item>«Гуй»</item>
+    </string-array>
+</resources>

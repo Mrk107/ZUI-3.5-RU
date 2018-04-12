@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXMonth">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="cta_items_msg">
+        <item>Подключение к Интернету при синхронизации</item>
+        <item>Войдите или смените пароль</item>
+    </string-array>
+    <string-array name="cta_items_title">
+        <item>Доступ к мобильной сети</item>
+        <item>Отправлять текстовые сообщения</item>
+    </string-array>
+    <string-array name="data_span_items">
+        <item>Создать расписание</item>
+        <item>Копировать</item>
+    </string-array>
+    <string-array name="email_span_items">
+        <item>Отправить Емаил</item>
+        <item>Добавить в контакты</item>
+        <item>Копировать</item>
+    </string-array>
+    <string-array name="phone_span_items">
+        <item>Звонок</item>
+        <item>Добавить в контакты</item>
+        <item>Отправить сообщение</item>
+        <item>Копировать</item>
+    </string-array>
+    <string-array name="url_span_items">
+        <item>Открыть</item>
+        <item>Копировать</item>
+    </string-array>
+</resources>

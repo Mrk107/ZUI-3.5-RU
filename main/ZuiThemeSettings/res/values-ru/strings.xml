@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_picker_dialog_x_title">%4$s, %2$s %3$s, %1$s</string>
+    <string name="listview_x_title_items_selected">%1$s элементов</string>
+    <string name="listview_x_title_no_item_selected">Выбрать</string>
+    <string name="listview_x_title_one_item_selected">1 элемент</string>
+    <string name="listview_x_title_select_all">Выбрать все</string>
+    <string name="listview_x_title_unselect_all">Снять все</string>
+    <string name="message_dialog_paired_message_separator">:</string>
+    <string name="reboot_progress">Перезагрузка</string>
+    <string name="time_picker_dialog_x_am">AM</string>
+    <string name="time_picker_dialog_x_complete">Готово</string>
+    <string name="time_picker_dialog_x_midnight">midnight</string>
+    <string name="time_picker_dialog_x_noon">noon</string>
+    <string name="time_picker_dialog_x_pm">PM</string>
+    <string name="time_picker_dialog_x_title">%1$s:%2$s %3$s</string>
+    <string name="listview_x_title_main">%1$s выбрано</string>
+    <string name="app_name">Темы</string>
+    <string name="theme_preview_display_title">Темы</string>
+    <string name="theme_detail_display_title">Тема</string>
+    <string name="theme_detail_pkg_version">Версия : %1$s</string>
+    <string name="theme_detail_display_switch">Применить</string>
+    <string name="theme_detail_display_current">В настоящее время</string>
+    <string name="theme_type_default">По умолчанию</string>
+    <string name="theme_type_dark">Темная</string>
+    <string name="theme_type_boy">Океан</string>
+    <string name="theme_type_girl">Розовая</string>
+    <string name="theme_type_golden">Премиум</string>
+    <string name="theme_type_material">Moto material</string>
+    <string name="theme_type_lime">Лайм</string>
+    <string name="theme_switch_result_success">Тема применена</string>
+    <string name="theme_switch_result_fail">Не удалось применить тему!</string>
+    <string name="theme_switch_applying_message">Применение</string>
+    <string name="theme_runtime_permission_request">пожалуйста, дайте разрешение для приложения</string>
+    <string name="theme_task_affinity_activity">com.android.settings</string>
+</resources>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXMonth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="drag_list_array">
+        <item>Время активности</item>
+        <item>Сожжено калорий</item>
+        <item>Пройденная дистанция</item>
+        <item>Дистанция на велосипеде</item>
+        <item>Вес</item>
+        <item>Кровяное давление</item>
+        <item>Climb stairs</item>
+    </string-array>
+    <string-array name="drag_list_array_cmcc">
+        <item>Время активности</item>
+        <item>Сожжено калорий</item>
+        <item>Вес</item>
+        <item>Кровяное давление</item>
+        <item>Подъем по лестнице</item>
+    </string-array>
+    <string-array name="drag_list_array_cmcc_no_floor">
+        <item>Время активности</item>
+        <item>Сожжено калорий</item>
+        <item>Вес</item>
+        <item>Кровяное давление</item>
+    </string-array>
+    <string-array name="drag_list_array_no_floor">
+        <item>Время активности</item>
+        <item>Сожжено калорий</item>
+        <item>Пройденная дистанция</item>
+        <item>Дистанция на велосипеде</item>
+        <item>Вес</item>
+        <item>Кровяное давление</item>
+    </string-array>
+    <string-array name="drag_list_array_seoul">
+        <item>Время активности</item>
+        <item>Сожжено калорий</item>
+        <item>Пройденная дистанция</item>
+        <item>Дистанция на велосипеде</item>
+        <item>Вес</item>
+        <item>Кровяное давление</item>
+        <item>Пульс</item>
+    </string-array>
+    <string-array name="exercise_array">
+        <item>Ходьба</item>
+        <item>Бег</item>
+        <item>Велосипед</item>
+        <item>Лестница</item>
+        <item>Бег на месте</item>
+        <item>Тренажер</item>
+        <item>Скакалка</item>
+        <item>Планка</item>
+        <item>Йога</item>
+        <item>Танцы</item>
+        <item>Аэробика</item>
+        <item>Плавание</item>
+        <item>Пинг-понг</item>
+        <item>Бадминтон</item>
+        <item>Баскетбол</item>
+        <item>Футбол</item>
+        <item>Теннис</item>
+        <item>Волейбол</item>
+        <item>Коньки</item>
+        <item>Лыжи</item>
+    </string-array>
+    <string-array name="exercise_array_healthy_list">
+        <item>Ходьба</item>
+        <item>Бег</item>
+        <item>Велосипед</item>
+        <item>Лестница</item>
+        <item>Бег на месте</item>
+        <item>Тренажер</item>
+        <item>Скакалка</item>
+        <item>Планка</item>
+        <item>Йога</item>
+        <item>Танцы</item>
+        <item>Аэробика</item>
+        <item>Плавание</item>
+        <item>Пинг-понг</item>
+        <item>Бадминтон</item>
+        <item>Баскетбол</item>
+        <item>Футбол</item>
+        <item>Теннис</item>
+        <item>Волейбол</item>
+        <item>Коньки</item>
+        <item>Лыжи</item>
+        <item>Транспортное средство</item>
+    </string-array>
+    <string-array name="exercise_array_share">
+        <item>Ходьба</item>
+        <item>Бег</item>
+        <item>Велосипед</item>
+    </string-array>
+    <string-array name="gender_lables">
+        <item>Женщина</item>
+        <item>Мужчина</item>
+    </string-array>
+    <string-array name="guest_info_more_array">
+        <item>Изменить данные гостей</item>
+        <item>Удалить гостя</item>
+    </string-array>
+    <string-array name="guest_portrait_dialog">
+        <item>Фотографировать</item>
+        <item>Фото</item>
+    </string-array>
+    <string-array name="health_array">
+        <item>Пульс</item>
+        <item>SpO2</item>
+        <item>Вес</item>
+        <item>Давление</item>
+    </string-array>
+    <string-array name="health_array_other">
+        <item>Пульс</item>
+        <item>SpO2</item>
+        <item>Вес</item>
+        <item>Давление</item>
+        <item>Пульс и SpO2</item>
+    </string-array>
+    <string-array name="heart_rate_type">
+        <item>Спокойствие</item>
+        <item>Движение</item>
+    </string-array>
+    <string-array name="monday_mode_weektitle">
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="motto_cn">
+        <item>我生平喜欢步行，运动给我带来了无穷的乐趣。</item>
+        <item>锻炼身体要经常，要坚持，人和机器一样，经常运动才不能生锈。</item>
+        <item>世界上没有比结实的肌肉和新鲜的皮肤更加美丽的衣裳。</item>
+        <item>成大事不在于力量的大小，而在于能坚持多久。</item>
+        <item>身体的健康因静止不动而破坏，因运动练习而长期保持。</item>
+        <item>成大事不在于力量的大小，而在于能坚持多久。</item>
+        <item>从锻炼角度看，躺着不如坐着，坐着不如站着，站着不如走着。</item>
+        <item>淡泊名利，动静相济，劳逸适度。</item>
+        <item>运动是健康的源泉，也是长寿的秘诀。</item>
+    </string-array>
+    <string-array name="motto_cn_provenance">
+        <item>--- 爱因斯坦</item>
+        <item>--- 朱德</item>
+        <item>--- 马雅可夫斯基</item>
+        <item>--- 约翰生</item>
+        <item>--- 苏格拉底</item>
+        <item>--- 约翰逊</item>
+        <item>--- 卢梭</item>
+        <item>--- 华佗</item>
+        <item>--- 马约翰</item>
+    </string-array>
+    <string-array name="motto_en">
+        <item>I can accept defeat but could not accept to give up.</item>
+        <item>Early to bed and early to rise, makes a man healthy, wealthy, and wise.</item>
+        <item>Goals determine what you are going to be.</item>
+        <item>Try not to become a man of success but rather try to become a man of value.</item>
+        <item>Energy and persistence conquer all things.</item>
+        <item>Cease to struggle and you cease to live.</item>
+        <item>Courage is like a muscle. We strengthen it with use.</item>
+        <item>Never let fear or shame keep you from celebrating the unique people that you are.</item>
+        <item>Action is the real measure of intelligence.</item>
+        <item>"You're never a loser until you quit trying."</item>
+        <item>Cease to struggle and you cease to live.</item>
+        <item>"Behind every successful man there's a lot u unsuccessful years."</item>
+        <item>"You have to believe in yourself. That's the secret of success."</item>
+    </string-array>
+    <string-array name="motto_en_provenance">
+        <item>--- Michael Jordan</item>
+        <item>--- Benjamin Franklin</item>
+        <item>--- Julius Erving</item>
+        <item>--- A. Einstein</item>
+        <item>--- Benjamin Franklin</item>
+        <item>--- Thomas Carlyle</item>
+        <item>--- Ruth Gordon</item>
+        <item>--- Kristen Anderson-Lopez</item>
+        <item>--- Napolean Hill</item>
+        <item>--- Mike Ditka</item>
+        <item>--- Thomas Carlyle</item>
+        <item>--- Bob Brown</item>
+        <item>--- Charles Chaplin</item>
+    </string-array>
+    <array name="num_actions_images">
+        <item>@mipmap/num0</item>
+        <item>@mipmap/num1</item>
+        <item>@mipmap/num2</item>
+        <item>@mipmap/num3</item>
+        <item>@mipmap/num4</item>
+        <item>@mipmap/num5</item>
+        <item>@mipmap/num6</item>
+        <item>@mipmap/num7</item>
+        <item>@mipmap/num8</item>
+        <item>@mipmap/num9</item>
+    </array>
+    <string-array name="pace_speed_5">
+        <item>Не торопиться</item>
+        <item>Не спешить</item>
+        <item>Не нервничать</item>
+    </string-array>
+    <string-array name="pace_speed_6">
+        <item>Медленно</item>
+        <item>Медленный темп</item>
+        <item>Медленный темп</item>
+    </string-array>
+    <string-array name="products">
+        <item>ZUK</item>
+        <item>Jabra PULSE</item>
+        <item>Life Sense BPM</item>
+    </string-array>
+    <string-array name="products_hw">
+        <item>Jabra PULSE</item>
+    </string-array>
+    <string-array name="products_no_lifesense">
+        <item>ZUK</item>
+        <item>Jabra PULSE</item>
+    </string-array>
+    <string-array name="skin_lables">
+        <item>Желтый</item>
+        <item>Белый</item>
+        <item>Черный</item>
+    </string-array>
+    <string-array name="step_count_to_food">
+        <item>≈яйцо</item>
+        <item>≈5 конфет</item>
+        <item>≈пакет молока</item>
+        <item>≈банка колы</item>
+        <item>≈миска риса</item>
+        <item>≈пол пирожного</item>
+        <item>≈мороженое</item>
+        <item>≈пол гамбургера</item>
+        <item>≈пол пачки чипсов</item>
+        <item>≈2 банки колы</item>
+        <item>≈2 ломтика хлеба</item>
+        <item>≈2 миски риса</item>
+        <item>≈миска лапши</item>
+        <item>≈пирожное</item>
+        <item>≈3 куриных крылышка</item>
+        <item>≈2 мороженых</item>
+        <item>≈кусок пиццы</item>
+        <item>≈гамбургер</item>
+    </string-array>
+    <string-array name="sunday_mode_weektitle">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="trend_day_by_hour">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d дней</item>
+        <item quantity="one">за 1 день</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d мероприятий</item>
+        <item quantity="one">1 мероприятие</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d часов</item>
+        <item quantity="one">за 1 час</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">1 мин.</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Каждые %d дней</item>
+        <item quantity="one">Ежедневно</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %d раз</item>
+        <item quantity="one">, один раз</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Каждые %d месяцев</item>
+        <item quantity="one">Каждый %d месяц</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekday">
+        <item quantity="other">Кажду %d неделю по будням</item>
+        <item quantity="one">Еженедельно по будням</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekend">
+        <item quantity="other">Каждую %d неделю в выходные(Sat, Sun)</item>
+        <item quantity="one">Еженедельно в выходные</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Каждый %d лет</item>
+        <item quantity="one">Каждый %d год</item>
+    </plurals>
+    <plurals name="repeat_day_tips">
+        <item quantity="other">Every %1$d days happen</item>
+        <item quantity="one">Every %1$d day happen</item>
+    </plurals>
+    <plurals name="repeat_month_tips">
+        <item quantity="other">Every %1$d months %2$s happen</item>
+        <item quantity="one">Every %1$d month %2$s happen</item>
+    </plurals>
+    <plurals name="repeat_month_tips2">
+        <item quantity="other">Every %1$d months %2$s %3$s happen</item>
+        <item quantity="one">Every %1$d month %2$s %3$s happen</item>
+    </plurals>
+    <plurals name="repeat_perday_num">
+        <item quantity="other">%1$d дней</item>
+        <item quantity="one">%1$d день</item>
+    </plurals>
+    <plurals name="repeat_permonth_num">
+        <item quantity="other">%1$d months</item>
+        <item quantity="one">%1$d месяц</item>
+    </plurals>
+    <plurals name="repeat_perweek_num">
+        <item quantity="other">%1$d недель</item>
+        <item quantity="one">%1$d неделю</item>
+    </plurals>
+    <plurals name="repeat_peryear_num">
+        <item quantity="other">%1$d лет</item>
+        <item quantity="one">%1$d года</item>
+    </plurals>
+    <plurals name="repeat_week_tips">
+        <item quantity="other">Every %1$d weeks %2$s happen</item>
+        <item quantity="one">Every %1$d week %2$s happen</item>
+    </plurals>
+    <plurals name="repeat_year_tips">
+        <item quantity="other">Every %1$d years %2$s happen</item>
+        <item quantity="one">Every %1$d year %2$s happen</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Каждые %1$d недели в %2$s</item>
+        <item quantity="one">Еженедельно в %2$s</item>
+    </plurals>
+</resources>
