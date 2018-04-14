@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cta_items_msg">
-        <item>The permission is required for recording sound</item>
+        <item>Разрешение для записи звука</item>
     </string-array>
     <string-array name="cta_items_title">
-        <item>Access local recordings</item>
+        <item>Доступ к локальным записям</item>
     </string-array>
     <string-array name="datePickerXMonth">
         <item>January</item>

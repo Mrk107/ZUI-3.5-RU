@@ -544,7 +544,7 @@
     <string name="keyboard_key_enter">Ввод</string>
     <string name="keyboard_key_forward_del">Удалить</string>
     <string name="keyboard_key_home">Главный экран</string>
-    <string name="keyboard_key_insert">Insert</string>
+    <string name="keyboard_key_insert">Вставить</string>
     <string name="keyboard_key_media_fast_forward">Перемотка вперед</string>
     <string name="keyboard_key_media_next">Следующий трек</string>
     <string name="keyboard_key_media_play_pause">Воспроизведение/пауза</string>

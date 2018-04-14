@@ -405,10 +405,10 @@
     <string name="default_notification_channel_label">Uncategorized</string>
     <string name="default_sms_application">com.android.messaging</string>
     <string name="default_wallpaper_component">@null</string>
-    <string name="delete">Клавиша удаления</string>
-    <string name="deleteText">Клавиша удаления</string>
+    <string name="delete">Удалить</string>
+    <string name="deleteText">Удалить</string>
     <string name="deleted_key">Цифра %1$s удалена</string>
-    <string name="demo_restarting_message">Resetting device…</string>
+    <string name="demo_restarting_message">Сброс устройства…</string>
     <string name="demo_starting_message">Starting demo…</string>
     <string name="demo_user_inactivity_timeout_countdown">You’ll lose any changes and the demo will start again in %1$s seconds…</string>
     <string name="demo_user_inactivity_timeout_left_button">Отмена</string>

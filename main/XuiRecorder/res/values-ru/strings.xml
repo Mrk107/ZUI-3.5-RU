@@ -15,7 +15,7 @@
     <string name="btn_ok">ОК</string>
     <string name="btn_rename">Переименовать</string>
     <string name="btn_sel_all">Выбрать все</string>
-    <string name="btn_un_sel_all">Снять</string>
+    <string name="btn_un_sel_all">Снять все</string>
     <string name="btn_yes">Да</string>
     <string name="call_tab_title_name">Звонки</string>
     <string name="click_back_again_to_finish">Чтобы остановить запись, коснитесь еще раз</string>
@@ -23,7 +23,7 @@
     <string name="default_file_name">%2$d %3$d，%1$d_%4$d:%5$02d:%6$02d</string>
     <string name="del_dlg_title">Удалить</string>
     <string name="del_more_item">Удалить %d элемент?</string>
-    <string name="del_one_item">Удалить1 элемент?</string>
+    <string name="del_one_item">Удалить 1 элемент?</string>
     <string name="display_file_name_header">REC_</string>
     <string name="display_name1">%1$d %2$d %3$d %4$02d</string>
     <string name="display_name2">%1$d %2$d %3$d %4$02d</string>
@@ -77,7 +77,7 @@
     <string name="request_write_storage_permission">«Разрешения на чтение и запись диктофона отключены»</string>
     <string name="share">Поделиться</string>
     <string name="share_failed">Слишком много файлов. Пожалуйста, выберите меньше</string>
-    <string name="sms_tips">Мультимедийное сообщение может записываться около 3m03s</string>
+    <string name="sms_tips">Мультимедийное сообщение может записываться около 3м03с</string>
     <string name="time_picker_dialog_x_am">AM</string>
     <string name="time_picker_dialog_x_complete">Ок</string>
     <string name="time_picker_dialog_x_midnight">midnight</string>
