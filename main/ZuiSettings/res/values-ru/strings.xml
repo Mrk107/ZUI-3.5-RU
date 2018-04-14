@@ -3489,7 +3489,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="utouch_toast_category">Настройка выполняется, когда телефон разблокирован</string>
     <string name="utouch_unuse">Нет</string>
     <string name="version_dev">DEV</string>
-    <string name="version_st">DAY_19_RU</string>
+    <string name="version_st">DAY_20_RU</string>
     <string name="version_text">версия %1$s</string>
     <string name="vibrate_in_silent_title">Вибрировать при бесшумном</string>
     <string name="vibrate_input_devices">Использовать вибратор</string>
