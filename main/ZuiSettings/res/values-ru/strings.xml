@@ -1121,7 +1121,7 @@
     <string name="crypt_keeper_confirm_title">Шифрование?</string>
     <string name="crypt_keeper_data_corrupt_summary">«Введенный вами пароль правильный, но, к сожалению, ваши данные повреждены. Чтобы возобновить работу с телефоном, вам необходимо выполнить заводскую перезагрузку. Когда вы настроите свой телефон после сброса, у вас будет возможность восстановить любые данные, которые были скопированы в ваш аккаунт Google »</string>
     <string name="crypt_keeper_data_corrupt_title">Дешифрование неуспешно</string>
-    <string name="crypt_keeper_desc">«Вы можете зашифровать свои учетные записи, настройки, загруженные приложения и их данные, мультимедиа и другие файлы. После того как вы зашифруете свой телефон, предположив, что вы настроили блокировку экрана (то есть шаблон или числовой PIN-код или пароль)</string>
+    <string name="crypt_keeper_desc">«Вы можете зашифровать свои учетные записи, настройки, загруженные приложения и их данные, мультимедиа и другие файлы. После того как вы зашифруете свой телефон, предположив, что вы настроили блокировку экрана (то есть графический ключ или числовой PIN-код или пароль)</string>
     <string name="crypt_keeper_dialog_need_password_message">Перед тем, как начать шифрование, вам необходимо установить PIN-код блокировки экрана или пароль.</string>
     <string name="crypt_keeper_dialog_need_password_title">Нет PIN-кода блокировки экрана или пароля</string>
     <string name="crypt_keeper_encrypt_title">Шифрование телефона</string>
@@ -1431,7 +1431,7 @@
     <string name="encryption_interstitial_message_password">"«Вы можете дополнительно защитить это устройство, потребовав пароль до его запуска. Пока устройство не запустится, оно не сможет принимать вызовы, сообщения или уведомления, включая аварийные сигналы. Это поможет защитить данные при потере или краже устройства. Требовать пароль для запуска вашего устройства? "</string>
     <string name="encryption_interstitial_message_password_for_fingerprint">"«Помимо использования вашего отпечатка пальца, чтобы разблокировать устройство, вы можете дополнительно защитить это устройство, потребовав пароль до его запуска. Пока устройство не запустится, оно не сможет принимать вызовы, сообщения или уведомления, включая аварийные сигналы. Это поможет защитить данные при потере или краже устройства. Требовать пароль для запуска устройства "</string>
     <string name="encryption_interstitial_message_pattern">"«Вы можете дополнительно защитить это устройство, потребовав ваш ключ перед его запуском. Пока устройство не запустится, оно не сможет принимать вызовы, сообщения или уведомления, включая аварийные сигналы. Это поможет защитить данные при потере или краже устройства. Требовать пароль для запуска устройства "</string>
-    <string name="encryption_interstitial_message_pattern_for_fingerprint">"«В дополнение к использованию вашего отпечатка пальца, чтобы разблокировать устройство, вы можете дополнительно защитить это устройство, потребовав ваш шаблон перед его запуском. Пока устройство не запустится, оно не сможет принимать вызовы, сообщения или уведомления, включая аварийные сигналы. Это поможет защитить данные при потере или краже устройства. Требовать ключ для запуска вашего устройства? "</string>
+    <string name="encryption_interstitial_message_pattern_for_fingerprint">"«В дополнение к использованию вашего отпечатка пальца, чтобы разблокировать устройство, вы можете дополнительно защитить это устройство, потребовав ваш Графический ключ перед его запуском. Пока устройство не запустится, оно не сможет принимать вызовы, сообщения или уведомления, включая аварийные сигналы. Это поможет защитить данные при потере или краже устройства. Требовать ключ для запуска вашего устройства? "</string>
     <string name="encryption_interstitial_message_pin">"«Вы можете дополнительно защитить это устройство, потребовав PIN-код до его запуска. Пока устройство не запустится, оно не сможет принимать вызовы, сообщения или уведомления, включая аварийные сигналы. Это поможет защитить данные при потере или краже устройства. Требовать PIN-код для запуска вашего устройства? "</string>
     <string name="encryption_interstitial_message_pin_for_fingerprint">"«Помимо использования вашего отпечатка пальца, чтобы разблокировать устройство, вы можете дополнительно защитить это устройство, потребовав PIN-код до его запуска. Пока устройство не запустится, оно не сможет принимать вызовы, сообщения или уведомления, включая сигналы тревоги. Это поможет защитить данные при потере или краже устройства. Требовать PIN-код для запуска вашего устройства? "</string>
     <string name="encryption_interstitial_no">Нет</string>
@@ -1770,7 +1770,7 @@
     <string name="keywords_keyboard_and_ime">коррекция текста, правильный, звук, вибрация, авто, язык, жест, предложение, предложение, тема, наступление, слово, тип, эмози, международный</string>
     <string name="keywords_location">рядом, местоположение, история, отчетность</string>
     <string name="keywords_location_mode">Точно</string>
-    <string name="keywords_lockscreen">Свайп для разблокировки, пароль, шаблон, PIN-код</string>
+    <string name="keywords_lockscreen">Свайп для разблокировки, пароль, графический ключ, PIN-код</string>
     <string name="keywords_more_default_sms_app">текстовое сообщение, текстовые сообщения, сообщения, обмен сообщениями</string>
     <string name="keywords_more_mobile_networks">сотовый, мобильный, сотовый оператор, беспроводной, данные, 4g, 3g, 2g, lte</string>
     <string name="keywords_network_reset">перезагрузка, восстановление, завод</string>
@@ -1850,7 +1850,7 @@
     <string name="lock_profile_wipe_content">Слишком много неправильных попыток.</string>
     <string name="lock_profile_wipe_dismiss">Отклонить</string>
     <string name="lock_profile_wipe_warning_content_password">Если вы ввели неправильный рабочий пароль, ваш рабочий профиль и связанные с ним данные будут удалены с этого устройства.</string>
-    <string name="lock_profile_wipe_warning_content_pattern">Если вы введете неправильный шаблон работы при попытке, ваш рабочий профиль и связанные с ним данные будут удалены с этого устройства.</string>
+    <string name="lock_profile_wipe_warning_content_pattern">Если вы введете неправильный графический ключ работы при попытке, ваш рабочий профиль и связанные с ним данные будут удалены с этого устройства.</string>
     <string name="lock_profile_wipe_warning_content_pin">Если вы введете неправильный рабочий PIN-код при попытке, ваш рабочий профиль и связанные с ним данные будут удалены с этого устройства.</string>
     <string name="lock_profile_wipe_warning_title">Последняя попытка</string>
     <string name="lock_screen_intro_skip_dialog_text">Функции защиты устройства не будут активированы.</string>
@@ -1925,14 +1925,14 @@
     <string name="lockpassword_strong_auth_required_reason_restart_work_pin">Введите свой рабочий PIN-код, чтобы продолжить.</string>
     <string name="lockpattern_ChoiceTooShort_header">Нарисуйте как минимум %d очков, повторите попытку</string>
     <string name="lockpattern_ConfirmWrong_header">Повторить</string>
-    <string name="lockpattern_Introduction_header">Нарисуйте шаблон разблокировки, по крайней мере, %d точек</string>
-    <string name="lockpattern_NeedToConfirm_header">Нарисуйте рисунок еще раз, чтобы подтвердить</string>
+    <string name="lockpattern_Introduction_header">Нарисуйте графический ключ разблокировки, по крайней мере, %d точек</string>
+    <string name="lockpattern_NeedToConfirm_header">Нарисуйте ключ еще раз, чтобы подтвердить</string>
     <string name="lockpattern_change_lock_pattern_label">Изменить узор разблокировки</string>
     <string name="lockpattern_change_lock_pin_label">Изменить PIN-код разблокировки</string>
     <string name="lockpattern_confirm_button_text">Подтвердить</string>
     <string name="lockpattern_continue_button_text">Продолжить</string>
-    <string name="lockpattern_need_to_confirm">Нарисуйте рисунок еще раз, чтобы подтвердить</string>
-    <string name="lockpattern_need_to_unlock_wrong">Неверный рисунок</string>
+    <string name="lockpattern_need_to_confirm">Нарисуйте ключ еще раз, чтобы подтвердить</string>
+    <string name="lockpattern_need_to_unlock_wrong">Неверный ключ</string>
     <string name="lockpattern_patternInProgress_header">Отпустите палец, когда закончите</string>
     <string name="lockpattern_pattern_confirmed_header">Ваш новый узор разблокировки</string>
     <string name="lockpattern_pattern_entered_header">Образец записан</string>
@@ -1954,9 +1954,9 @@
     <string name="lockpattern_settings_power_button_instantly_locks_summary">За исключением случаев, когда разблокировано %1$s</string>
     <string name="lockpattern_settings_require_cred_before_startup">Безопасный запуск</string>
     <string name="lockpattern_settings_require_password_before_startup_summary">«Требовать пароль для запуска вашего устройства. В выключенном состоянии это устройство не может принимать вызовы, сообщения, уведомления или сигналы тревоги».</string>
-    <string name="lockpattern_settings_require_pattern_before_startup_summary">«Требовать шаблон для запуска вашего устройства. В выключенном состоянии это устройство не может принимать вызовы, сообщения, уведомления или сигналы тревоги».</string>
+    <string name="lockpattern_settings_require_pattern_before_startup_summary">«Требовать графический ключ для запуска вашего устройства. В выключенном состоянии это устройство не может принимать вызовы, сообщения, уведомления или сигналы тревоги».</string>
     <string name="lockpattern_settings_require_pin_before_startup_summary">«Требовать PIN-код для запуска вашего устройства. В выключенном состоянии это устройство не может принимать вызовы, сообщения, уведомления или сигналы тревоги».</string>
-    <string name="lockpattern_settings_title">Разблокировать шаблон</string>
+    <string name="lockpattern_settings_title">Разблокировать графический ключ</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts">Слишком много неправильных попыток.</string>
     <string name="lockpattern_tutorial_cancel_label">Отмена</string>
     <string name="lockpattern_tutorial_continue_label">Далее</string>
@@ -2003,7 +2003,7 @@ To clear music, pictures, and other user data, the SD card needs to be erased."<
     <string name="master_clear_failed">Сброс не производился, потому что служба System Clear недоступна.</string>
     <string name="master_clear_final_button_text">Удалить все</string>
     <string name="master_clear_final_desc">Удалить всю вашу личную информацию и загруженные приложения?</string>
-    <string name="master_clear_gesture_explanation">Вам нужно нарисовать шаблон разблокировки, чтобы подтвердить сброс заводских данных.</string>
+    <string name="master_clear_gesture_explanation">Вам нужно нарисовать графический ключ разблокировки, чтобы подтвердить сброс заводских данных.</string>
     <string name="master_clear_not_available">Заводской сброс недоступен для этого пользователя</string>
     <string name="master_clear_other_users_present">"
 
@@ -2475,7 +2475,7 @@ There are other users present on this device.
     <string name="pwd_mode_none_title">Нет</string>
     <string name="pwd_mode_none_title_abbr">Нет</string>
     <string name="pwd_mode_numeric_title">Пин</string>
-    <string name="pwd_mode_pattern_title">Шаблон</string>
+    <string name="pwd_mode_pattern_title">Графический ключ</string>
     <string name="pwd_only_title">Пароль</string>
     <string name="pwd_password_character_title">Показать пароль</string>
     <string name="pwd_password_setting_title">Установить пароль</string>
@@ -2624,7 +2624,9 @@ There are other users present on this device.
     <string name="roaming_reenable_title">Разрешить роуминг данных?</string>
     <string name="roaming_turn_it_on_button">Включить</string>
     <string name="roaming_warning">Вы можете нести значительные расходы.</string>
-    <string name="roaming_warning_multiuser">«Когда вы разрешаете роуминг данных, вы можете нести значительные роуминговые расходы!</string>
+    <string name="roaming_warning_multiuser">"Когда вы разрешаете роуминг данных, у вас могут возникнуть значительные роуминговые расходы!
+
+Этот параметр влияет на всех пользователей этого телефона."</string>
     <string name="rom_info_avail_no_unit">Свободно: %s</string>
     <string name="rom_info_summary_no_unit">Всего: %s</string>
     <string name="rom_memory_number">Внутренняя память</string>
@@ -2634,7 +2636,7 @@ There are other users present on this device.
     <string name="running_processes_header_cached_prefix">Сохраненная копия</string>
     <string name="running_processes_header_footer">Использование ОЗУ приложения</string>
     <string name="running_processes_header_free_prefix">Бесплатно</string>
-    <string name="running_processes_header_ram">%1$с ОЗУ</string>
+    <string name="running_processes_header_ram">%1$s ОЗУ</string>
     <string name="running_processes_header_system_prefix">Система</string>
     <string name="running_processes_header_title">Память устройств</string>
     <string name="running_processes_header_used_prefix">Используется</string>
@@ -2666,7 +2668,7 @@ There are other users present on this device.
     <string name="screen_pinning_title">Закрепить экранн</string>
     <string name="screen_pinning_unlock_none">Блокировать устройство при откреплении</string>
     <string name="screen_pinning_unlock_password">Запросить пароль перед откреплением</string>
-    <string name="screen_pinning_unlock_pattern">Попросите разблокировать шаблон до открепления</string>
+    <string name="screen_pinning_unlock_pattern">Попросите разблокировать графический ключ до открепления</string>
     <string name="screen_pinning_unlock_pin">Запросить PIN-код перед откреплением</string>
     <string name="screen_reader_category_title">Считыватели экрана</string>
     <string name="screen_timeout">Сон</string>
@@ -2748,9 +2750,9 @@ There are other users present on this device.
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Имя</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">ОК</string>
     <string name="security_settings_fingerprint_enroll_disclaimer">В дополнение к разблокировке телефона вы также можете использовать свой отпечаток для авторизации покупок и доступа к приложениям. <annotation id="url">Learn more</annotation></string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" The screen lock option is disabled. To learn more, contact your organization's admin. "<annotation id="admin_details">More details</annotation>"
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" Опция блокировки экрана отключена. Чтобы узнать больше, обратитесь к администратору вашей организации. "<annotation id="admin_details">Подробнее</annotation>"
 
-You can still use your fingerprint to authorize purchases and app access. "<annotation id="url">Подробнее</annotation></string>
+Вы все еще можете использовать свой отпечаток пальца для авторизации покупок и доступа к приложениям. "<annotation id="url">Узнать больше</annotation></string>
     <string name="security_settings_fingerprint_enroll_done">Готово</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">Зачисление не было завершено</string>
     <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">«Зачисление отпечатков пальцев не помогло. Попробуйте еще раз или используйте другой палец».</string>
@@ -2797,7 +2799,7 @@ You can still use your fingerprint to authorize purchases and app access. "<anno
     <string name="service_manage">Настройки</string>
     <string name="service_manage_description">%1$s: используется в настоящее время.</string>
     <string name="service_restarting">Перезапуск</string>
-    <string name="service_started_by_app">Начинается приложением.</string>
+    <string name="service_started_by_app">Запускается приложением.</string>
     <string name="service_stop">Стоп</string>
     <string name="service_stop_description">Этот сервис был запущен этим приложением.</string>
     <string name="services_subtitle">Сервисы</string>
@@ -2843,7 +2845,7 @@ You can still use your fingerprint to authorize purchases and app access. "<anno
     <string name="shenqi_serve_number">400-8828-228</string>
     <string name="short_summary_font_size">Сделать текст больше или меньше</string>
     <string name="show_all_apps">Показать все приложения</string>
-    <string name="show_background_processes">Показывать кешированные процессы</string>
+    <string name="show_background_processes">Кешированные процессы</string>
     <string name="show_dev_already">Нет необходимости, вы уже разработчик.</string>
     <string name="show_dev_on">Вы теперь разработчик!</string>
     <string name="show_ime">Показать виртуальную клавиатуру</string>
@@ -2853,7 +2855,7 @@ You can still use your fingerprint to authorize purchases and app access. "<anno
     <string name="show_password">Показывать пароли</string>
     <string name="show_password_summary">Показывать символы кратковременно по мере ввода</string>
     <string name="show_profile_info_on_lockscreen_label">Показать информацию о профиле блокировки</string>
-    <string name="show_running_services">Показывать запущенные сервисы</string>
+    <string name="show_running_services">Запущенные сервисы</string>
     <string name="show_silently_summary">«Не делайте звук, вибрируйте или не заглядывайте в эти уведомления в текущий экран».</string>
     <string name="signature_access">Специальный доступ</string>
     <string name="sim_bad_pin">Неправильный PIN-код</string>
@@ -3250,10 +3252,10 @@ Consider using a faster ^1 for better performance."</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint">«Функции защиты устройства не будут работать без вашего пароля.</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">«Функции защиты профиля не будут работать без вашего пароля. Ваши сохраненные отпечатки пальцев также будут удалены с этого устройства, и вы не сможете разблокировать свой телефон, разрешить покупки или войти в приложения с ними ».</string>
     <string name="unlock_disable_frp_warning_content_password_profile">Функции защиты профиля не будут работать без вашего пароля.</string>
-    <string name="unlock_disable_frp_warning_content_pattern">Функции защиты устройства не будут работать без вашего шаблона.</string>
+    <string name="unlock_disable_frp_warning_content_pattern">Функции защиты устройства не будут работать без вашего рисунка.</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint">«Функции защиты устройства не будут работать без вашего ключа Ваши сохраненные отпечатки пальцев также будут удалены с этого устройства, и вы не сможете разблокировать свой телефон, разрешить покупки или войти в приложения с ними ».</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">«Функции защиты профиля не будут работать без вашего шаблона. Ваши сохраненные отпечатки пальцев также будут удалены с этого устройства, и вы не сможете разблокировать свой телефон, разрешить покупки или войти в приложения с ними ».</string>
-    <string name="unlock_disable_frp_warning_content_pattern_profile">Функции защиты профиля не будут работать без вашего шаблона.</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">«Функции защиты профиля не будут работать без вашего рисунка. Ваши сохраненные отпечатки пальцев также будут удалены с этого устройства, и вы не сможете разблокировать свой телефон, разрешить покупки или войти в приложения с ними ».</string>
+    <string name="unlock_disable_frp_warning_content_pattern_profile">Функции защиты профиля не будут работать без вашего рисунка.</string>
     <string name="unlock_disable_frp_warning_content_pin">Функции защиты устройства не будут работать без вашего ПИН-кода.</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint">«Функции защиты устройства не будут работать без вашего ПИН-кода.</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">«Функции защиты профиля не будут работать без вашего ПИН-кода. Ваши сохраненные отпечатки пальцев также будут удалены с этого устройства, и вы не сможете разблокировать свой телефон, разрешить покупки или войти в приложения с ними ».</string>
@@ -3268,7 +3270,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="unlock_disable_lock_title">Отключить блокировку экрана</string>
     <string name="unlock_set_do_later_title">Не сейчас</string>
     <string name="unlock_set_unlock_disabled_summary">Отключено администратором, политикой шифрования или хранилищем учетных данных</string>
-    <string name="unlock_set_unlock_launch_picker_change_summary">Изменение или отключение шаблона, PIN-кода или пароля</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Изменение или отключение рисунка, PIN-кода или пароля</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Заменить экран блокировки</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Выберите способ блокировки экрана</string>
     <string name="unlock_set_unlock_launch_picker_summary_lock_after_timeout">%1$s / %2$s после сна</string>
@@ -3278,7 +3280,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="unlock_set_unlock_mode_none">красть</string>
     <string name="unlock_set_unlock_mode_off">Нет</string>
     <string name="unlock_set_unlock_mode_password">Пароль</string>
-    <string name="unlock_set_unlock_mode_pattern">Шаблон</string>
+    <string name="unlock_set_unlock_mode_pattern">Графический ключ</string>
     <string name="unlock_set_unlock_mode_pin">Пин</string>
     <string name="unlock_set_unlock_none_summary">Нет безопасности</string>
     <string name="unlock_set_unlock_none_title">красть</string>
@@ -3287,7 +3289,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="unlock_set_unlock_password_summary">Высокая безопасность</string>
     <string name="unlock_set_unlock_password_title">Пароль</string>
     <string name="unlock_set_unlock_pattern_summary">Средняя безопасность</string>
-    <string name="unlock_set_unlock_pattern_title">Шаблон</string>
+    <string name="unlock_set_unlock_pattern_title">Графический ключ</string>
     <string name="unlock_set_unlock_pin_summary">Среднесложная и высокая безопасность</string>
     <string name="unlock_set_unlock_pin_title">Ключ</string>
     <string name="unlock_setup_wizard_fingerprint_details">После того, как вы установили блокировку экрана, вы также можете настроить свой отпечаток в настройках> Безопасность.</string>
@@ -3489,7 +3491,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="utouch_toast_category">Настройка выполняется, когда телефон разблокирован</string>
     <string name="utouch_unuse">Нет</string>
     <string name="version_dev">DEV</string>
-    <string name="version_st">DAY_20_RU</string>
+    <string name="version_st">ST</string>
     <string name="version_text">версия %1$s</string>
     <string name="vibrate_in_silent_title">Вибрировать при бесшумном</string>
     <string name="vibrate_input_devices">Использовать вибратор</string>

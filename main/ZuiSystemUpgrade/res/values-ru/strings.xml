@@ -129,7 +129,7 @@
     <string name="shenqi_serve_call">Call Service</string>
     <string name="shenqi_serve_cancel">Отмена</string>
     <string name="shenqi_serve_number">Can NOT update your system, please contact ZUK customer service. Customer service：400–8828–228</string>
-    <string name="st_version">DAY_20_RU</string>
+    <string name="st_version">ST</string>
     <string name="status_checkmd5">Package integration verifying...</string>
     <string name="text_set_later">Позже</string>
     <string name="text_set_wifi">Настройка WLAN</string>
