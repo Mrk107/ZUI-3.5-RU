@@ -1,20 +1,170 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="empty_subject_strings">
-        <item>без темы</item>
-        <item>без темы</item>
+        <item>нет темы</item>
+        <item>нет темы</item>
     </string-array>
     <string-array name="notification_reply_choices">
-        <item>Да</item>
-        <item>Нет</item>
+        <item>да</item>
+        <item>нет</item>
         <item>ОК</item>
-        <item>Ха-ха</item>
-        <item>Спасибо!</item>
-        <item>Хорошо</item>
-        <item>Отлично</item>
-        <item>Скоро буду</item>
-        <item>ОК, отвечу позже</item>
+        <item>хе-хе</item>
+        <item>благодаря</item>
+        <item>согласен</item>
+        <item>Красиво</item>
+        <item>Уже в пути</item>
+        <item>Хорошо, позвольте мне вернуться к вам позже</item>
         <item>:)</item>
         <item>:(</item>
+    </string-array>
+    <string-array name="datePickerXMonth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="antispam_autoclean_period">
+        <item>7 дней</item>
+        <item>30 дней</item>
+    </string-array>
+    <string-array name="classifies">
+        <item>Рекламное продвижение</item>
+        <item>Предполагаемое мошенничество</item>
+        <item>Призывы к преследованиям</item>
+        <item>Агентство недвижимости</item>
+        <item>Экспресс-сервис</item>
+    </string-array>
+    <string-array name="conversation_list_addto_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Перейти к уведомлениям</item>
+        <item>Добавить в черный список</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="conversation_list_iscontact_and_addto_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Добавить в черный список</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="conversation_list_iscontact_and_removefrom_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Удалить из черного списка</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="conversation_list_isgroup_float_menu">
+        <item>Удалить</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="conversation_list_removefrom_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Перейти к уведомлению</item>
+        <item>Удалить из черного списка</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="conversation_list_unread_and_addto_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Прочитано</item>
+        <item>Перейти к уведомлению</item>
+        <item>Добавить в черный список</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="conversation_list_unread_and_iscontact_and_addto_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Прочитано</item>
+        <item>Добавить в черный список</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="conversation_list_unread_and_iscontact_and_removefrom_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Прочитано</item>
+        <item>Удалить из черного списка</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="conversation_list_unread_and_isgroup_float_menu">
+        <item>Удалить</item>
+        <item>Прочитано</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="conversation_list_unread_and_removefrom_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Прочитано</item>
+        <item>Перейти к уведомлению</item>
+        <item>Удалить из черного списка</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="noti_conversation_list_addto_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Выйти из уведомлений</item>
+        <item>Добавить в черный список</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="noti_conversation_list_removefrom_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Выйти из уведомлений</item>
+        <item>Удалить из черного списка</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="noti_conversation_list_unread_and_addto_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Прочитано</item>
+        <item>Выйти из уведомлений</item>
+        <item>Добавить в черный список</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="noti_conversation_list_unread_and_removefrom_blacklist_float_menu">
+        <item>Удалить</item>
+        <item>Прочитано</item>
+        <item>Выйти из уведомлений</item>
+        <item>Удалить из черного списка</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="anti_spam_call_float_dialog">
+        <item>@string/delete</item>
+        <item>@string/menu_bar_more</item>
+    </string-array>
+    <string-array name="anti_spam_mms_float_dialog">
+        <item>@string/delete</item>
+        <item>@string/antispam_restore</item>
+        <item>@string/menu_bar_more</item>
+    </string-array>
+    <string-array name="compose_message_float_dialog">
+        <item>@string/xpopup_menu_forward</item>
+        <item>@string/xpopup_menu_copy_text</item>
+        <item>@string/xpopup_menu_delete</item>
+        <item>@string/xgroup_contact_title</item>
+        <item>@string/menu_bar_more</item>
+    </string-array>
+    <string-array name="conversation_list_unread_and_iscontact_float_menu">
+        <item>Удалить</item>
+        <item>Прочитано</item>
+        <item>Добавить в черный список</item>
+        <item>Больше</item>
+    </string-array>
+    <string-array name="sim_manager_float_dialog">
+        <item>@string/delete</item>
+        <item>@string/xpopup_menu_forward</item>
+        <item>@string/simmessage_tabcopy</item>
+        <item>@string/menu_bar_more</item>
+    </string-array>
+    <string-array name="ted_sp_type">
+        <item>Китайский мобильный</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
     </string-array>
 </resources>

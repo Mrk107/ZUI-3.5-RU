@@ -164,7 +164,7 @@
     <string name="close_anyway">Остаются закрытыми</string>
     <string name="cm">см</string>
     <string name="com_lenovo_lsf_notification">Учетная запись ZUK, напоминание о настройке пароля</string>
-    <string name="com_lenovo_lsf_notification_msg">初始密码未修改，建议立即修改</string>
+    <string name="com_lenovo_lsf_notification_msg">Исходный пароль не был изменен, и его рекомендуется немедленно изменить</string>
     <string name="common_google_play_services_enable_button">OK</string>
     <string name="common_google_play_services_enable_text">%1$s не будет работать, если вы не включите службы Google Play ».</string>
     <string name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -199,7 +199,7 @@
     <string name="cta_dialog_location_context">Отслеживание пройденного расстояния</string>
     <string name="cta_dialog_negatice_btn">Выход</string>
     <string name="cta_dialog_network">Доступ к мобильной сети</string>
-    <string name="cta_dialog_network_context">Exercise data‘s upload and download need internet</string>
+    <string name="cta_dialog_network_context">Для загрузки ваших упражнений нужен интернет</string>
     <string name="cta_dialog_positive_btn">OK</string>
     <string name="cta_dialog_sms">Отправка SMS</string>
     <string name="cta_dialog_sms_context">Восстановление пароля</string>
@@ -500,7 +500,7 @@
     <string name="lock_screen_heart_detecting">Измерение...</string>
     <string name="lock_screen_hr_time_out">Таймаут</string>
     <string name="lock_screen_jabra">От гарнитуры Jabra Pulse</string>
-    <string name="lock_screen_note">"Sport distance is too short, the record can't be saved."</string>
+    <string name="lock_screen_note">"Спортивное расстояние слишком короткое, запись не может быть сохранена."</string>
     <string name="lock_screen_pause">Упражнение приостановлено</string>
     <string name="lock_screen_slide">Слайд вправо для измерения частоты пульса</string>
     <string name="lock_screen_slide_up_to_unlock">Проведите пальцем по экрану блокировки</string>
@@ -672,7 +672,7 @@
     <string name="share_save_succeed">Сохранено в альбом</string>
     <string name="share_saving">В процессе.</string>
     <string name="shen_qi_copyright">Copyright © 2016 Shen Qi все права защищены</string>
-    <string name="sleep_notification_content_text">在%1$s入睡,保证%2$s睡眠时长</string>
+    <string name="sleep_notification_content_text">в %1$s Засыпать ,гарантия %2$s Время сна</string>
     <string name="sleep_notification_lead_text">%1$d м позже,</string>
     <string name="speed">Скорость</string>
     <string name="splash_U_agreement">условиями использования</string>

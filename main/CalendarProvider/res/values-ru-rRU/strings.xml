@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Хранилище календаря</string>
+    <string name="calendar_default_name">По умолчанию</string>
+    <string name="calendar_info">Информация о календаре</string>
+    <string name="calendar_info_error">Ошибка</string>
+    <string name="calendar_info_no_calendars">Нет календарей</string>
+    <string name="calendar_info_events">Мероприятия: %1$d</string>
+    <string name="calendar_info_events_dirty">Мероприятия: %1$d, Несохраненные: %2$d</string>
+    <string name="provider_label">Календарь</string>
+    <string name="debug_tool_delete_button">Удалить</string>
+    <string name="debug_tool_start_button">Начать</string>
+    <string name="debug_tool_message">Вы собираетесь 1) сделать копию своей базы данных календаря на карту памяти SD / USB, которая может быть прочитана любым приложением, и 2) отправить ее по электронной почте. Не забудьте удалить копию, как только вы ее скопировали с устройства или получили электронное письмо.</string>
+    <string name="debug_tool_email_sender_picker">Выберите программу для отправки файла</string>
+    <string name="debug_tool_email_subject">Календарь Db приложение</string>
+    <string name="debug_tool_email_body">Прилагается моя база данных Календаря со всеми моими назначениями и личной информацией. Обращаться осторожно.</string>
+    <item type="string" name="APKTOOL_DUMMY_e">false</item>
+</resources>

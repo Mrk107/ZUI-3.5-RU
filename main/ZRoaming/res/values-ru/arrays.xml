@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXMonth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="notice_cta_short_message_word">
+        <item>Подключаться к сети, чтобы получать служебную информацию</item>
+    </string-array>
+    <string-array name="notice_cta_short_title_word">
+        <item>Доступ к мобильной сети</item>
+    </string-array>
+    <string-array name="default_preview">
+        <item>\#ff670729</item>
+        <item>\#ff7a0c2d</item>
+        <item>\#ff96092d</item>
+        <item>\#ffa10a37</item>
+    </string-array>
+</resources>

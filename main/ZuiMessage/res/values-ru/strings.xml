@@ -646,7 +646,7 @@
     <string name="xcompose_popup_menu_view_detail">Посмотреть подробнее</string>
     <string name="xgroup_contact_title">Подробнее</string>
     <string name="xmms_cta_no">Отклонить</string>
-    <string name="xmms_cta_noreview">«Не запрашивать снова»</string>
+    <string name="xmms_cta_noreview">«Не спрашивать снова»</string>
     <string name="xmms_cta_summary">Включить функцию распознавания для неизвестных номеров, спам-телефоны и сообщения будут автоматически отклонены.</string>
     <string name="xmms_cta_title">Включить распознавание номера</string>
     <string name="xmms_cta_warning">Подсказка: для доступа к этой функции необходимы данные и информация о местоположении.</string>
