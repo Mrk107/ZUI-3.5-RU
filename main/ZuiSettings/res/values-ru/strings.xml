@@ -586,7 +586,7 @@
     <string name="app_restrictions_custom_label">Установка ограничений приложения</string>
     <string name="app_sees_restricted_accounts">Это приложение может получить доступ к вашим аккаунтам</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Это приложение может получить доступ к вашим учетным записям. Контролируется %1$s</string>
-    <string name="app_settings_link">Дополнительные настройки в приложении</string>
+    <string name="app_settings_link">Доп. настройки приложения</string>
     <string name="app_special_disable_dlg_text">Если вы отключите это приложение, Android и другие приложения могут перестать функционировать должным образом.</string>
     <string name="app_special_disable_dlg_title">Удалить данные и отключить приложение?</string>
     <string name="app_usage_preference">Настройки использования приложений</string>
@@ -987,7 +987,7 @@
     <string name="captioning_typeface">Семейство шрифтов</string>
     <string name="captioning_window_color">Цвет окна заголовка</string>
     <string name="captioning_window_opacity">Непрозрачность окна заголовка</string>
-    <string name="carrier_enabled">APN включить / отключить</string>
+    <string name="carrier_enabled">APN включить/отключить</string>
     <string name="carrier_enabled_summaryOff">APN отключен</string>
     <string name="carrier_enabled_summaryOn">APN включен</string>
     <string name="category_key_fap_settings_config">Используйте Отпечаток для</string>
@@ -1323,7 +1323,7 @@
     <string name="dialog_remove_users_title">Удалите все добавленные приложения</string>
     <string name="disable_service_message">Нажатие OK остановит %1$s.</string>
     <string name="disable_service_title">Остановить %1$s?</string>
-    <string name="disable_text">Отключено</string>
+    <string name="disable_text">Отключить</string>
     <string name="disabled_because_no_backup_security">Для использования сначала установите блокировку экрана</string>
     <string name="disabled_by_administrator_summary">Отключено администратором</string>
     <string name="disabled_by_policy_title">Действие не допускается</string>
@@ -2201,7 +2201,7 @@ There are other users present on this device.
     <string name="no_vr_listeners">Никакие установленные приложения не запрашиваются для работы в качестве вспомогательных служб VR.</string>
     <string name="not_battery_optimizing">Не использовать оптимизацию батареи</string>
     <string name="not_installed">Не установлен для этого пользователя</string>
-    <string name="notification_allow">Разрешить уведомление</string>
+    <string name="notification_allow">Показывать</string>
     <string name="notification_app_settings_button">Настройки уведомлений</string>
     <string name="notification_badge_title">Разрешить точку оповещения</string>
     <string name="notification_badges">Значки уведомлений</string>
@@ -2211,7 +2211,7 @@ There are other users present on this device.
     <string name="notification_channel_title">Категория уведомлений</string>
     <string name="notification_channels">Категории</string>
     <string name="notification_channels_other">Другие</string>
-    <string name="notification_close">Запрещено</string>
+    <string name="notification_close">Не показывать</string>
     <string name="notification_content_block_summary">Никогда не показывать уведомления в фоне или на периферийных устройствах</string>
     <string name="notification_content_block_title">Показать уведомления</string>
     <string name="notification_importance_blocked">Никогда не показывать уведомления</string>
@@ -2665,7 +2665,7 @@ There are other users present on this device.
     <string name="screen_pin_message">Включить наэкранные кнопки в настройках> U-Touch. Или не может быть включена настройка экрана.</string>
     <string name="screen_pin_ok_button">U-Touch</string>
     <string name="screen_pinning_description">"«Когда эта настройка включена, вы можете использовать привязку экрана, чтобы держать текущий экран в поле зрения до тех пор, пока вы не отмените его. Чтобы использовать привязку экрана: 1. Удостоверьтесь, что закрепление экрана включено. 2. Откройте экран, который вы хотите вывести. 3. Нажмите «Обзор». 4. Проведите пальцем вверх, а затем нажмите значок пин-кода. "</string>
-    <string name="screen_pinning_title">Закрепить экранн</string>
+    <string name="screen_pinning_title">Закрепить экран</string>
     <string name="screen_pinning_unlock_none">Блокировать устройство при откреплении</string>
     <string name="screen_pinning_unlock_password">Запросить пароль перед откреплением</string>
     <string name="screen_pinning_unlock_pattern">Попросите разблокировать графический ключ до открепления</string>
@@ -2981,7 +2981,7 @@ There are other users present on this device.
     <string name="status_signal_strength">Сила сигнала</string>
     <string name="status_tag_not_writable">Тэг NFC недоступен для записи.</string>
     <string name="status_unavailable">Недоступно</string>
-    <string name="status_up_time">Время до начала</string>
+    <string name="status_up_time">Время работы</string>
     <string name="status_wifi_mac_address">Wi-Fi MAC-адрес</string>
     <string name="status_wimax_mac_address">4G MAC-адрес</string>
     <string name="status_write_success">Успешно!</string>
@@ -3107,17 +3107,17 @@ This ^1 is formatted to work on this device only. It won’t work on any others.
     <string name="storage_wizard_move_confirm_body">"Moving ^1 and its data to ^2 will take only a few moments. You won’t be able to use the app until the move is complete. 
 
 Don’t remove the ^2 during the move."</string>
-    <string name="storage_wizard_move_confirm_title">Move ^1</string>
+    <string name="storage_wizard_move_confirm_title">Переместить ^1</string>
     <string name="storage_wizard_move_progress_body">"Don’t remove the ^1 during the move. 
 
 The ^2 app on this device won’t be available until the move is complete."</string>
-    <string name="storage_wizard_move_progress_cancel">Cancel move</string>
+    <string name="storage_wizard_move_progress_cancel">Отменить перемещение</string>
     <string name="storage_wizard_move_progress_title">Moving ^1…</string>
     <string name="storage_wizard_ready_external_body">Your ^1 is all set to use with photos and other media.</string>
     <string name="storage_wizard_ready_internal_body">"Your new ^1 is working. 
 
 To move photos, files, and app data to this device, go to Settings > Storage."</string>
-    <string name="storage_wizard_ready_title">^1 is ready</string>
+    <string name="storage_wizard_ready_title">^1 Готово</string>
     <string name="storage_wizard_slow_body">"This ^1 appears to be slow. 
 
 You can continue, but apps moved to this location may stutter and data transfers may take a long time. 
@@ -4480,7 +4480,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA / WPA2 PSK</string>
     <string name="wifi_sim_slot">Выберите SIM-карту</string>
-    <string name="wifi_sleep_policy_confirm_summary">Даже если Wi-Fi Calling включен, выбор другой опции, кроме Always, означает, что вы можете пропустить некоторые вызовы, когда экран выключен.</string>
+    <string name="wifi_sleep_policy_confirm_summary">Даже если Wi-Fi Calling включен, выбор другой опции, кроме <b>Всегда</b>, означает, что вы можете пропустить некоторые вызовы, когда экран выключен.</string>
     <string name="wifi_sleep_policy_confirm_title">Ты уверен?</string>
     <string name="wifi_state_disabled">Отключено</string>
     <string name="wifi_state_disabling">Отключение</string>
