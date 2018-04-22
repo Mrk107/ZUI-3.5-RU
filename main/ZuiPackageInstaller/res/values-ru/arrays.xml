@@ -258,4 +258,192 @@
         <item>Анимация 5x</item>
         <item>Анимация 10x</item>
     </string-array>
+    <string-array name="datePickerXMonth">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="app_permission_category">
+        <item>Связанные с оплатой</item>
+        <item>Связанные с конфиденциальностью</item>
+        <item>Связанные с мультимедиа</item>
+        <item>Связанные с настройками</item>
+    </string-array>
+    <string-array name="app_permission_operate">
+        <item>Разрешить</item>
+        <item>Запросить</item>
+        <item>Отклонить</item>
+    </string-array>
+    <string-array name="choose_mode_three_state">
+        <item>Разрешить</item>
+        <item>Запросить</item>
+        <item>Отклонить</item>
+    </string-array>
+    <string-array name="choose_mode_two_state">
+        <item>Разрешить</item>
+        <item>Отклонить</item>
+    </string-array>
+    <string-array name="custom_perms_title">
+        <item>Система управляет разрешениями</item>
+        <item>Я управляю разрешениями</item>
+        <item>Доверять %1$s</item>
+        <item>Расширенные настройки</item>
+    </string-array>
+    <string-array name="install_location_choose">
+        <item>Память телефона</item>
+        <item>SD карта</item>
+    </string-array>
+    <string-array name="messcall_permsName">
+        <item>CallandContact</item>
+        <item>SMSandMMS</item>
+    </string-array>
+    <string-array name="op_to_perms_name">
+        <item>Определение положения</item>
+        <item>Определение положения</item>
+        <item>Определение положения</item>
+        <item>Вибрация</item>
+        <item>Чтение контактов</item>
+        <item>Чтение контактов</item>
+        <item>Чтение списка звонков</item>
+        <item>Запись списка звонков</item>
+        <item>Чтение календаря</item>
+        <item>Чтение календаря</item>
+        <item>Определение положения</item>
+        <item>Отправление уведомлений</item>
+        <item>Определение положения</item>
+        <item>Осуществление звонков</item>
+        <item>Чтение SMS</item>
+        <item>Запись SMS</item>
+        <item>Получение SMS</item>
+        <item>Получение SMS</item>
+        <item>Получение MMS</item>
+        <item>Получение SMS</item>
+        <item>Отправка SMS</item>
+        <item>Чтение SMS</item>
+        <item>Чтение и удаление SMS</item>
+        <item>Изменение сист. настроек</item>
+        <item>Всплывающие окна</item>
+        <item>Чтение уведомлений</item>
+        <item>Включение камеры</item>
+        <item>Включение звукозаписи</item>
+        <item>Воспроизведение аудио</item>
+        <item>Чтение буфера обмена</item>
+        <item>Изменение буфера обмена</item>
+        <item>Кнопки мультимедиа</item>
+        <item>Аудио фокус</item>
+        <item>Мастер громкость</item>
+        <item>Громкость голоса</item>
+        <item>Громкость звонка</item>
+        <item>Громкость медиа</item>
+        <item>Громкость будильника</item>
+        <item>Громкость уведомлений</item>
+        <item>Громкость Bluetooth</item>
+        <item>Поддержание включенного состояния</item>
+        <item>Определение положения</item>
+        <item>Определение положения</item>
+        <item>Получение статистики использования</item>
+        <item>Отк./вкл. микрофона</item>
+        <item>Всплывающие окна</item>
+        <item>Медиафайлы проекта</item>
+        <item>Активирование VPN</item>
+        <item>Включение Wi-Fi</item>
+        <item>Включение Bluetooth</item>
+        <item>Отправка MMS</item>
+        <item>Чтение MMS</item>
+        <item>Чтение и удаление MMS</item>
+        <item>Автозапуск приложений</item>
+        <item>Изменение NFС</item>
+        <item>Чтение SMS</item>
+        <item>Чтение MMS</item>
+        <item>Чтение контактов</item>
+        <item>Чтение журнала вызовов</item>
+        <item>Включение моб. Интернета</item>
+        <item>Получение сведений об устройстве</item>
+        <item>Создание ярлыков на рабочем столе</item>
+        <item>Связанные с доступом</item>
+        <item>Чтение номера телефона</item>
+        <item>Изменение обоев</item>
+        <item>Изменяет структуру</item>
+        <item>Делает скриншоты</item>
+        <item>Чтение состояния телефона</item>
+        <item>Добавление голосовой почты</item>
+        <item>Использование Sip</item>
+        <item>Исходящие звонки</item>
+        <item>Использование отпечатка</item>
+        <item>Использование датчиков</item>
+        <item>Чтение моб. сетей</item>
+        <item>Макет местоположения</item>
+        <item>Чтение накопителя</item>
+        <item>Запись на накопитель</item>
+        <item>Включение экрана</item>
+        <item>Чтение данных аккаунта</item>
+    </string-array>
+    <string-array name="op_to_perms_name_zui">
+        <item>Изменение обоев</item>
+        <item>Изменяет структуру</item>
+        <item>Делает скриншоты</item>
+        <item>Чтение состояния телефона</item>
+        <item>Добавление голосовой почты</item>
+        <item>Использование Sip</item>
+        <item>Исходящие звонки</item>
+        <item>Использование отпечатка</item>
+        <item>Использование датчиков</item>
+        <item>Чтение моб. сетей</item>
+        <item>Макет местоположения</item>
+        <item>Чтение накопителя</item>
+        <item>Запись на накопитель</item>
+        <item>Включение экрана</item>
+        <item>Чтение данных аккаунта</item>
+        <item>Запуск в фоне</item>
+        <item>Доступ к уровню звука</item>
+        <item>Чтение номеров</item>
+        <item>Установка пакетов</item>
+        <item>Картинка в картинке</item>
+        <item>Запуск в фоне</item>
+        <item>Ответ на звонки</item>
+        <item>Автозапуск приложений</item>
+        <item>Включение Wi-Fi</item>
+        <item>Включение Bluetooth</item>
+        <item>Отправка MMS</item>
+        <item>Чтение MMS</item>
+        <item>Чтение и удаление MMS</item>
+        <item>Создание ярлыков</item>
+        <item>Доступ к SMS</item>
+        <item>Доступ к MMS</item>
+        <item>Доступ к контактам</item>
+        <item>Доступ к истории вызовов</item>
+        <item>Включение моб. Интернета</item>
+        <item>Доступ к галерее</item>
+        <item>Чтение NFC</item>
+    </string-array>
+    <string-array name="perms_category">
+        <item>Связанные с оплатой</item>
+        <item>Связанные с конфиденциальностью</item>
+        <item>Связанные с мультимедиа</item>
+        <item>Связанные с настройками</item>
+    </string-array>
+    <string-array name="perms_mode">
+        <item>Разрешить</item>
+        <item>Отклонить</item>
+        <item>Запросить</item>
+        <item>Неизвестно</item>
+    </string-array>
 </resources>

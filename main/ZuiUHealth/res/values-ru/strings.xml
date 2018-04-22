@@ -443,7 +443,7 @@
     <string name="hr_sports_per_80_90">Анаэробные упражнения в вашем тренировочном диапазоне .</string>
     <string name="hr_sports_per_less_50">Частота пульса не достигла нужного значения.</string>
     <string name="hr_sports_per_more_90">Частота пульса в пределах объема подготовки для повышенных анаэробных упражнений.</string>
-    <string name="hr_unit">per / Minute</string>
+    <string name="hr_unit">ударов в минуту</string>
     <string name="hrmax">Наибольшая частота пульса</string>
     <string name="hypotension_explain">У вашего может быть низкое кровяное давление. Примите больше упражнений, установите хорошие привычки и проконсультируйтесь со своим врачом как можно скорее.</string>
     <string name="image_transmission_failure">Содержимое изображения возвращается пустым</string>

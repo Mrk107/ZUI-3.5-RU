@@ -523,7 +523,7 @@
     <string name="menu_show_system">Показать системные</string>
     <string name="message_staging">Staging app…</string>
     <string name="multi_mode_value">%1$s разрешено, %2$s игнорируются, %3$s спраштвать</string>
-    <string name="never_ask_again">Никогда не спрашивайте</string>
+    <string name="never_ask_again">Больше не спрашивать </string>
     <string name="never_used">Не использовались</string>
     <string name="newPerms">Новое</string>
     <string name="new_permissions_category">Новые разрешения</string>
@@ -555,7 +555,7 @@
     <string name="permission_suggest">Предложение разрешений</string>
     <string name="permission_title">%1$s разрешения</string>
     <string name="permission_warning_template">Разрешить %1$s %2$s?</string>
-    <string name="permission_warning_template2">%1$s пытается&lt;/b>%2$s</string>
+    <string name="permission_warning_template2">%1$s запрашивает &lt;/b>%2$s</string>
     <string name="perms_alert_title">%1$s разрешение(й)</string>
     <string name="perms_denied">Запретить это разрешение, приложение будет недоступно</string>
     <string name="perms_new_request">Новые разрешения</string>
