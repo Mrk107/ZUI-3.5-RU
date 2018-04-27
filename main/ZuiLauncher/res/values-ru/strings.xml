@@ -1007,7 +1007,7 @@ Please make network connected."</string>
     <string name="custom_pay_install_ok">ok</string>
     <string name="custom_star_apps_btn">Обновить</string>
     <string name="custom_star_apps_ending">Текущие приложения установлены, вернитесь позже</string>
-    <string name="custom_star_apps_title">Популярные приложения</string>
+    <string name="custom_star_apps_title">Приложения</string>
     <string name="download_dummy_no_connection">Не удалось подключиться к сети, повторите попытку.</string>
     <string name="download_mobile_dialog_msg">В настоящее время используется мобильное соединение, при продолжении будет расходоваться моб. трафик</string>
     <string name="download_mobile_dialog_title">Предупреждение</string>
@@ -1028,7 +1028,7 @@ Please make network connected."</string>
     <string name="managecards_scene_category">Сценарии</string>
     <string name="new_date_format_pattern">MMM dd</string>
     <string name="new_leftscreen_card_count">%s доступно</string>
-    <string name="new_leftscreen_contact_title">Избранные контакты</string>
+    <string name="new_leftscreen_contact_title">Контакты</string>
     <string name="new_leftscreen_default_account" />
     <string name="new_leftscreen_edit_text">Ред.</string>
     <string name="new_leftscreen_event_countdown_hour">через %s ч.</string>
@@ -1037,7 +1037,7 @@ Please make network connected."</string>
     <string name="new_leftscreen_event_countdown_tomorrow">Завтра</string>
     <string name="new_leftscreen_event_footer">и другие %s событие(ий)</string>
     <string name="new_leftscreen_event_time_format_12">yyyy-MM-dd hh:mm aa</string>
-    <string name="new_leftscreen_event_title">Ближайшие события</string>
+    <string name="new_leftscreen_event_title">События</string>
     <string name="new_leftscreen_expandable_btn_collapse">Свернуть</string>
     <string name="new_leftscreen_expandable_btn_expand">Развернуть</string>
     <string name="new_leftscreen_greetings_afternoon">Добрый день %s</string>
@@ -1055,7 +1055,7 @@ Please make network connected."</string>
     <string name="new_leftscreen_healthy_empty">Войдите в U-Health, чтобы узнать количество шагов и измерить сердечный ритм</string>
     <string name="new_leftscreen_healthy_login">Войти</string>
     <string name="new_leftscreen_healthy_step">/%s шаг(ов)</string>
-    <string name="new_leftscreen_healthy_title">Активность за сегодня</string>
+    <string name="new_leftscreen_healthy_title">Активность</string>
     <string name="new_leftscreen_manage_cards_label">Управление картами</string>
     <string name="new_leftscreen_no_contact">Нет контактов</string>
     <string name="new_leftscreen_no_contact_msg">Нажмите для добавления контактов</string>

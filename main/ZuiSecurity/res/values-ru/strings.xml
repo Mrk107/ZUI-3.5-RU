@@ -340,7 +340,7 @@
     <string name="high_consumption_warning_title">Abnormal Power Consumption Notification</string>
     <string name="lesafe_cancel">Отмена</string>
     <string name="lesafe_hour_ago">%1$s час. назад</string>
-    <string name="lesafe_just">Просто</string>
+    <string name="lesafe_just">Сейчас</string>
     <string name="lesafe_loading">Загрузка...</string>
     <string name="lesafe_minute_ago">%1$s мин. назад</string>
     <string name="lesafe_no_longer_remind">Не запрашивать</string>
@@ -366,7 +366,7 @@
     <string name="mainui_deep_clean">Глубокая очистка</string>
     <string name="mainui_diskspace">Занято пространства</string>
     <string name="mainui_hours_ago">ч назад</string>
-    <string name="mainui_just">Просто</string>
+    <string name="mainui_just">Сейчас</string>
     <string name="mainui_log_accelerate">Закрыто %1$d приложений, время ожидания %1$d мин.</string>
     <string name="mainui_low_nocard">Нет SIM</string>
     <string name="mainui_low_notset">Не задано</string>

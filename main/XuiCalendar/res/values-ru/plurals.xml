@@ -37,31 +37,31 @@
         <item quantity="one">Еженедельно по будням</item>
     </plurals>
     <plurals name="recurrence_interval_weekend">
-        <item quantity="other">Каждую %d неделю в выходные(Sat, Sun)</item>
+        <item quantity="other">Каждую %d неделю в выходные(Сб,Вс)</item>
         <item quantity="one">Еженедельно в выходные</item>
     </plurals>
     <plurals name="recurrence_interval_yearly">
-        <item quantity="other">Каждый %d лет</item>
+        <item quantity="other">Каждые %d лет :</item>
         <item quantity="one">Каждый %d год</item>
     </plurals>
     <plurals name="repeat_day_tips">
-        <item quantity="other">Every %1$d days happen</item>
-        <item quantity="one">Every %1$d day happen</item>
+        <item quantity="other"> </item>
+        <item quantity="one"> </item>
     </plurals>
     <plurals name="repeat_month_tips">
-        <item quantity="other">Every %1$d months %2$s happen</item>
-        <item quantity="one">Every %1$d month %2$s happen</item>
+        <item quantity="other"> </item>
+        <item quantity="one"> </item>
     </plurals>
     <plurals name="repeat_month_tips2">
-        <item quantity="other">Every %1$d months %2$s %3$s happen</item>
-        <item quantity="one">Every %1$d month %2$s %3$s happen</item>
+        <item quantity="other"> </item>
+        <item quantity="one"> </item>
     </plurals>
     <plurals name="repeat_perday_num">
         <item quantity="other">%1$d дней</item>
         <item quantity="one">%1$d день</item>
     </plurals>
     <plurals name="repeat_permonth_num">
-        <item quantity="other">%1$d months</item>
+        <item quantity="other">%1$d месяца</item>
         <item quantity="one">%1$d месяц</item>
     </plurals>
     <plurals name="repeat_perweek_num">
@@ -73,12 +73,12 @@
         <item quantity="one">%1$d года</item>
     </plurals>
     <plurals name="repeat_week_tips">
-        <item quantity="other">Every %1$d weeks %2$s happen</item>
-        <item quantity="one">Every %1$d week %2$s happen</item>
+        <item quantity="other"> </item>
+        <item quantity="one"> </item>
     </plurals>
     <plurals name="repeat_year_tips">
-        <item quantity="other">Every %1$d years %2$s happen</item>
-        <item quantity="one">Every %1$d year %2$s happen</item>
+        <item quantity="other"> </item>
+        <item quantity="one"> </item>
     </plurals>
     <plurals name="weekly">
         <item quantity="other">Каждые %1$d недели в %2$s</item>

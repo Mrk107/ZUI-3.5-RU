@@ -407,7 +407,7 @@
 «Поднимите палец, чтобы уменьшить масштаб»
 
 Вы не можете увеличить масштаб клавиатуры и навигационной панели. "</string>
-    <string name="accessibility_screen_magnification_title">Увеличить экрна</string>
+    <string name="accessibility_screen_magnification_title">Увеличить экран</string>
     <string name="accessibility_service_default_description">Нет описания.</string>
     <string name="accessibility_settings">Специальные возможности</string>
     <string name="accessibility_settings_summary">Считыватели экрана, Дисплей, Элементы управления взаимодействием</string>

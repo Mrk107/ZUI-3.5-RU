@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_picker_dialog_x_title">%4$s, %2$s %3$s, %1$s</string>
+    <string name="listview_x_title_items_selected">%1$s элементов</string>
+    <string name="listview_x_title_no_item_selected">Выбрать</string>
+    <string name="listview_x_title_one_item_selected">1 элемент</string>
+    <string name="listview_x_title_select_all">Выбрать все</string>
+    <string name="listview_x_title_unselect_all">Отм. все</string>
+    <string name="message_dialog_paired_message_separator">:</string>
+    <string name="reboot_progress">Перезагрузка</string>
+    <string name="time_picker_dialog_x_am">AM</string>
+    <string name="time_picker_dialog_x_complete">ОК</string>
+    <string name="time_picker_dialog_x_midnight">полночь</string>
+    <string name="time_picker_dialog_x_noon">полдень</string>
+    <string name="time_picker_dialog_x_pm">PM</string>
+    <string name="time_picker_dialog_x_title">%1$s:%2$s %3$s</string>
+    <string name="listview_x_title_main">%1$s элементов выбрано</string>
+    <string name="app_name">XuiResolver</string>
+    <string name="cancel">Отмена</string>
+    <string name="activity_resolver_use_always">Всегда</string>
+    <string name="activity_resolver_use_once">Только сейчас</string>
+    <string name="noApplications">Нет приложений для выполнения этого действия.</string>
+    <string name="toast_message_file_not_exist">Файл не существует!</string>
+    <string name="multispace">Клонирование</string>
+    <string name="change">Выбрать</string>
+    <string name="choose_file_open_type">Выберите тип файла</string>
+    <string name="text_content_use_always">Всегда</string>
+    <string name="chooser_display_all">Все</string>
+    <string name="resolver_type_text">Текст</string>
+    <string name="resolver_type_audio">Аудио</string>
+    <string name="resolver_type_video">Видео</string>
+    <string name="resolver_type_image">Картинки</string>
+    <string name="resolver_type_other">Другой</string>
+</resources>

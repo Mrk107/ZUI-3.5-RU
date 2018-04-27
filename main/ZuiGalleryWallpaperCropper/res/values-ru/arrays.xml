@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXMonth">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="set_wallpaper_items">
+        <item>На экран блокировки</item>
+        <item>На рабочий стол</item>
+        <item>На рабочий стол и экран блокировки</item>
+        <item>Отмена</item>
+    </string-array>
+</resources>

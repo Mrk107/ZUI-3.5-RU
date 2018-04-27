@@ -162,4 +162,8 @@
         <item quantity="few">Отправить мероприятия по календарю</item>
         <item quantity="many">Отправить мероприятия по календарю</item>
     </plurals>
+    <plurals name="few_minutes_before">
+        <item quantity="other">%1$s мин. назад</item>
+        <item quantity="one">%1$s мин. назад</item>
+    </plurals>
 </resources>

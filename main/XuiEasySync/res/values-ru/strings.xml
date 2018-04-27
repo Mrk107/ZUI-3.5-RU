@@ -322,8 +322,8 @@
     <string name="stop_backup">Остановить бэкап</string>
     <string name="stop_restore">Остановить восстановление</string>
     <string name="sunday">Воскресенье</string>
-    <string name="switch_enable">Открыть</string>
-    <string name="switch_unable">Закрыть</string>
+    <string name="switch_enable">Вкл.</string>
+    <string name="switch_unable">Откл.</string>
     <string name="switch_unopened">Не открывали</string>
     <string name="thursday">Четверг</string>
     <string name="tips_backup_app">Идет бэкап приложений…</string>
