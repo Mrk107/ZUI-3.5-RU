@@ -395,22 +395,21 @@
     <string name="accessibility_screen_magnification_gestures_title">Увеличить с тройным нажатием</string>
     <string name="accessibility_screen_magnification_navbar_configuration_warning">Кнопка «Доступность» установлена ​​в %1$s.</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">Нажмите кнопку для увеличения</string>
-    <string name="accessibility_screen_magnification_navbar_summary">"«Когда включено увеличение, используйте кнопку« Доступность »в нижней части экрана для быстрого увеличения. «Чтобы увеличить», нажмите кнопку «Доступность», а затем нажмите в любом месте экрана.  Перетащите 2 или более пальцев для прокрутки «Зажмите 2 или более пальцев для регулировки масштаба» «Чтобы временно масштабировать», нажмите кнопку «Доступность», затем нажмите и удерживайте в любом месте экрана.  Перетаскивание для перемещения по экрану «Поднимите палец, чтобы уменьшить масштаб» Вы не можете увеличивать масштаб клавиатуры или панели навигации. "</string>
+    <string name="accessibility_screen_magnification_navbar_summary">"«Когда включено увеличение, используйте кнопку «Доступность» в нижней части экрана для быстрого увеличения. «Чтобы увеличить», нажмите кнопку «Доступность», а затем нажмите в любом месте экрана.  Перетащите 2 или более пальцев для прокрутки «Зажмите 2 или более пальцев для регулировки масштаба» «Чтобы временно масштабировать», нажмите кнопку «Доступность», затем нажмите и удерживайте в любом месте экрана.  Перетаскивание для перемещения по экрану «Поднимите палец, чтобы уменьшить масштаб» Вы не можете увеличивать масштаб клавиатуры или панели навигации. "</string>
     <string name="accessibility_screen_magnification_navbar_title">Увеличить с помощью кнопки</string>
     <string name="accessibility_screen_magnification_short_summary">Нажмите 3 раза, чтобы увеличить</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Увеличить с кнопкой и тройным нажатием</string>
-    <string name="accessibility_screen_magnification_summary">"Чтобы увеличить масштаб , быстро нажмите экран 3 раза.
+    <string name="accessibility_screen_magnification_summary">"Чтобы увеличить масштаб , быстро нажмите на экран 3 раза.
 
 
-«Чтобы временно увеличить масштаб», быстро нажмите экран 3 раза и удерживайте палец на третьем касании.
- Перетаскивание для перемещения по экрану
-«Поднимите палец, чтобы уменьшить масштаб»
-
-Вы не можете увеличить масштаб клавиатуры и навигационной панели. "</string>
+- Чтобы временно увеличить масштаб, быстро нажмите на экран 3 раза и удерживайте палец на третьем касании.
+- Перетаскивайте палец для перемещения по экрану.
+- Поднимите палец, чтобы уменьшить масштаб.
+- Вы не можете увеличить масштаб клавиатуры и навигационной панели.</string>
     <string name="accessibility_screen_magnification_title">Увеличить экран</string>
     <string name="accessibility_service_default_description">Нет описания.</string>
     <string name="accessibility_settings">Специальные возможности</string>
-    <string name="accessibility_settings_summary">Считыватели экрана, Дисплей, Элементы управления взаимодействием</string>
+    <string name="accessibility_settings_summary">Дисплей, Элементы управления</string>
     <string name="accessibility_settings_title">Настройки специальных возможностей</string>
     <string name="accessibility_shortcut_description">Когда ярлык включен, вы можете нажать обе кнопки громкости в течение 3 секунд, чтобы запустить функцию доступности.</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Разрешить с экрана блокировки</string>
@@ -528,7 +527,7 @@
     <string name="apn_settings">APNs</string>
     <string name="apn_type">Тип APN</string>
     <string name="apn_user">Имя пользователя</string>
-    <string name="app_and_notification_dashboard_summary">Менеджер приложений, Разрешения, Приложения по умолчанию</string>
+    <string name="app_and_notification_dashboard_summary">Разрешения, Приложения по умолчанию</string>
     <string name="app_and_notification_dashboard_title">Приложения и уведомления</string>
     <string name="app_data_usage">Использование данных приложения</string>
     <string name="app_default_dashboard_title">Приложения по умолчанию</string>
@@ -1005,7 +1004,7 @@
     <string name="change">Изменить</string>
     <string name="change_storage">Изменить хранилище</string>
     <string name="channel_notifications_off_desc">Android блокирует появление этой категории уведомлений на этом устройстве</string>
-    <string name="charging_sounds_title">Звук беспроводной зарядки</string>
+    <string name="charging_sounds_title">Звук вкл/откл зарядки</string>
     <string name="checkbox_notification_same_as_incoming_call">Использовать громкость входящих звонков для уведомлений</string>
     <string name="checking_decryption">Проверка ...</string>
     <string name="choose_fp_alternative_password">Установите пароль в случае, если отпечаток не может использовать</string>
@@ -1314,8 +1313,8 @@
     <string name="device_status_activity_title">Состояние</string>
     <string name="device_status_summary">Номер телефона, сигнал и т. Д.</string>
     <string name="device_theme">Тема устройства</string>
-    <string name="device_usage_list_summary">Использование устройства с полной зарядкой</string>
-    <string name="dial_pad_tones_title">Настраиваемые тональные сигналы</string>
+    <string name="device_usage_list_summary">Использование устройства с полной зарядки</string>
+    <string name="dial_pad_tones_title">Звук при наборе номера</string>
     <string name="dialog_app_title">Добавлен список приложений</string>
     <string name="dialog_bt_cancel">Отмена</string>
     <string name="dialog_bt_ok">Ок</string>
@@ -1832,7 +1831,7 @@
     <string name="location_network_based">Местоположение Wi-Fi и мобильной сети</string>
     <string name="location_no_recent_apps">Недавно приложения не запрашивали местоположение</string>
     <string name="location_off_summary">ВЫКЛ</string>
-    <string name="location_on_summary">ON /%1$s</string>
+    <string name="location_on_summary">ВКЛ /%1$s</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Улучшите местоположение, позволяя системным приложениям и службам обнаруживать устройства Bluetooth в любое время.</string>
     <string name="location_scanning_bluetooth_always_scanning_title">Сканирование Bluetooth</string>
     <string name="location_scanning_screen_title">сканирование</string>
@@ -1945,12 +1944,12 @@
     <string name="lockpattern_settings_change_lock_pattern">Изменить узор разблокировки</string>
     <string name="lockpattern_settings_choose_lock_pattern">Установить узор разблокировки</string>
     <string name="lockpattern_settings_enable_power_button_instantly_locks">Кнопка питания мгновенно блокирует</string>
-    <string name="lockpattern_settings_enable_summary">Необходимо нарисовать узор, чтобы разблокировать экран</string>
-    <string name="lockpattern_settings_enable_tactile_feedback_title">Вибрация на кране</string>
-    <string name="lockpattern_settings_enable_title">Требовать узор</string>
-    <string name="lockpattern_settings_enable_visible_pattern_title">Сделать узор видимым</string>
+    <string name="lockpattern_settings_enable_summary">Необходимо нарисовать графический ключ, чтобы разблокировать экран</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Вибрация кнопок</string>
+    <string name="lockpattern_settings_enable_title">Требовать графический ключ</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Сделать графический ключ видимым</string>
     <string name="lockpattern_settings_enable_visible_pattern_title_profile">Сделать профиль профилем видимым</string>
-    <string name="lockpattern_settings_help_how_to_record">Как нарисовать узор разблокировки</string>
+    <string name="lockpattern_settings_help_how_to_record">Как нарисовать графический ключ разблокировки</string>
     <string name="lockpattern_settings_power_button_instantly_locks_summary">За исключением случаев, когда разблокировано %1$s</string>
     <string name="lockpattern_settings_require_cred_before_startup">Безопасный запуск</string>
     <string name="lockpattern_settings_require_password_before_startup_summary">«Требовать пароль для запуска вашего устройства. В выключенном состоянии это устройство не может принимать вызовы, сообщения, уведомления или сигналы тревоги».</string>
@@ -2020,7 +2019,7 @@ There are other users present on this device.
     <string name="master_dialog_execute">Сброс данных</string>
     <string name="master_dialog_title">Сброс данных</string>
     <string name="maximum_memory_use">Максимальное использование памяти</string>
-    <string name="media_volume_option_title">Музыка, видео, игра и другие средства массовой информации</string>
+    <string name="media_volume_option_title">Музыка, видео, игры и другое</string>
     <string name="media_volume_summary">Установите громкость для музыки и видео</string>
     <string name="media_volume_title">СМИ</string>
     <string name="mem_details_title">Сведения о памяти</string>
@@ -2108,7 +2107,7 @@ There are other users present on this device.
     <string name="mvno_match_data">Значение MVNO</string>
     <string name="mvno_type">Тип MVNO</string>
     <string name="n_cacrts">%d CA сертификаты</string>
-    <string name="network_dashboard_summary">WLAN, Сотовые сети, Использование данных, Точка доступа</string>
+    <string name="network_dashboard_summary">WLAN, Сотовые сети,Точка доступа</string>
     <string name="network_dashboard_title">Сеть и Интернет</string>
     <string name="network_operators_settings">Сетевые операторы</string>
     <string name="network_reset_not_available">Сетевой сброс недоступен для этого пользователя</string>
@@ -2264,9 +2263,9 @@ There are other users present on this device.
     <string name="notification_ringtone_title">Звук уведомления по умолчанию</string>
     <string name="notification_scene_title">Умное уведомление</string>
     <string name="notification_show_lights_title">Мерцание led индикатора</string>
-    <string name="notification_sound_default">Звук уведомления по умолчанию</string>
-    <string name="notification_sound_dialog_title">Звук уведомления по умолчанию</string>
-    <string name="notification_sound_title">Звук уведомления по умолчанию</string>
+    <string name="notification_sound_default">Звук уведомлений по умолчанию</string>
+    <string name="notification_sound_dialog_title">Звук уведомлений по умолчанию</string>
+    <string name="notification_sound_title">Звук уведомлений по умолчанию</string>
     <string name="notification_suggestion_summary">Показать или скрыть содержание уведомлений</string>
     <string name="notification_suggestion_title">Уведомления о блокировке блокировки</string>
     <string name="notification_summary_channel">%1$s • %2$s</string>
@@ -2375,13 +2374,13 @@ There are other users present on this device.
     <string name="pref_title_device_add_fingerprint">Добавить отпечаток пальца</string>
     <string name="pref_title_device_passcode">Установить пароль</string>
     <string name="pref_title_device_password_visible">@string/show_password</string>
-    <string name="pref_title_device_pattern_visible">Сделать узор видимым</string>
+    <string name="pref_title_device_pattern_visible">Сделать графический ключ видимым</string>
     <string name="pref_title_lang_selection">Языковые настройки</string>
     <string name="pref_title_phone_unlock">Разблокировка телефона</string>
     <string name="pref_title_work_add_fingerprint">Добавить отпечаток пальца для профиля работы</string>
     <string name="pref_title_work_passcode">@string/category_key_fap_settings_work_profile</string>
     <string name="pref_title_work_password_visible">@string/show_password</string>
-    <string name="pref_title_work_pattern_visible">Сделать узор видимым</string>
+    <string name="pref_title_work_pattern_visible">Сделать графический ключ видимым</string>
     <string name="pref_title_work_same_passcode">Использовать тот же пароль</string>
     <string name="pref_title_wx_pay">Wechat отпечаток пальца</string>
     <string name="preference_change_password_title">Изменить пароль</string>
@@ -2470,7 +2469,7 @@ There are other users present on this device.
     <string name="proxy_url_title">URL-адрес PAC:</string>
     <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется браузером, но не может использоваться другими приложениями.</string>
     <string name="pwd_category_title">Пароль</string>
-    <string name="pwd_display_pattern_line_title">Сделать узор видимым</string>
+    <string name="pwd_display_pattern_line_title">Сделать графический ключ видимым</string>
     <string name="pwd_mode_complex_title">Пароль</string>
     <string name="pwd_mode_none_title">Нет</string>
     <string name="pwd_mode_none_title_abbr">Нет</string>
@@ -2610,7 +2609,7 @@ There are other users present on this device.
     <string name="ring_volume_title">Громкость звонка</string>
     <string name="ringtone_call_title">Мелодия звонка</string>
     <string name="ringtone_message_title">SMS-рингтон</string>
-    <string name="ringtone_notification_title">Звук уведомления</string>
+    <string name="ringtone_notification_title">Звук уведомлений</string>
     <string name="ringtone_settings">Рингтон</string>
     <string name="ringtone_title">Телефонный рингтон</string>
     <string name="ringtone_volume_title">Мелодия и уведомление</string>
@@ -3216,7 +3215,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="total_memory">Всего памяти</string>
     <string name="total_size_label">Всего</string>
     <string name="touch_filtered_warning">Поскольку приложение скрывает запрос на разрешение, настройки не могут подтвердить ваш ответ.</string>
-    <string name="touch_sounds_title">Звуки касания</string>
+    <string name="touch_sounds_title">Звук нажатий на экран</string>
     <string name="trusted_credentials">Надежные учетные данные</string>
     <string name="trusted_credentials_disable_confirmation">Отключить сертификат CA системы?</string>
     <string name="trusted_credentials_disable_label">Отключено</string>
@@ -3246,7 +3245,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="uninstall_text">Удалить</string>
     <string name="unknown_app">Неизвестное приложение</string>
     <string name="unlock_change_lock_password_title">Изменить пароль разблокировки</string>
-    <string name="unlock_change_lock_pattern_title">Изменить узор разблокировки</string>
+    <string name="unlock_change_lock_pattern_title">Изменить графический ключ разблокировки</string>
     <string name="unlock_change_lock_pin_title">Изменить PIN-код разблокировки</string>
     <string name="unlock_disable_frp_warning_content_password">Функции защиты устройства не будут работать без вашего пароля.</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint">«Функции защиты устройства не будут работать без вашего пароля.</string>
@@ -3373,7 +3372,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="use_location_title">Местоположение и поиск Google</string>
     <string name="use_open_wifi_automatically_summary">Автоматическое подключение к высококачественным сетям общего пользования</string>
     <string name="use_open_wifi_automatically_title">Подключение к открытым сетям</string>
-    <string name="user_account_summary">LenovoAccount, CloudService, FindPhone</string>
+    <string name="user_account_summary">LenovoAccount, CloudService, Google</string>
     <string name="user_account_title">Аккаунт для контента</string>
     <string name="user_add_max_count">Вы можете добавить до пользователей %1$d</string>
     <string name="user_add_on_lockscreen_menu">Добавление пользователей из экрана блокировки</string>
@@ -3493,10 +3492,10 @@ Consider using a faster ^1 for better performance."</string>
     <string name="version_dev">DEV</string>
     <string name="version_st">ST</string>
     <string name="version_text">версия %1$s</string>
-    <string name="vibrate_in_silent_title">Вибрировать при бесшумном</string>
+    <string name="vibrate_in_silent_title">Вибрация при "Без звука"</string>
     <string name="vibrate_input_devices">Использовать вибратор</string>
     <string name="vibrate_input_devices_summary">Переадресация вибратора на игровой контроллер при подключении.</string>
-    <string name="vibrate_on_touch_title">Вибрация на кране</string>
+    <string name="vibrate_on_touch_title">Вибрация кнопок</string>
     <string name="vibrate_touch_title">Вибрация при прикосновении</string>
     <string name="vibrate_when_ringing_title">Вибрация при звонке</string>
     <string name="virtual_keyboard_category">Виртуальная клавиатура</string>
@@ -3899,7 +3898,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="work_alarm_ringtone_title">Звук срабатывания по умолчанию</string>
     <string name="work_mode_label">Режим работы</string>
     <string name="work_mode_summary">Разрешить работу профиля работы, включая приложения, синхронизацию фона и связанные с ними функции</string>
-    <string name="work_notification_ringtone_title">Звук уведомления по умолчанию</string>
+    <string name="work_notification_ringtone_title">Звук уведомлений по умолчанию</string>
     <string name="work_profile_confirm_remove_message">Все приложения и данные в этом профиле будут удалены, если вы продолжите.</string>
     <string name="work_profile_confirm_remove_title">Удалить рабочий профиль?</string>
     <string name="work_profile_notification_access_blocked_summary">Доступ к уведомлениям о профиле работы заблокирован</string>
@@ -3925,7 +3924,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="xui_bt_received_files">Полученные файлы</string>
     <string name="xui_double_click_screen_on">Двойной тап для вкл. экрана</string>
     <string name="xui_hardware_version">Версия аппаратного обеспечения</string>
-    <string name="xui_media_volume_title">Музыка, видео, игра и другие средства массовой информации</string>
+    <string name="xui_media_volume_title">Музыка, видео, игры и другое</string>
     <string name="xui_screen_color_temperature">Цвета</string>
     <string name="xui_screen_color_temperature_cold">Холодный</string>
     <string name="xui_screen_color_temperature_normal">Стандартный</string>
@@ -3965,7 +3964,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="zen_mode_delete_rule">Удалить правило</string>
     <string name="zen_mode_delete_rule_button">Убрать</string>
     <string name="zen_mode_delete_rule_confirmation">Удалить правило «%1$s»?</string>
-    <string name="zen_mode_description">Если включена функция «Не беспокоить», вызовы и уведомления о сообщениях будут отключены.</string>
+    <string name="zen_mode_description">Если включена функция «Не беспокоить», вызовы и уведомления будут отключены.</string>
     <string name="zen_mode_downtime_days">Дни</string>
     <string name="zen_mode_end_time">Время окончания</string>
     <string name="zen_mode_end_time_next_day_summary_format">%s на следующий день</string>
@@ -4018,7 +4017,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="zen_mode_screen_on_visual_interruptions">Когда экран включен</string>
     <string name="zen_mode_selected_callers">Выбранные абоненты</string>
     <string name="zen_mode_selected_messages">Выбранные сообщения</string>
-    <string name="zen_mode_setting_title">Настройки режима</string>
+    <string name="zen_mode_setting_title">Настройка режима</string>
     <string name="zen_mode_settings_summary_off">Автоматические правила не включены</string>
     <string name="zen_mode_settings_title">Не беспокоить предпочтения</string>
     <string name="zen_mode_start_time">Время начала</string>

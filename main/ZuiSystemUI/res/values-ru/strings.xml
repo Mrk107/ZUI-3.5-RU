@@ -1421,10 +1421,10 @@
     <string name="control_center_prompt_levoice_notinstalled">LeVoice is not installed.</string>
     <string name="control_center_settings_navigatebar">U-Touch</string>
     <string name="control_center_settings_navigatebar_summary">Наэкранные кнопки будут скрыты при включении U-Touch</string>
-    <string name="controlcenter_mmchat_article_floatwin_prompt">It helps to solve the problem of not being able to go back to the reading article before replying a message.</string>
-    <string name="controlcenter_mmchat_article_floatwin_title">Article popup when switching</string>
-    <string name="controlcenter_mmchat_article_task_title">Show article page in Recent task</string>
-    <string name="controlcenter_mmchat_article_title">Message/article page switch</string>
+    <string name="controlcenter_mmchat_article_floatwin_prompt">Помогает решить проблему, когда вы не можете вернуться к статье, не ответив на сообщение WeChat.</string>
+    <string name="controlcenter_mmchat_article_floatwin_title">2)Всплыв.окно при переключении</string>
+    <string name="controlcenter_mmchat_article_task_title">1)Всплывающее окно в недавних</string>
+    <string name="controlcenter_mmchat_article_title">Показывать:</string>
     <string name="controlcenter_settings_summary">Редактирование быстрой панели</string>
     <string name="controlcenter_settings_title">Панель быстрого доступа</string>
     <string name="data_from">Данные из SMS</string>
@@ -1494,10 +1494,10 @@
     <string name="kg_moto_learn_more_reboot_pattern">По соображениям безопасности ваш пароль требуется после перезапуска. Ваш отпечаток можно использовать после этого.</string>
     <string name="kg_moto_learn_more_reboot_pin">По соображениям безопасности ваш пароль требуется после перезапуска. Ваш отпечаток можно использовать после этого.</string>
     <string name="kg_moto_learn_more_reboot_title">При включении питания</string>
-    <string name="kg_moto_learn_more_timeout_password">For security reasons, your password is required every 72 hours. Your fingerprint can be used after this.</string>
-    <string name="kg_moto_learn_more_timeout_pattern">For security reasons, your pattern is required every 72 hours. Your fingerprint can be used after this.</string>
-    <string name="kg_moto_learn_more_timeout_pin">For security reasons, your PIN is required every 72 hours. Your fingerprint can be used after this.</string>
-    <string name="kg_moto_learn_more_timeout_title">After 72 hours</string>
+    <string name="kg_moto_learn_more_timeout_password">По соображениям безопасности ваш пароль требуется каждые 72 часа. Ваш отпечаток можно использовать после этого.</string>
+    <string name="kg_moto_learn_more_timeout_pattern">По соображениям безопасности ваш шаблон требуется каждые 72 часа. Ваш отпечаток можно использовать после этого.</string>
+    <string name="kg_moto_learn_more_timeout_pin">По соображениям безопасности ваш ПИН-код требуется каждые 72 часа. Ваш отпечаток можно использовать после этого.</string>
+    <string name="kg_moto_learn_more_timeout_title">Через 72 часа</string>
     <string name="kg_password_default_pin_message_top">Разблокировать SIM карту</string>
     <string name="kg_password_default_puk_message_top">SIM карта заблокирована. Введите PUK код для разблокировки</string>
     <string name="kg_password_wrong_pin_code_pukked_bottom">Свяжитесь со своим оператором, чтобы разблокировать телефон.</string>
@@ -1747,8 +1747,8 @@
     <string name="quick_settings_tiles_retail_mode">cell,battery,dnd,flashlight,rotation,location</string>
     <string name="quick_settings_tiles_stock">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,location,hotspot,inversion,saver,work,cast,night</string>
     <string name="recents_drag_flag">+</string>
-    <string name="recents_touch_hold_drag_to_enter_split_screen">"Touch and hold a window,
-then drag here to use split screen"</string>
+    <string name="recents_touch_hold_drag_to_enter_split_screen">"Нажмите и удерживайте окно,
+затем перетащите сюда, чтобы использовать разделенный экран"</string>
     <string name="red_packets_flag">[Красные пакеты]</string>
     <string name="redpacket_loading">Загрузка...</string>
     <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
