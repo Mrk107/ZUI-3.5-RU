@@ -1091,7 +1091,7 @@
     <string name="permdesc_readHistoryBookmarks">Приложение получит доступ к истории и закладкам браузера. Обратите внимание: браузеры независимых поставщиков или другие приложения для просмотра веб-страниц могут не применять это разрешение.</string>
     <string name="permdesc_readInstallSessions">Чтение данных текущих сеансов установки пакетов.</string>
     <string name="permdesc_readNetworkUsageHistory">Приложение сможет считывать сохраненную историю использования определенных сетей и приложений.</string>
-    <string name="permdesc_readPhoneNumbers">Allows the app to access the phone numbers of the device.</string>
+    <string name="permdesc_readPhoneNumbers">Приложение сможет получить доступ к номеру телефона.</string>
     <string name="permdesc_readPhoneState">Приложение получит доступ к функциям телефона на устройстве. Кроме того, оно сможет определять номера телефонов и серийные номера моделей, состояние активности вызова, а также удаленные номера, с которыми установлено соединение.</string>
     <string name="permdesc_readSms">Приложение сможет просматривать SMS-сообщения, сохраненные на устройстве или SIM-карте, независимо от содержания или настроек конфиденциальности.</string>
     <string name="permdesc_readSyncSettings">Приложение сможет просматривать настройки синхронизации аккаунта, например определять, включена ли синхронизация для приложения \"Контакты\".</string>
@@ -1105,11 +1105,11 @@
     <string name="permdesc_register_sim_subscription">Регистрация новых SIM-карт.</string>
     <string name="permdesc_removeDrmCertificates">Удаление сертификатов DRM. Большинству приложений это разрешение не требуется.</string>
     <string name="permdesc_reorderTasks">Приложение сможет переключать активный и фоновый режимы выполнения задач без вашего ведома.</string>
-    <string name="permdesc_requestDeletePackages">Allows an application to request deletion of packages.</string>
-    <string name="permdesc_requestIgnoreBatteryOptimizations">Allows an app to ask for permission to ignore battery optimizations for that app.</string>
+    <string name="permdesc_requestDeletePackages">Позволяет программе удалять приложения.</string>
+    <string name="permdesc_requestIgnoreBatteryOptimizations">Позволяет приложению игнорировать оптимизацию батареи.</string>
     <string name="permdesc_requestInstallPackages">Приложение сможет запрашивать разрешения на установку пакетов.</string>
     <string name="permdesc_route_media_output">Приложение сможет направлять поток мультимедиа на другие внешние устройства.</string>
-    <string name="permdesc_runInBackground">This app can run in the background. This may drain battery faster.</string>
+    <string name="permdesc_runInBackground">Это приложение может работать в фоновом режиме. Это может разрядить аккумулятор быстрее.</string>
     <string name="permdesc_sdcardRead">Приложение сможет считывать данные на SD-карте.</string>
     <string name="permdesc_sdcardWrite">Приложение сможет записывать данные на SD-карту.</string>
     <string name="permdesc_sendSms">Приложение сможет отправлять SMS. Учтите, что вредоносные программы смогут отправлять сообщения без уведомления, что может привести к непредвиденным расходам.</string>
@@ -1125,7 +1125,7 @@
     <string name="permdesc_systemAlertWindow">Разрешает приложению отображать элементы своего интерфейса поверх окон других программ. Это может мешать вашему взаимодействию с другими приложениями и вести к недоразумениям.</string>
     <string name="permdesc_transmitIr">Приложение сможет использовать ИК передатчик телефона.</string>
     <string name="permdesc_uninstall_shortcut">Приложение сможет удалять ярлыки с главного экрана без вмешательства пользователя.</string>
-    <string name="permdesc_useDataInBackground">This app can use data in the background. This may increase data usage.</string>
+    <string name="permdesc_useDataInBackground">Это приложение может использовать данные в фоновом режиме. Это может увеличить использование данных.</string>
     <string name="permdesc_useFingerprint">Приложение сможет использовать сканер отпечатков пальцев для аутентификации.</string>
     <string name="permdesc_use_sip">Разрешить вызовы по протоколу SIP.</string>
     <string name="permdesc_vibrate">Приложение сможет контролировать вибросигналы.</string>
@@ -1218,7 +1218,7 @@
     <string name="permlab_readHistoryBookmarks">Просмотр закладок и истории поиска</string>
     <string name="permlab_readInstallSessions">Чтение данных сеансов установки</string>
     <string name="permlab_readNetworkUsageHistory">Просмотр журнала использования сети</string>
-    <string name="permlab_readPhoneNumbers">read phone numbers</string>
+    <string name="permlab_readPhoneNumbers">читать номер телефона</string>
     <string name="permlab_readPhoneState">Получение данных о статусе телефона</string>
     <string name="permlab_readSms">Просмотр SMS и MMS</string>
     <string name="permlab_readSyncSettings">Просмотр настроек синхронизации</string>
@@ -1342,7 +1342,7 @@
     <string name="reboot_to_update_title">Обновление системы Android</string>
     <string name="recent_tasks_title">Недавние</string>
     <string name="redo">Возврат</string>
-    <string name="region_picker_section_all">All regions</string>
+    <string name="region_picker_section_all">Все регионы</string>
     <string name="relationTypeAssistant">Секретарь</string>
     <string name="relationTypeBrother">Брат</string>
     <string name="relationTypeChild">Ребенок</string>
@@ -1378,8 +1378,8 @@
     <string name="ringtone_default">Мелодия по умолчанию</string>
     <string name="ringtone_default_with_actual">По умолчанию (%1$s)</string>
     <string name="ringtone_picker_title">Мелодии</string>
-    <string name="ringtone_picker_title_alarm">Alarm sounds</string>
-    <string name="ringtone_picker_title_notification">Notification sounds</string>
+    <string name="ringtone_picker_title_alarm">Звуки будильника</string>
+    <string name="ringtone_picker_title_notification">Звуки уведомлений</string>
     <string name="ringtone_silent">Без звука</string>
     <string name="ringtone_unknown">Неизвестная мелодия</string>
     <string name="roamingText0">Индикатор роуминга включен</string>
@@ -1569,9 +1569,9 @@
     <string name="time_picker_input_error">Введите действительное время</string>
     <string name="time_picker_minute_label">minute</string>
     <string name="time_picker_mode">Часы</string>
-    <string name="time_picker_prompt_label">Type in time</string>
-    <string name="time_picker_radial_mode_description">Switch to clock mode for the time input.</string>
-    <string name="time_picker_text_input_mode_description">Switch to text input mode for the time input.</string>
+    <string name="time_picker_prompt_label">Введите время</string>
+    <string name="time_picker_radial_mode_description">Переключение в режим синхронизации для ввода времени.</string>
+    <string name="time_picker_text_input_mode_description">Переключение в режим ввода текста для ввода времени.</string>
     <string name="time_placeholder">--</string>
     <string name="toolbar_collapse_description">Свернуть</string>
     <string name="tooltip_popup_title">Tooltip</string>
@@ -1715,7 +1715,7 @@
     <string name="zen_mode_forever_dnd">Пока вы не отключите режим \"Не беспокоить\"</string>
     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">До %1$s</string>
-    <string name="zui_delay_handle">delay handle.</string>
+    <string name="zui_delay_handle">задержка.</string>
     <string name="zui_vibration_failure_dialog">Vibration function failure, please click \"shutdown\", 15 seconds after the restart your phone will be able to return to normal or </string>
     <string name="zui_vibration_failure_dialog_message">Vibration function failure, please click \"shutdown\", 15 seconds after the restart your phone will be able to return to normal or delay handle.</string>
     <string name="zui_vibration_failure_notification_summary">Power off to repair</string>

@@ -43,15 +43,19 @@
         <item quantity="many">Ещё %s уведомлений.</item>
     </plurals>
     <plurals name="notification_num_channels_desc">
-        <item quantity="other">1 из %d категории уведомлений этого приложения</item>
-        <item quantity="one">1 из %d категории уведомлений этого приложения</item>
-        <item quantity="few">1 из %d категорий уведомлений этого приложения</item>
-        <item quantity="many">1 из %d категорий уведомлений этого приложения</item>
+        <item quantity="other">1 из %d категории уведомлений этого приложения</item>
+        <item quantity="one">1 из %d категории уведомлений этого приложения</item>
+        <item quantity="few">1 из %d категорий уведомлений этого приложения</item>
+        <item quantity="many">1 из %d категорий уведомлений этого приложения</item>
     </plurals>
     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">Показано %d экранов</item>
         <item quantity="one">Показан %d экран</item>
         <item quantity="few">Показано %d экрана</item>
         <item quantity="many">Показано %d экранов</item>
+    </plurals>
+        <plurals name="message_text">
+        <item quantity="other">%1$d уведомления(ий)</item>
+        <item quantity="one">%1$d уведомление</item>
     </plurals>
 </resources>
