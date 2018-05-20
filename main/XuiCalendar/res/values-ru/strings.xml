@@ -591,7 +591,7 @@
     <string name="copy_number">Копировать номер телефона</string>
     <string name="countdown_interval">[%1$d день(й) осталось]</string>
     <string name="countdown_time">Дата</string>
-    <string name="countdownday">Обр. отчет</string>
+    <string name="countdownday">Обр. отсчёт</string>
     <string name="create_event_dialog_save">Сохранить</string>
     <string name="creating_event">Событие создано.</string>
     <string name="creating_event_with_guest">Приглашения будут отправлены.</string>
@@ -736,7 +736,7 @@
     <string name="list_page_item_empty">Нет событий</string>
     <string name="list_page_tile_all">Все</string>
     <string name="list_page_tile_birthdays">ДР</string>
-    <string name="list_page_tile_countdown">Обр. отчет</string>
+    <string name="list_page_tile_countdown">Обр. отсчёт</string>
     <string name="list_page_tile_events">Событие</string>
     <string name="list_page_tile_remembers">Памятка</string>
     <string name="list_page_tile_reminders">Напом-ние</string>

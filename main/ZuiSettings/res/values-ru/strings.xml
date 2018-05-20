@@ -3493,8 +3493,8 @@ Consider using a faster ^1 for better performance."</string>
     <string name="version_st">ST</string>
     <string name="version_text">версия %1$s</string>
     <string name="vibrate_in_silent_title">Вибрация при "Без звука"</string>
-    <string name="vibrate_input_devices">Использовать вибратор</string>
-    <string name="vibrate_input_devices_summary">Переадресация вибратора на игровой контроллер при подключении.</string>
+    <string name="vibrate_input_devices">Вибрация контроллера</string>
+    <string name="vibrate_input_devices_summary">Переадресация вибрации на игровой контроллер при подключении.</string>
     <string name="vibrate_on_touch_title">Вибрация кнопок</string>
     <string name="vibrate_touch_title">Вибрация при прикосновении</string>
     <string name="vibrate_when_ringing_title">Вибрация при звонке</string>
