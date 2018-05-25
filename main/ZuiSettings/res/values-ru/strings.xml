@@ -2059,7 +2059,7 @@ There are other users present on this device.
     <string name="memory_usage_apps">Память, используемая приложениями</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s средняя память, используемая за последние 3 часа</string>
-    <string name="menu_cancel">отбрасывать</string>
+    <string name="menu_cancel">Отменить</string>
     <string name="menu_delete">Удалить APN</string>
     <string name="menu_duration_12h">12 часов</string>
     <string name="menu_duration_1d">1 день</string>
@@ -4033,7 +4033,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="zen_mode_when_every_night">Каждую ночь</string>
     <string name="zen_mode_when_never">Никогда</string>
     <string name="zen_mode_when_weeknights">Будние вечера</string>
-    <string name="zen_rule_cancle">отбрасывать</string>
+    <string name="zen_rule_cancle">Выйти</string>
     <string name="zen_rule_default_name_sub">%1$s - %2$s</string>
     <string name="zen_rule_name_hint">Название правила</string>
     <string name="zen_rule_next_day">На следующий день</string>

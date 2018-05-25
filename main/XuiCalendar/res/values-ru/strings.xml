@@ -647,7 +647,7 @@
     <string name="doing_upgrading">Проверка обновлений...</string>
     <string name="done">Вернуться</string>
     <string name="edit_birthday">Редактировать ДР</string>
-    <string name="edit_countdown">Редактировать день обр. отчета</string>
+    <string name="edit_countdown">Редактировать день обр. отсчёта</string>
     <string name="edit_event">Редактировать событие</string>
     <string name="edit_event_all_day_label">Весь день</string>
     <string name="edit_event_calendar_label">Календарь</string>
@@ -712,7 +712,7 @@
     <string name="import_vcs_failed">Не удалось импортировать событие.</string>
     <string name="importer_done">OK</string>
     <string name="importing">Импорт...</string>
-    <string name="info_countdown">Информация о дне отчета</string>
+    <string name="info_countdown">Информация о дне отсчёта</string>
     <string name="info_events">Информация о событии</string>
     <string name="info_remember">Информация о пямятке</string>
     <string name="info_reminder">Информация о напоминании</string>
@@ -963,7 +963,7 @@
     <string name="str_birthday_constellation">Козерог, Водолей, Рыбы, Овен, Телец, Близнецы, Рак, Лев, Дева, Весы, Скорпион, Стрелец, Козерог</string>
     <string name="str_birthday_today_without_age_ind">Сегодня ДР</string>
     <string name="str_calendar">Календарь</string>
-    <string name="str_countdown_content_hint">Введите день обр. отчета</string>
+    <string name="str_countdown_content_hint">Введите день обр. отсчёта</string>
     <string name="str_creditcard_title">Напоминание кредитной карты</string>
     <string name="str_current_day">Во время</string>
     <string name="str_days">Дней</string>
