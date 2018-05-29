@@ -1302,7 +1302,7 @@
     <string name="device_info_processor_core_two">DualCore</string>
     <string name="device_info_processor_model">Qualcomm® Snapdragon ™</string>
     <string name="device_info_processor_model_frist">Qualcomm® Snapdragon ™ %1$s %2$s GHz</string>
-    <string name="device_info_processor_model_moto">ГГц</string>
+    <string name="device_info_processor_model_moto">GHz</string>
     <string name="device_info_processor_model_one" />
     <string name="device_info_processor_model_two">x Ядер</string>
     <string name="device_info_settings">Статус телефона</string>
@@ -1623,14 +1623,14 @@
     <string name="fullbackup_erase_dialog_message">Прекратить резервное копирование данных устройства (например, паролей Wi-Fi и истории вызовов) и данных приложения (таких как настройки и файлы, хранящиеся в приложениях), а также удалить все копии на удаленных серверах?</string>
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_brightness_state_auto">авто</string>
-    <string name="gadget_brightness_state_full">полный</string>
+    <string name="gadget_brightness_state_full">максимум</string>
     <string name="gadget_brightness_state_half">половина</string>
-    <string name="gadget_brightness_state_off">от</string>
+    <string name="gadget_brightness_state_off">Выкл</string>
     <string name="gadget_brightness_template">Яркость %1$s</string>
     <string name="gadget_location">Местоположение</string>
     <string name="gadget_picker_title">Выберите гаджет</string>
-    <string name="gadget_state_off">от</string>
-    <string name="gadget_state_on">на</string>
+    <string name="gadget_state_off">Выкл</string>
+    <string name="gadget_state_on">Вкл</string>
     <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">Выключение</string>
     <string name="gadget_state_turning_on">включение</string>
@@ -1638,7 +1638,7 @@
     <string name="gadget_title">Контроль мощности</string>
     <string name="gadget_toggle_bluetooth">Обновление настройки Bluetooth</string>
     <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
-    <string name="gadget_wifi">Вай-фай</string>
+    <string name="gadget_wifi">Wi-Fi</string>
     <string name="game_controller_settings_category">Игровой контроллер</string>
     <string name="game_storage_settings">Игры</string>
     <string name="gesture_preference_summary">Быстрые жесты для управления телефоном</string>
