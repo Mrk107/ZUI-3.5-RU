@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="datePickerXMonth">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
     </string-array>
     <string-array name="datePickerXWeek">
         <item>Воскресенье</item>
@@ -30,7 +30,7 @@
         <item>Дистанция на велосипеде</item>
         <item>Вес</item>
         <item>Кровяное давление</item>
-        <item>Climb stairs</item>
+        <item>Подъём по лестнице</item>
     </string-array>
     <string-array name="drag_list_array_cmcc">
         <item>Время активности</item>
@@ -142,13 +142,13 @@
         <item>Движение</item>
     </string-array>
     <string-array name="monday_mode_weektitle">
-        <item>M</item>
-        <item>T</item>
-        <item>W</item>
-        <item>T</item>
-        <item>F</item>
-        <item>S</item>
-        <item>S</item>
+        <item>П</item>
+        <item>В</item>
+        <item>С</item>
+        <item>Ч</item>
+        <item>П</item>
+        <item>С</item>
+        <item>В</item>
     </string-array>
     <string-array name="motto_cn">
         <item>Моя любовь ходить, а спорт приносит мне бесконечное удовольствие。</item>
@@ -163,44 +163,44 @@
     </string-array>
     <string-array name="motto_cn_provenance">
         <item>--- Эйнштейн</item>
-        <item>--- Чжу Де </item>
+        <item>--- Чжу Де</item>
         <item>--- Маяковский</item>
         <item>--- Джонсон</item>
         <item>--- Сократ</item>
         <item>--- Джонсон</item>
-        <item>--- Rousseau</item>
+        <item>--- Роусеуа</item>
         <item>--- Хуа</item>
         <item>--- Ма Джон</item>
     </string-array>
     <string-array name="motto_en">
-        <item>I can accept defeat but could not accept to give up.</item>
-        <item>Early to bed and early to rise, makes a man healthy, wealthy, and wise.</item>
-        <item>Goals determine what you are going to be.</item>
-        <item>Try not to become a man of success but rather try to become a man of value.</item>
-        <item>Energy and persistence conquer all things.</item>
-        <item>Cease to struggle and you cease to live.</item>
-        <item>Courage is like a muscle. We strengthen it with use.</item>
-        <item>Never let fear or shame keep you from celebrating the unique people that you are.</item>
-        <item>Action is the real measure of intelligence.</item>
-        <item>"You're never a loser until you quit trying."</item>
-        <item>Cease to struggle and you cease to live.</item>
-        <item>"Behind every successful man there's a lot u unsuccessful years."</item>
-        <item>"You have to believe in yourself. That's the secret of success."</item>
+        <item>Я могу принять поражение, но не могу согласиться отказаться.</item>
+        <item>Рано спать и рано вставать, делает человека здоровым, богатым и мудрым.</item>
+        <item>Цели определяют, кем вы хотите стать.</item>
+        <item>Старайтесь не становиться человеком успеха, а старайтесь стать человеком дела.</item>
+        <item>Энергия и настойчивость покоряют все.</item>
+        <item>Прекратите бороться, и вы перестанете жить.</item>
+        <item>Мужество - это как мышца. Мы укрепляем его с использованием.</item>
+        <item>Никогда не позволяйте страху или стыду препятствовать вам радоваться за людей, лучших чем вы.</item>
+        <item>Действие - это реальная мера интеллекта.</item>
+        <item>"Вы никогда не проиграете, пока не перестанете пытаться."</item>
+        <item>Прекратите бороться, и вы перестанете жить.</item>
+        <item>"За каждым успешным человеком есть много неуспешных лет."</item>
+        <item>"Ты должен верить в себя. В этом секрет успеха."</item>
     </string-array>
     <string-array name="motto_en_provenance">
-        <item>--- Michael Jordan</item>
-        <item>--- Benjamin Franklin</item>
-        <item>--- Julius Erving</item>
-        <item>--- A. Einstein</item>
-        <item>--- Benjamin Franklin</item>
-        <item>--- Thomas Carlyle</item>
-        <item>--- Ruth Gordon</item>
-        <item>--- Kristen Anderson-Lopez</item>
-        <item>--- Napolean Hill</item>
-        <item>--- Mike Ditka</item>
-        <item>--- Thomas Carlyle</item>
-        <item>--- Bob Brown</item>
-        <item>--- Charles Chaplin</item>
+        <item>--- Майкл Джордан</item>
+        <item>--- Бенджамин Франклин</item>
+        <item>--- Юлий Эрвинг</item>
+        <item>--- А. Эйнштейн</item>
+        <item>--- Бенджамин Франклин</item>
+        <item>--- Томас Карлайл</item>
+        <item>--- Рут Гордон</item>
+        <item>--- Кристен Андерсон-Лопес</item>
+        <item>--- Наполеан Хилл</item>
+        <item>--- Майк Дитка</item>
+        <item>--- Томас Карлайл</item>
+        <item>--- Боб Браун</item>
+        <item>--- Чарльз Чаплин</item>
     </string-array>
     <array name="num_actions_images">
         <item>@mipmap/num0</item>
@@ -262,13 +262,13 @@
         <item>≈гамбургер</item>
     </string-array>
     <string-array name="sunday_mode_weektitle">
-        <item>S</item>
-        <item>M</item>
-        <item>T</item>
-        <item>W</item>
-        <item>T</item>
-        <item>F</item>
-        <item>S</item>
+        <item>В</item>
+        <item>П</item>
+        <item>В</item>
+        <item>С</item>
+        <item>Ч</item>
+        <item>П</item>
+        <item>С</item>
     </string-array>
     <string-array name="trend_day_by_hour">
         <item>0</item>
