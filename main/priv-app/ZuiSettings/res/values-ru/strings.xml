@@ -375,7 +375,7 @@
     <string name="accelerometer_title">Автоповорот экрана</string>
     <string name="access_point_names">Названия точек доступа</string>
     <string name="accessibility_autoclick_delay_preference_title">Задержка перед кликом</string>
-    <string name="accessibility_autoclick_preference_title">Нажмите после остановки указателя</string>
+    <string name="accessibility_autoclick_preference_title">Задержка нажатия</string>
     <string name="accessibility_captioning_title">Титры</string>
     <string name="accessibility_category_personal">Личные профили</string>
     <string name="accessibility_category_work">Учетные записи профиля работы - %s</string>
@@ -4519,4 +4519,6 @@ Consider using a faster ^1 for better performance."</string>
     <string name="xui_device_nick_name">%1$s из %2$s</string>
     <string name="zen_modile_dialog_title">«Это блокирует все звуки, включая сигналы тревоги, музыку, видео и игры. Вы все равно сможете звонить по телефону».</string>
     <string name="zen_repead_title">повторить</string>
+    <string name="speed_overclocking">Режим разгона</string>
+    <string name="speed_overclocking_summary">Режим разгона повышает нагрузку на процессор. Пожалуйста, не используйте его долго.</string>
 </resources>
