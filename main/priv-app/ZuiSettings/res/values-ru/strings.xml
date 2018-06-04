@@ -385,12 +385,12 @@
     <string name="accessibility_feature_state_on">Вкл.</string>
     <string name="accessibility_global_gesture_preference_title">Специальные возможности</string>
     <string name="accessibility_lock_screen_progress">Используется %1$d из %2$d символов</string>
-    <string name="accessibility_long_press_timeout_preference_title">Время "Нажатия и удерживания"</string>
+    <string name="accessibility_long_press_timeout_preference_title">Нажатие и удерживание</string>
     <string name="accessibility_menu_item_settings">Настройки</string>
     <string name="accessibility_no_service_selected">Не выбрано ни одного сервиса</string>
     <string name="accessibility_no_services_installed">Нет установленных служб</string>
     <string name="accessibility_personal_account_title">Личный кабинет -%s</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Завершение вызова кнопкой питания </string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Завершать вызов кнопкой питания </string>
     <string name="accessibility_preference_magnification_summary">Увеличить на экране</string>
     <string name="accessibility_screen_magnification_gestures_title">Увеличить тройным нажатием</string>
     <string name="accessibility_screen_magnification_navbar_configuration_warning">Кнопка «Доступность» установлена ​​в %1$s.</string>
@@ -398,7 +398,7 @@
     <string name="accessibility_screen_magnification_navbar_summary">"«Когда включено увеличение, используйте кнопку «Доступность» в нижней части экрана для быстрого увеличения. «Чтобы увеличить», нажмите кнопку «Доступность», а затем нажмите в любом месте экрана.  Перетащите 2 или более пальцев для прокрутки «Зажмите 2 или более пальцев для регулировки масштаба» «Чтобы временно масштабировать», нажмите кнопку «Доступность», затем нажмите и удерживайте в любом месте экрана.  Перетаскивание для перемещения по экрану «Поднимите палец, чтобы уменьшить масштаб» Вы не можете увеличивать масштаб клавиатуры или панели навигации. "</string>
     <string name="accessibility_screen_magnification_navbar_title">Увеличить с помощью кнопки</string>
     <string name="accessibility_screen_magnification_short_summary">Нажмите 3 раза, чтобы увеличить</string>
-    <string name="accessibility_screen_magnification_state_navbar_gesture">Увеличить с кнопкой и тройным нажатием</string>
+    <string name="accessibility_screen_magnification_state_navbar_gesture">Увеличить кнопкой и тройным нажатием</string>
     <string name="accessibility_screen_magnification_summary">"Чтобы увеличить масштаб , быстро нажмите на экран 3 раза.
 
 
