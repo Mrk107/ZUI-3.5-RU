@@ -206,5 +206,6 @@
         <item>Доступ к галерее</item>
         <item>Читать NFC</item>
         <item>Читать список установленных прил.</item>
+        <item>Экран блокировки</item>
     </string-array>
 </resources>

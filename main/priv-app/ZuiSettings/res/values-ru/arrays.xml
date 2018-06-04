@@ -537,9 +537,9 @@
         <item>ПРЫЖОК</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Малые</item>
+        <item>Маленький</item>
         <item>По умолчанию</item>
-        <item>Большие</item>
+        <item>Большой</item>
         <item>Очень большой</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
@@ -555,9 +555,9 @@
         <item>50 минут</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Короткая</item>
-        <item>Норм.</item>
-        <item>Длинная</item>
+        <item>Короткое</item>
+        <item>Среднее</item>
+        <item>Долгое</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>Нет</item>

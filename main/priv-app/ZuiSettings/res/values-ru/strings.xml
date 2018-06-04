@@ -375,7 +375,7 @@
     <string name="accelerometer_title">Автоповорот экрана</string>
     <string name="access_point_names">Названия точек доступа</string>
     <string name="accessibility_autoclick_delay_preference_title">Задержка перед кликом</string>
-    <string name="accessibility_autoclick_preference_title">Задержка нажатия</string>
+    <string name="accessibility_autoclick_preference_title">Задержка нажатий</string>
     <string name="accessibility_captioning_title">Титры</string>
     <string name="accessibility_category_personal">Личные профили</string>
     <string name="accessibility_category_work">Учетные записи профиля работы - %s</string>
@@ -385,14 +385,14 @@
     <string name="accessibility_feature_state_on">Вкл.</string>
     <string name="accessibility_global_gesture_preference_title">Специальные возможности</string>
     <string name="accessibility_lock_screen_progress">Используется %1$d из %2$d символов</string>
-    <string name="accessibility_long_press_timeout_preference_title">Нажмите и удерживайте</string>
+    <string name="accessibility_long_press_timeout_preference_title">Время "Нажатия и удерживания"</string>
     <string name="accessibility_menu_item_settings">Настройки</string>
     <string name="accessibility_no_service_selected">Не выбрано ни одного сервиса</string>
     <string name="accessibility_no_services_installed">Нет установленных служб</string>
     <string name="accessibility_personal_account_title">Личный кабинет -%s</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Завершение вызова кнопкой питания </string>
     <string name="accessibility_preference_magnification_summary">Увеличить на экране</string>
-    <string name="accessibility_screen_magnification_gestures_title">Увеличить с тройным нажатием</string>
+    <string name="accessibility_screen_magnification_gestures_title">Увеличить тройным нажатием</string>
     <string name="accessibility_screen_magnification_navbar_configuration_warning">Кнопка «Доступность» установлена ​​в %1$s.</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">Нажмите кнопку для увеличения</string>
     <string name="accessibility_screen_magnification_navbar_summary">"«Когда включено увеличение, используйте кнопку «Доступность» в нижней части экрана для быстрого увеличения. «Чтобы увеличить», нажмите кнопку «Доступность», а затем нажмите в любом месте экрана.  Перетащите 2 или более пальцев для прокрутки «Зажмите 2 или более пальцев для регулировки масштаба» «Чтобы временно масштабировать», нажмите кнопку «Доступность», затем нажмите и удерживайте в любом месте экрана.  Перетаскивание для перемещения по экрану «Поднимите палец, чтобы уменьшить масштаб» Вы не можете увеличивать масштаб клавиатуры или панели навигации. "</string>
@@ -405,8 +405,8 @@
 - Чтобы временно увеличить масштаб, быстро нажмите на экран 3 раза и удерживайте палец на третьем касании.
 - Перетаскивайте палец для перемещения по экрану.
 - Поднимите палец, чтобы уменьшить масштаб.
-- Вы не можете увеличить масштаб клавиатуры и навигационной панели.</string>
-    <string name="accessibility_screen_magnification_title">Увеличить экран</string>
+- Вы не можете увеличить масштаб клавиатуры и навигационной панели."</string>
+    <string name="accessibility_screen_magnification_title">Увеличение экрана</string>
     <string name="accessibility_service_default_description">Нет описания.</string>
     <string name="accessibility_settings">Специальные возможности</string>
     <string name="accessibility_settings_summary">Дисплей, Элементы управления</string>
@@ -428,7 +428,7 @@
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Обновление увеличения экрана при переходах приложений</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Автоматическое увеличение экрана обновления</string>
     <string name="accessibility_work_account_title">Рабочий счет - %s</string>
-    <string name="account_dashboard_title">Учетные записи и облачные сервисы</string>
+    <string name="account_dashboard_title">Учетные записи</string>
     <string name="account_for_section_header">Учетные записи: %1$s</string>
     <string name="account_settings">Аккаунты</string>
     <string name="account_settings_menu_auto_sync">Автосинхронизация данных</string>
@@ -1576,7 +1576,7 @@
     <string name="force_stop">Остановить</string>
     <string name="force_stop_dlg_text">Если вы принудительно остановите приложение, это может привести к неправильной работе.</string>
     <string name="force_stop_dlg_title">Остановить?</string>
-    <string name="forget">Забыть</string>
+    <string name="forget">Удалить</string>
     <string name="four_pin_choose_simple_password_header">Введите PIN-код</string>
     <string name="four_pin_confirm_simple_password_header">Введите PIN еще раз, чтобы подтвердить</string>
     <string name="four_pin_confirm_simple_passwords_dont_match">Повторить</string>
@@ -2782,7 +2782,7 @@ There are other users present on this device.
     <string name="security_settings_fingerprint_preference_title">отпечаток пальца</string>
     <string name="security_settings_premium_sms_desc">Отправить премиальные SMS</string>
     <string name="security_settings_summary">Установка моего местоположения, разблокировка экрана, блокировка SIM-карты, блокировка учетных данных</string>
-    <string name="security_settings_title">Безопасность и конфиденциальность</string>
+    <string name="security_settings_title">Безопасность</string>
     <string name="security_status_title">Состояние безопасности</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_device_admin_msg">Приложения для админ.</string>
@@ -2950,6 +2950,8 @@ There are other users present on this device.
     <string name="sound_work_settings">Звук рабочего профиля</string>
     <string name="sounds_headset">Отмена помех для наушников</string>
     <string name="special_access">Специальные возможности</string>
+    <string name="speed_overclocking">Режим разгона</string>
+    <string name="speed_overclocking_summary">Режим разгона повышает нагрузку на процессор.</string>
     <string name="spell_checker_not_selected">Не выбран</string>
     <string name="spellchecker_language">Язык</string>
     <string name="spellchecker_quick_settings">Настройки</string>
@@ -3004,7 +3006,7 @@ There are other users present on this device.
     <string name="storage_format_success">%1$s отформатировано</string>
     <string name="storage_games">Игры</string>
     <string name="storage_internal_forget_confirm">Все приложения, фотографии и данные, хранящиеся в этом ^1, будут потеряны навсегда.</string>
-    <string name="storage_internal_forget_confirm_title">Забыть ^1?</string>
+    <string name="storage_internal_forget_confirm_title">Удалить ^1?</string>
     <string name="storage_internal_forget_details">"To use the apps, photos, or data this ^1 contains, reinsert it. 
 
 Alternatively, you can choose to forget this storage if the device isn’t available. 
@@ -3492,7 +3494,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="version_dev">DEV</string>
     <string name="version_st">ST</string>
     <string name="version_text">версия %1$s</string>
-    <string name="vibrate_in_silent_title">Вибрация при "Без звука"</string>
+    <string name="vibrate_in_silent_title">Вибрация при Без звука</string>
     <string name="vibrate_input_devices">Вибрация контроллера</string>
     <string name="vibrate_input_devices_summary">Переадресация вибрации на игровой контроллер при подключении.</string>
     <string name="vibrate_on_touch_title">Вибрация кнопок</string>
@@ -3549,8 +3551,8 @@ Consider using a faster ^1 for better performance."</string>
     <string name="vpn_done">Отклонить</string>
     <string name="vpn_edit">Изменить профиль VPN</string>
     <string name="vpn_first_always_on_vpn_message">«Включив этот параметр, у вас не будет подключения к Интернету, пока VPN не будет успешно подключаться»</string>
-    <string name="vpn_forget">Забыть</string>
-    <string name="vpn_forget_long">Забыть о VPN</string>
+    <string name="vpn_forget">Удалить</string>
+    <string name="vpn_forget_long">Удалить VPN</string>
     <string name="vpn_if_delete">Удалить VPN?</string>
     <string name="vpn_ipsec_ca_cert">Сертификат IPSec CA</string>
     <string name="vpn_ipsec_identifier">Идентификатор IPSec</string>
@@ -3700,7 +3702,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="wifi_empty_list_wifi_on">Поиск сетей WLAN ...</string>
     <string name="wifi_error">Ошибка</string>
     <string name="wifi_failed_connect_message">Не удалось подключиться к сети</string>
-    <string name="wifi_failed_forget_message">Не удалось забыть сеть</string>
+    <string name="wifi_failed_forget_message">Не удалось удалить сеть</string>
     <string name="wifi_failed_save_message">Не удалось сохранить сеть</string>
     <string name="wifi_forget">Удалить</string>
     <string name="wifi_frequency">Частота</string>
@@ -3751,7 +3753,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="wifi_p2p_create_group">Создать новую группу</string>
     <string name="wifi_p2p_create_group_title">Создать группу</string>
     <string name="wifi_p2p_created_group">«Создана группа, видимая всем устройствам, поддерживающим Wi-Fi. WPA2 Password: %1$s</string>
-    <string name="wifi_p2p_delete_group_message">Забыть эту группу?</string>
+    <string name="wifi_p2p_delete_group_message">Удалить эту группу?</string>
     <string name="wifi_p2p_device_info">Информация об устройстве</string>
     <string name="wifi_p2p_device_limit">Ограничить количество устройств Wi-Fi Direct для повышения производительности</string>
     <string name="wifi_p2p_disconnect_message">Если вы отключитесь, ваше соединение с %1$s закончится.</string>
@@ -4141,7 +4143,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="enableNetwork">enableNetwork</string>
     <string name="enter_dhcp_start">Начальный адрес клиента (DHCP)</string>
     <string name="erase_personal_content_message">Удалите весь персонализированный контент, поставляемый с вашим устройством, включая пользовательские обои и графику включения питания</string>
-    <string name="error_forget_hotspot">Невозможно забыть Hot Spot</string>
+    <string name="error_forget_hotspot">Невозможно удалить Hot Spot</string>
     <string name="fingerprint_enroll_button_got_it">ПОНЯЛ</string>
     <string name="fips_kernel_enabled">Состояние</string>
     <string name="fips_kernel_enabled_default">Включено</string>
@@ -4519,6 +4521,4 @@ Consider using a faster ^1 for better performance."</string>
     <string name="xui_device_nick_name">%1$s из %2$s</string>
     <string name="zen_modile_dialog_title">«Это блокирует все звуки, включая сигналы тревоги, музыку, видео и игры. Вы все равно сможете звонить по телефону».</string>
     <string name="zen_repead_title">повторить</string>
-    <string name="speed_overclocking">Режим разгона</string>
-    <string name="speed_overclocking_summary">Режим разгона повышает нагрузку на процессор. Пожалуйста, не используйте его долго.</string>
 </resources>

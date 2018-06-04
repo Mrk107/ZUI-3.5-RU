@@ -73,8 +73,8 @@
     <string name="video_capture_complete">Видеозапись была завершена, пожалуйста, зайдите в галерею.</string>
     <string name="video_quality">Качество</string>
     <string name="video_share">Поделиться</string>
-    <string name="videocap_settingstips_content">"Это запись экрана , нажмите на статус бар чтобы остановить"</string>
-    <string name="videocap_settingstips_content_SHD">"Это запись экрана , нажмите на статус бар чтобы остановить"</string>
+    <string name="videocap_settingstips_content">"Это ScreenRecorder, нажмите на статус бар чтобы остановить запись."</string>
+    <string name="videocap_settingstips_content_SHD">"Это ScreenRecorder, нажмите на статус бар чтобы остановить запись."</string>
     <string name="videocap_settingstips_title">Приветствуем!</string>
     <string name="videoscap_settingstips_btn">Понял</string>
     <string name="videoscap_start_toasttext">Запись экрана началась</string>
