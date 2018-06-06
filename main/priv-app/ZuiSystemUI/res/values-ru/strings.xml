@@ -400,7 +400,7 @@
     <string name="data_usage_disabled_dialog_title">Передача данных приостановлена</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
-    <string name="debug_app">Выбрать приложение для отладки</string>
+    <string name="debug_app">Приложение для отладки</string>
     <string name="debug_app_not_set">Приложение для отладки не задано</string>
     <string name="debug_app_set">Отладка приложения \"%1$s\"</string>
     <string name="debug_applications_category">Приложения</string>
@@ -712,7 +712,7 @@
     <string name="legacy_vpn_name">Сеть VPN</string>
     <string name="local_backup_password_summary_change">Нажмите, чтобы изменить или удалить пароль для резервного копирования</string>
     <string name="local_backup_password_summary_none">Полные резервные копии в настоящее время не защищены</string>
-    <string name="local_backup_password_title">Пароль для резервного копирования</string>
+    <string name="local_backup_password_title">Резервное копирование</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Пароли не совпадают</string>
     <string name="local_backup_password_toast_success">Новый пароль для резервной копии установлен</string>
     <string name="local_backup_password_toast_validation_failure">Не удалось установить пароль для резервной копии</string>
@@ -731,7 +731,7 @@
     <string name="mobile_data">Моб. Интернет</string>
     <string name="mobile_data_always_on">Не отключать мобильный Интернет</string>
     <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном Wi-Fi-подключении (для быстрого переключения между сетями).</string>
-    <string name="mock_location_app">Выбрать приложение для фиктивных местоположений</string>
+    <string name="mock_location_app">Фиктивное местоположений</string>
     <string name="mock_location_app_not_set">Нет приложения для фиктивных местоположений</string>
     <string name="mock_location_app_set">Приложение для создания фиктивных местоположений: %1$s</string>
     <string name="monitoring_button_view_policies">Просмотреть политику</string>
@@ -945,7 +945,7 @@
     <string name="quick_settings_disclosure_named_management_monitoring">Организация \"%1$s\" управляет этим устройством и может отслеживать сетевой трафик</string>
     <string name="quick_settings_disclosure_named_management_named_vpn">Устройством управляет организация \"%1$s\". На нем запущено приложение \"%2$s\".</string>
     <string name="quick_settings_disclosure_named_management_vpns">Устройством управляет организация \"%1$s\". Оно подключено к сетям VPN.</string>
-    <string name="quick_settings_disclosure_named_vpn">На устройстве запущено приложение \"%1$s\"</string>
+    <string name="quick_settings_disclosure_named_vpn">\"%1$s\"</string>
     <string name="quick_settings_disclosure_personal_profile_named_vpn">В личном профиле запущено приложение \"%1$s\"</string>
     <string name="quick_settings_disclosure_vpns">Устройство подключено к сетям VPN</string>
     <string name="quick_settings_dnd_alarms_label">Только будильник</string>
@@ -1017,7 +1017,7 @@
     <string name="running_foreground_services_msg">Нажмите, чтобы проверить энергопотребление и трафик</string>
     <string name="running_foreground_services_title">Приложения, работающие в фоновом режиме</string>
     <string name="running_process_item_user_label">Пользователь: %1$s</string>
-    <string name="runningservices_settings_summary">Просмотр и управление работающими приложениями</string>
+    <string name="runningservices_settings_summary">Просмотр</string>
     <string name="runningservices_settings_title">Работающие приложения</string>
     <string name="save">Сохранить</string>
     <string name="saved_network">Кто сохранил: %1$s</string>

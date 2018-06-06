@@ -240,7 +240,7 @@
     <string name="retail_demo_reset_next">Далее</string>
     <string name="retail_demo_reset_title">Требуется пароль</string>
     <string name="running_process_item_user_label">Пользователь: %1$s</string>
-    <string name="runningservices_settings_summary">Просмотр и управление работающими приложениями</string>
+    <string name="runningservices_settings_summary">Просмотр</string>
     <string name="runningservices_settings_title">Работающие приложения</string>
     <string name="saved_network">Кто сохранил: %1$s</string>
     <string name="screen_zoom_summary_custom">Другой (%d)</string>
@@ -698,12 +698,12 @@
     <string name="backup_erase_dialog_title" />
     <string name="backup_inactive_title">«Служба резервного копирования неактивна»</string>
     <string name="backup_pw_cancel_button_text">Отмена</string>
-    <string name="backup_pw_set_button_text">Установка пароля для резервного копирования</string>
+    <string name="backup_pw_set_button_text">Установить пароль для резервного копирования</string>
     <string name="backup_section_title">Резервное копирование и восстановление</string>
-    <string name="band_mode_failed">неудачный</string>
+    <string name="band_mode_failed">Неудача</string>
     <string name="band_mode_loading">Загрузка списка групп ...</string>
-    <string name="band_mode_set">Задавать</string>
-    <string name="band_mode_succeeded">успешный</string>
+    <string name="band_mode_set">Применить</string>
+    <string name="band_mode_succeeded">Успешно</string>
     <string name="band_mode_title">Установите режим радиополосы</string>
     <string name="baseband_version">Версия модема</string>
     <string name="battery_action_app_details">Информация о приложении</string>
@@ -1074,7 +1074,7 @@
     <string name="confirm_fp_failed_turn_to_pattern">Невозможно распознать отпечаток пальца.</string>
     <string name="confirm_fp_failed_turn_to_pwd">Невозможно распознать отпечаток пальца.</string>
     <string name="confirm_fp_once_more">Повторить</string>
-    <string name="confirm_new_backup_pw_prompt">Введите новый полный резервный пароль здесь.</string>
+    <string name="confirm_new_backup_pw_prompt">Повторите пароль еще раз.</string>
     <string name="confirm_passcode_header_fp_enroll">Пароль</string>
     <string name="confirm_password_confrim_wrong_header">Повторить</string>
     <string name="confirm_password_header">Введите пароль для разблокировки</string>
@@ -1143,7 +1143,7 @@
     <string name="cryptkeeper_wrong_password">Неправильный пароль</string>
     <string name="cryptkeeper_wrong_pattern">Неправильный узор</string>
     <string name="cryptkeeper_wrong_pin">Неверный PIN-код</string>
-    <string name="current_backup_pw_prompt">Введите текущий полный резервный пароль здесь.</string>
+    <string name="current_backup_pw_prompt">Введите текущий пароль для резервного копирования.</string>
     <string name="current_input_method">Текущая клавиатура</string>
     <string name="current_screen_lock">Текущая блокировка экрана</string>
     <string name="daltonizer_type">Режим коррекции</string>
@@ -2120,7 +2120,7 @@ There are other users present on this device.
     <string name="network_settings_title">Мобильная сеть</string>
     <string name="network_settings_title_sim_cards">Сотовые сети и SIM-карты</string>
     <string name="networks">Выбор оператора</string>
-    <string name="new_backup_pw_prompt">Введите новый пароль для полных резервных копий здесь.</string>
+    <string name="new_backup_pw_prompt">Введите новый пароль.</string>
     <string name="next_button_label">Далее</string>
     <string name="next_label">Далее</string>
     <string name="nfc_beam_instruction1">открыть переданный контент</string>
@@ -2302,7 +2302,7 @@ There are other users present on this device.
     <string name="open_security_warning_title">Ваш хостинг Wi-Fi не безопасен сейчас</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Этот рабочий профиль управляется:</string>
     <string name="operator_warning">Учет данных несущей может отличаться от учета устройств</string>
-    <string name="ota_disable_automatic_update">Автоматические обновления системы</string>
+    <string name="ota_disable_automatic_update">Автообновления системы</string>
     <string name="other_password_mode">Тип пароля</string>
     <string name="other_sound_category_preference_title">Другие звуки и вибрации</string>
     <string name="other_sound_settings">Другие звуки</string>
