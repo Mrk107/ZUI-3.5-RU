@@ -552,7 +552,7 @@
     <string name="app_link_open_always">Открыть в этом приложении</string>
     <string name="app_link_open_ask">Спросите каждый раз</string>
     <string name="app_link_open_never">Не открывать в этом приложении</string>
-    <string name="app_list_memory_use">Использование приложения</string>
+    <string name="app_list_memory_use">Использовано приложениями</string>
     <string name="app_list_preference_none">Нет</string>
     <string name="app_memory_use">Использование памяти</string>
     <string name="app_name">Копия приложений</string>
@@ -1156,9 +1156,9 @@
     <string name="data_summary_format">%1$s использовано с %2$s</string>
     <string name="data_switch_started">Переключение данных SIM, это может занять до минуты ...</string>
     <string name="data_usage_accounting">Учет данных несущей может отличаться от вашего устройства.</string>
-    <string name="data_usage_app">Использование приложения</string>
+    <string name="data_usage_app">Использовано приложениями</string>
     <string name="data_usage_app_info_label">ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ</string>
-    <string name="data_usage_app_items_header_text">Использование приложения</string>
+    <string name="data_usage_app_items_header_text">Использовано приложениями</string>
     <string name="data_usage_app_restrict_background">Данные в фоне</string>
     <string name="data_usage_app_restrict_background_summary">Включить использование мобильных данных в фоновом режиме</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Чтобы ограничить данные в фоне для этого приложения, сначала установите лимит мобильных данных.</string>
@@ -2056,7 +2056,7 @@ There are other users present on this device.
     <string name="memory_size">Общая площадь</string>
     <string name="memory_summary">Среднее %1$s из %2$s памяти испоьзуестся</string>
     <string name="memory_usage">Использование памяти</string>
-    <string name="memory_usage_apps">Память, используемая приложениями</string>
+    <string name="memory_usage_apps">Подробнее</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s средняя память, используемая за последние 3 часа</string>
     <string name="menu_cancel">Отменить</string>
@@ -2361,7 +2361,7 @@ There are other users present on this device.
     <string name="power_system">Система</string>
     <string name="power_unaccounted">Разное</string>
     <string name="power_usage_level_and_status">%1$s - %2$s</string>
-    <string name="power_usage_list_summary">Использование приложения с полной зарядкой (^1 назад)</string>
+    <string name="power_usage_list_summary">Использование приложений с полной зарядкой (^1 назад)</string>
     <string name="power_usage_list_summary_device">Использование устройства с полной зарядкой (^1 назад)</string>
     <string name="power_usage_not_available">Данные об использовании аккумулятора недоступны.</string>
     <string name="power_usage_summary">Что используется батарея</string>
@@ -2838,10 +2838,10 @@ There are other users present on this device.
     <string name="share_remote_bugreport_dialog_message_finished">Ваш ИТ-администратор запросил отчет об ошибке, чтобы помочь устранить эту проблему.</string>
     <string name="share_remote_bugreport_dialog_title">Сообщить об ошибке?</string>
     <string name="sharing_remote_bugreport_dialog_message">Этот отчет об ошибках делится с вашим администратором.</string>
-    <string name="shenqi_serve">Горячая линия обслуживания</string>
+    <string name="shenqi_serve">Версия ПО:</string>
     <string name="shenqi_serve_call">Вызов</string>
-    <string name="shenqi_serve_cancel">Отмена</string>
-    <string name="shenqi_serve_number">400-8828-228</string>
+    <string name="shenqi_serve_cancel">Назад</string>
+    <string name="shenqi_serve_number">LITE Expansion 1.0</string>
     <string name="short_summary_font_size">Сделать текст больше или меньше</string>
     <string name="show_all_apps">Показать все приложения</string>
     <string name="show_background_processes">Кешированные процессы</string>

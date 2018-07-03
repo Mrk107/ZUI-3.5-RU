@@ -31,7 +31,7 @@
     <string name="accessibility_action_divider_top_50">Верхний на 50%</string>
     <string name="accessibility_action_divider_top_70">Верхний на 70%</string>
     <string name="accessibility_action_divider_top_full">Верхний во весь экран</string>
-    <string name="accessibility_airplane_mode">Режим полета.</string>
+    <string name="accessibility_airplane_mode">Авиарежим</string>
     <string name="accessibility_ambient_display_charging">Зарядка батареи</string>
     <string name="accessibility_back">Назад</string>
     <string name="accessibility_battery_details">Сведения о расходе заряда батареи</string>
@@ -241,7 +241,7 @@
     <string name="adb_warning_title">Разрешить отладку USB?</string>
     <string name="add_tile">Добавить кнопку быстрого доступа</string>
     <string name="adjust_button_width">Выбор ширины кнопки</string>
-    <string name="airplane_mode">Режим полета</string>
+    <string name="airplane_mode">Авиарежим</string>
     <string name="alarm_template">%1$s</string>
     <string name="alarm_template_far">%1$s</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
@@ -1080,7 +1080,7 @@
     <string name="start_dreams">Заставка</string>
     <string name="status_bar">Строка состояния</string>
     <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
-    <string name="status_bar_airplane">Режим полета</string>
+    <string name="status_bar_airplane">Авиарежим</string>
     <string name="status_bar_alarm">Будильник</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Настройка способов ввода</string>
@@ -1305,7 +1305,7 @@
     <string name="custom_switch_position_reorder">Редактирование быстрой панели</string>
     <string name="custom_switch_position_title">Быстрая панель</string>
     <string name="widget_text_addshortcut">Добавить ярлык</string>
-    <string name="widget_text_airplanemode">Режим полета</string>
+    <string name="widget_text_airplanemode">Авиарежим</string>
     <string name="widget_text_all_switchs">Все</string>
     <string name="widget_text_auto_rotate">Автоповорот</string>
     <string name="widget_text_autobrightness">Яркость</string>
@@ -1315,13 +1315,13 @@
     <string name="widget_text_camera">Камера</string>
     <string name="widget_text_flashlight">Фонарик</string>
     <string name="widget_text_globalsearch">Поиск</string>
-    <string name="widget_text_gps">Местоположение</string>
+    <string name="widget_text_gps">Локация</string>
     <string name="widget_text_hotspot">Хотспот</string>
     <string name="widget_text_litvideo">WeChat Просмотр</string>
     <string name="widget_text_lockscreen">Блокировка</string>
     <string name="widget_text_menukey">Меню</string>
     <string name="widget_text_mobile_data">Моб. данные</string>
-    <string name="widget_text_multi_task">Приложения</string>
+    <string name="widget_text_multi_task">Недавние</string>
     <string name="widget_text_mute">Тишина</string>
     <string name="widget_text_protectedeyesmode">Ночной режим</string>
     <string name="widget_text_reboot">Рестарт</string>
@@ -1526,7 +1526,7 @@
     <string name="lenovo_widget_text_smartswitch">Lenovo Smart Switch</string>
     <string name="lenovo_widget_text_system_settings">Настройки</string>
     <string name="lock_app_icon_toast">Потяните вниз, чтобы заблокировать / разблокировать приложение</string>
-    <string name="lockscreen_airplane_mode_on">Режим полета</string>
+    <string name="lockscreen_airplane_mode_on">Авиарежим</string>
     <string name="lockscreen_carrier_default">Не обслуживается</string>
     <string name="lockscreen_emergency_call">Экстренный вызов</string>
     <string name="lockscreen_missing_sim_message_short">Нет SIM карты</string>
@@ -1636,7 +1636,7 @@
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
-    <string name="airplanemode_enable">Режим полета</string>
+    <string name="airplanemode_enable">Авиарежим</string>
     <string name="alipay_gongxi">恭喜发财，万事如意！</string>
     <string name="alipay_red_fade_packet">:发来一个红包</string>
     <string name="alipay_red_get_packet">领取红包</string>

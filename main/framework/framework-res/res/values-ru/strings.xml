@@ -582,7 +582,7 @@
     <string name="global_actions">Параметры телефона</string>
     <string name="global_actions_airplane_mode_off_status">Включить</string>
     <string name="global_actions_airplane_mode_on_status">Выключить</string>
-    <string name="global_actions_toggle_airplane_mode">Режим полета</string>
+    <string name="global_actions_toggle_airplane_mode">Авиарежим</string>
     <string name="gpsNotifMessage">Запрашивает %1$s (%2$s)</string>
     <string name="gpsNotifTicker">Пользователь %s запрашивает ваше местоположение</string>
     <string name="gpsNotifTitle">Запрос местоположения</string>
