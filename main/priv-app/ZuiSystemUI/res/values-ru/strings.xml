@@ -1410,7 +1410,7 @@
     <string name="battery_charge_complete_mod">Moto Mod Charge complete</string>
     <string name="battery_charge_waiting_mod">Moto Mod Waiting to Charge</string>
     <string name="battery_level_charging_mod">Moto Mod Charging %1$s%%</string>
-    <string name="battery_low_title_new">Батарея разряжена</string>
+    <string name="battery_low_title_new">Батарея разряжена </string>
     <string name="bluetooth_device_name_unknow">Неопознанное устройство</string>
     <string name="car_default_reminder">Отправлено</string>
     <string name="car_driver">Водитель</string>

@@ -200,8 +200,8 @@
     <string name="weather_key_rain">дождь</string>
     <string name="weekly"></string>
     <string name="world_time_today">Сегодня</string>
-    <string name="world_time_tomorrow">Завтра</string>
-    <string name="world_time_yesterday">Вчера</string>
+    <string name="world_time_tomorrow"></string>
+    <string name="world_time_yesterday"></string>
     <string name="alarm_time_12_hours_format">h:mm <font face="sans-serif-condensed" size="14"><b>a</b></font></string>
     <string name="app_name">datacenterSDK</string>
     <string name="clock_24_hours_format">kk:mm</string>
