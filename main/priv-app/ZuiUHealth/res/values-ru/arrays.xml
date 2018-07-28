@@ -1,300 +1,293 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="datePickerXMonth">
-        <item>Январь</item>
-        <item>Февраль</item>
-        <item>Март</item>
-        <item>Апрель</item>
-        <item>Май</item>
-        <item>Июнь</item>
-        <item>Июль</item>
-        <item>Август</item>
-        <item>Сентябрь</item>
-        <item>Октябрь</item>
-        <item>Ноябрь</item>
-        <item>Декабрь</item>
-    </string-array>
-    <string-array name="datePickerXWeek">
-        <item>Воскресенье</item>
-        <item>Понедельник</item>
-        <item>Вторник</item>
-        <item>Среда</item>
-        <item>Четверг</item>
-        <item>Пятница</item>
-        <item>Суббота</item>
-    </string-array>
-    <string-array name="drag_list_array">
-        <item>Время активности</item>
-        <item>Сожжено калорий</item>
-        <item>Пройденная дистанция</item>
-        <item>Дистанция на велосипеде</item>
-        <item>Вес</item>
-        <item>Кровяное давление</item>
-        <item>Подъём по лестнице</item>
-    </string-array>
-    <string-array name="drag_list_array_cmcc">
-        <item>Время активности</item>
-        <item>Сожжено калорий</item>
-        <item>Вес</item>
-        <item>Кровяное давление</item>
-        <item>Подъем по лестнице</item>
-    </string-array>
-    <string-array name="drag_list_array_cmcc_no_floor">
-        <item>Время активности</item>
-        <item>Сожжено калорий</item>
-        <item>Вес</item>
-        <item>Кровяное давление</item>
-    </string-array>
-    <string-array name="drag_list_array_no_floor">
-        <item>Время активности</item>
-        <item>Сожжено калорий</item>
-        <item>Пройденная дистанция</item>
-        <item>Дистанция на велосипеде</item>
-        <item>Вес</item>
-        <item>Кровяное давление</item>
-    </string-array>
-    <string-array name="drag_list_array_seoul">
-        <item>Время активности</item>
-        <item>Сожжено калорий</item>
-        <item>Пройденная дистанция</item>
-        <item>Дистанция на велосипеде</item>
-        <item>Вес</item>
-        <item>Кровяное давление</item>
-        <item>Пульс</item>
-    </string-array>
-    <string-array name="exercise_array">
-        <item>Ходьба</item>
-        <item>Бег</item>
-        <item>Велосипед</item>
-        <item>Лестница</item>
-        <item>Бег на месте</item>
-        <item>Тренажер</item>
-        <item>Скакалка</item>
-        <item>Планка</item>
-        <item>Йога</item>
-        <item>Танцы</item>
-        <item>Аэробика</item>
-        <item>Плавание</item>
-        <item>Пинг-понг</item>
-        <item>Бадминтон</item>
-        <item>Баскетбол</item>
-        <item>Футбол</item>
-        <item>Теннис</item>
-        <item>Волейбол</item>
-        <item>Коньки</item>
-        <item>Лыжи</item>
-    </string-array>
-    <string-array name="exercise_array_healthy_list">
-        <item>Ходьба</item>
-        <item>Бег</item>
-        <item>Велосипед</item>
-        <item>Лестница</item>
-        <item>Бег на месте</item>
-        <item>Тренажер</item>
-        <item>Скакалка</item>
-        <item>Планка</item>
-        <item>Йога</item>
-        <item>Танцы</item>
-        <item>Аэробика</item>
-        <item>Плавание</item>
-        <item>Пинг-понг</item>
-        <item>Бадминтон</item>
-        <item>Баскетбол</item>
-        <item>Футбол</item>
-        <item>Теннис</item>
-        <item>Волейбол</item>
-        <item>Коньки</item>
-        <item>Лыжи</item>
-        <item>Транспортное средство</item>
-    </string-array>
-    <string-array name="exercise_array_share">
-        <item>Ходьба</item>
-        <item>Бег</item>
-        <item>Велосипед</item>
-    </string-array>
-    <string-array name="gender_lables">
-        <item>Женщина</item>
-        <item>Мужчина</item>
-    </string-array>
-    <string-array name="guest_info_more_array">
-        <item>Изменить данные гостей</item>
-        <item>Удалить гостя</item>
-    </string-array>
-    <string-array name="guest_portrait_dialog">
-        <item>Фотографировать</item>
-        <item>Фото</item>
-    </string-array>
-    <string-array name="health_array">
-        <item>Пульс</item>
-        <item>SpO2</item>
-        <item>Вес</item>
-        <item>Давление</item>
-    </string-array>
-    <string-array name="health_array_other">
-        <item>Пульс</item>
-        <item>SpO2</item>
-        <item>Вес</item>
-        <item>Давление</item>
-        <item>Пульс и SpO2</item>
-    </string-array>
-    <string-array name="heart_rate_type">
-        <item>Спокойствие</item>
-        <item>Движение</item>
-    </string-array>
-    <string-array name="monday_mode_weektitle">
-        <item>П</item>
-        <item>В</item>
-        <item>С</item>
-        <item>Ч</item>
-        <item>П</item>
-        <item>С</item>
-        <item>В</item>
-    </string-array>
-    <string-array name="motto_cn">
-        <item>Моя любовь ходить, а спорт приносит мне бесконечное удовольствие。</item>
-        <item>Упражнение должно быть регулярным, настаивать, люди и машины, как обычные упражнения не могут ржаветь。</item>
-        <item>В мире нет более красивой одежды, чем сильные мускулы и свежая кожа.</item>
-        <item>Главное - это не размер власти, но как долго это может продолжаться.</item>
-        <item>Здоровье тела ухудшается его неподвижностью, и оно сохраняется в течение длительного времени из-за физических упражнений.</item>
-        <item>Главное - это не размер власти, но как долго это может продолжаться.</item>
-        <item>С точки зрения упражнений лучше сидеть и сидеть, чем стоять и стоять, как ходьба.</item>
-        <item>Безразлично к славе и удаче, сочетание движений, работы и отдыха.</item>
-        <item>Упражнение - источник здоровья и секрет долголетия.</item>
-    </string-array>
-    <string-array name="motto_cn_provenance">
-        <item>--- Эйнштейн</item>
-        <item>--- Чжу Де</item>
-        <item>--- Маяковский</item>
-        <item>--- Джонсон</item>
-        <item>--- Сократ</item>
-        <item>--- Джонсон</item>
-        <item>--- Роусеуа</item>
-        <item>--- Хуа</item>
-        <item>--- Ма Джон</item>
-    </string-array>
-    <string-array name="motto_en">
-        <item>Я могу принять поражение, но не могу согласиться отказаться.</item>
-        <item>Рано спать и рано вставать, делает человека здоровым, богатым и мудрым.</item>
-        <item>Цели определяют, кем вы хотите стать.</item>
-        <item>Старайтесь не становиться человеком успеха, а старайтесь стать человеком дела.</item>
-        <item>Энергия и настойчивость покоряют все.</item>
-        <item>Прекратите бороться, и вы перестанете жить.</item>
-        <item>Мужество - это как мышца. Мы укрепляем его с использованием.</item>
-        <item>Никогда не позволяйте страху или стыду препятствовать вам радоваться за людей, лучших чем вы.</item>
-        <item>Действие - это реальная мера интеллекта.</item>
-        <item>"Вы никогда не проиграете, пока не перестанете пытаться."</item>
-        <item>Прекратите бороться, и вы перестанете жить.</item>
-        <item>"За каждым успешным человеком есть много неуспешных лет."</item>
-        <item>"Ты должен верить в себя. В этом секрет успеха."</item>
-    </string-array>
-    <string-array name="motto_en_provenance">
-        <item>--- Майкл Джордан</item>
-        <item>--- Бенджамин Франклин</item>
-        <item>--- Юлий Эрвинг</item>
-        <item>--- А. Эйнштейн</item>
-        <item>--- Бенджамин Франклин</item>
-        <item>--- Томас Карлайл</item>
-        <item>--- Рут Гордон</item>
-        <item>--- Кристен Андерсон-Лопес</item>
-        <item>--- Наполеан Хилл</item>
-        <item>--- Майк Дитка</item>
-        <item>--- Томас Карлайл</item>
-        <item>--- Боб Браун</item>
-        <item>--- Чарльз Чаплин</item>
-    </string-array>
-    <array name="num_actions_images">
-        <item>@mipmap/num0</item>
-        <item>@mipmap/num1</item>
-        <item>@mipmap/num2</item>
-        <item>@mipmap/num3</item>
-        <item>@mipmap/num4</item>
-        <item>@mipmap/num5</item>
-        <item>@mipmap/num6</item>
-        <item>@mipmap/num7</item>
-        <item>@mipmap/num8</item>
-        <item>@mipmap/num9</item>
-    </array>
-    <string-array name="pace_speed_5">
-        <item>Не торопиться</item>
-        <item>Не спешить</item>
-        <item>Не нервничать</item>
-    </string-array>
-    <string-array name="pace_speed_6">
-        <item>Медленно</item>
-        <item>Медленный темп</item>
-        <item>Медленный темп</item>
-    </string-array>
-    <string-array name="products">
-        <item>ZUK</item>
-        <item>Jabra PULSE</item>
-        <item>Life Sense BPM</item>
-    </string-array>
-    <string-array name="products_hw">
-        <item>Jabra PULSE</item>
-    </string-array>
-    <string-array name="products_no_lifesense">
-        <item>ZUK</item>
-        <item>Jabra PULSE</item>
-    </string-array>
-    <string-array name="skin_lables">
-        <item>Желтый</item>
-        <item>Белый</item>
-        <item>Черный</item>
-    </string-array>
-    <string-array name="step_count_to_food">
-        <item>≈яйцо</item>
-        <item>≈5 конфет</item>
-        <item>≈пакет молока</item>
-        <item>≈банка колы</item>
-        <item>≈миска риса</item>
-        <item>≈пол пирожного</item>
-        <item>≈мороженое</item>
-        <item>≈пол гамбургера</item>
-        <item>≈пол пачки чипсов</item>
-        <item>≈2 банки колы</item>
-        <item>≈2 ломтика хлеба</item>
-        <item>≈2 миски риса</item>
-        <item>≈миска лапши</item>
-        <item>≈пирожное</item>
-        <item>≈3 куриных крылышка</item>
-        <item>≈2 мороженых</item>
-        <item>≈кусок пиццы</item>
-        <item>≈гамбургер</item>
-    </string-array>
-    <string-array name="sunday_mode_weektitle">
-        <item>В</item>
-        <item>П</item>
-        <item>В</item>
-        <item>С</item>
-        <item>Ч</item>
-        <item>П</item>
-        <item>С</item>
-    </string-array>
-    <string-array name="trend_day_by_hour">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-    </string-array>
+  <string-array name="datePickerXWeek">
+    <item>Воскресенье</item>
+    <item>Понедельник</item>
+    <item>Вторник</item>
+    <item>Среда</item>
+    <item>Четверг</item>
+    <item>Пятница</item>
+    <item>Суббота</item>
+  </string-array>
+  <string-array name="drag_list_array">
+    <item>Время активности</item>
+    <item>Сожжено калорий</item>
+    <item>Пройденная дистанция</item>
+    <item>Дистанция на велосипеде</item>
+    <item>Вес</item>
+    <item>Кровяное давление</item>
+    <item>Подъем по лестнице</item>
+  </string-array>
+  <string-array name="drag_list_array_cmcc">
+    <item>Время активности</item>
+    <item>Сожжено калорий</item>
+    <item>Вес</item>
+    <item>Кровяное давление</item>
+    <item>Подъем по лестнице</item>
+  </string-array>
+  <string-array name="drag_list_array_cmcc_no_floor">
+    <item>Время активности</item>
+    <item>Сожжено калорий</item>
+    <item>Вес</item>
+    <item>Кровяное давление</item>
+  </string-array>
+  <string-array name="drag_list_array_no_floor">
+    <item>Время активности</item>
+    <item>Сожжено калорий</item>
+    <item>Пройденная дистанция</item>
+    <item>Дистанция на велосипеде</item>
+    <item>Вес</item>
+    <item>Кровяное давление</item>
+  </string-array>
+  <string-array name="drag_list_array_seoul">
+    <item>Время активности</item>
+    <item>Сожжено калорий</item>
+    <item>Пройденная дистанция</item>
+    <item>Дистанция на велосипеде</item>
+    <item>Вес</item>
+    <item>Кровяное давление</item>
+    <item>Пульс</item>
+  </string-array>
+  <string-array name="exercise_array">
+    <item>Ходьба</item>
+    <item>Бег</item>
+    <item>Велосипед</item>
+    <item>Лестница</item>
+    <item>Бег на месте</item>
+    <item>Тренажер</item>
+    <item>Скакалка</item>
+    <item>Планка</item>
+    <item>Йога</item>
+    <item>Танцы</item>
+    <item>Аэробика</item>
+    <item>Плавание</item>
+    <item>Пинг-понг</item>
+    <item>Бадминтон</item>
+    <item>Баскетбол</item>
+    <item>Футбол</item>
+    <item>Теннис</item>
+    <item>Волейбол</item>
+    <item>Коньки</item>
+    <item>Лыжи</item>
+  </string-array>
+  <string-array name="exercise_array_healthy_list">
+    <item>Ходьба</item>
+    <item>Бег</item>
+    <item>Велосипед</item>
+    <item>Лестница</item>
+    <item>Бег на месте</item>
+    <item>Тренажер</item>
+    <item>Скакалка</item>
+    <item>Планка</item>
+    <item>Йога</item>
+    <item>Танцы</item>
+    <item>Аэробика</item>
+    <item>Плавание</item>
+    <item>Пинг-понг</item>
+    <item>Бадминтон</item>
+    <item>Баскетбол</item>
+    <item>Футбол</item>
+    <item>Теннис</item>
+    <item>Волейбол</item>
+    <item>Коньки</item>
+    <item>Лыжи</item>
+    <item>Транспортное средство</item>
+  </string-array>
+  <string-array name="exercise_array_share">
+    <item>Ходьба</item>
+    <item>Бег</item>
+    <item>Велосипед</item>
+  </string-array>
+  <string-array name="gender_lables">
+    <item>Женщина</item>
+    <item>Мужчина</item>
+  </string-array>
+  <string-array name="guest_info_more_array">
+    <item>Изменить данные гостей</item>
+    <item>Удалить гостя</item>
+  </string-array>
+  <string-array name="guest_portrait_dialog">
+    <item>Фотографировать</item>
+    <item>Фото</item>
+  </string-array>
+  <string-array name="health_array">
+    <item>Пульс</item>
+    <item>SpO2</item>
+    <item>Вес</item>
+    <item>Давление</item>
+  </string-array>
+  <string-array name="health_array_other">
+    <item>Пульс</item>
+    <item>SpO2</item>
+    <item>Вес</item>
+    <item>Давление</item>
+    <item>Пульс и SpO2</item>
+  </string-array>
+  <string-array name="heart_rate_type">
+    <item>Спокойствие</item>
+    <item>Движение</item>
+  </string-array>
+  <string-array name="monday_mode_weektitle">
+    <item>П</item>
+    <item>Ч</item>
+    <item>С</item>
+    <item>Ч</item>
+    <item>П</item>
+    <item>С</item>
+    <item>С</item>
+  </string-array>
+  <string-array name="motto_cn">
+    <item>Моя любовь ходить, а спорт приносит мне бесконечное удовольствие。</item>
+    <item>Упражнение должно быть регулярным, настаивать, люди и машины, как обычные упражнения не могут ржаветь。</item>
+    <item>В мире нет более красивой одежды, чем сильные мускулы и свежая кожа.</item>
+    <item>Главное - это не размер власти, но как долго это может продолжаться.</item>
+    <item>Здоровье тела ухудшается его неподвижностью, и оно сохраняется в течение длительного времени из-за физических упражнений.</item>
+    <item>Главное - это не размер власти, но как долго это может продолжаться.</item>
+    <item>С точки зрения упражнений лучше сидеть и сидеть, чем стоять и стоять, как ходьба.</item>
+    <item>Безразлично к славе и удаче, сочетание движений, работы и отдыха.</item>
+    <item>Упражнение - источник здоровья и секрет долголетия.</item>
+  </string-array>
+  <string-array name="motto_cn_provenance">
+    <item>--- Эйнштейн</item>
+    <item>--- Чжу Де</item>
+    <item>--- Маяковский</item>
+    <item>--- Джонсон</item>
+    <item>--- Сократ</item>
+    <item>--- Джонсон</item>
+    <item>--- Роусеуа</item>
+    <item>--- Хуа</item>
+    <item>--- Ма Джон</item>
+  </string-array>
+  <string-array name="motto_en">
+    <item>Я могу принять поражение, но не могу согласиться на отказ.</item>
+    <item>Рано ложиться спать и рано вставать, делает вас здоровым, богатым и мудрым.</item>
+    <item>Цели определяют, кем вы хотите стать.</item>
+    <item>Старайтесь не становиться человеком успеха, старайтесь стать человеком дела.</item>
+    <item>Энергия и настойчивость покоряют все.</item>
+    <item>Прекратите бороться, и вы перестанете жить.</item>
+    <item>Мужество - это как мышца. Мы укрепляем его с использованием.</item>
+    <item>Никогда не позволяйте страху или стыду препятствовать вам радоваться за людей, лучших чем вы.</item>
+    <item>Действие - это реальная мера интеллекта.</item>
+    <item>"Вы никогда не проиграете, пока не перестанете пытаться."</item>
+    <item>Прекратите бороться, и вы перестанете жить.</item>
+    <item>"За каждым успешным человеком есть много неуспешных лет."</item>
+    <item>"Ты должен верить в себя. В этом секрет успеха."</item>
+  </string-array>
+  <string-array name="motto_en_provenance">
+    <item>--- Майкл Джордан</item>
+    <item>--- Бенджамин Франклин</item>
+    <item>--- Юлий Эрвинг</item>
+    <item>--- А. Эйнштейн</item>
+    <item>--- Бенджамин Франклин</item>
+    <item>--- Томас Карлайл</item>
+    <item>--- Рут Гордон</item>
+    <item>--- Кристен Андерсон-Лопес</item>
+    <item>--- Наполеан Хилл</item>
+    <item>--- Майк Дитка</item>
+    <item>--- Томас Карлайл</item>
+    <item>--- Боб Браун</item>
+    <item>--- Чарльз Чаплин</item>
+  </string-array>
+  <array name="num_actions_images">
+    <item>@mipmap/num0</item>
+    <item>@mipmap/num1</item>
+    <item>@mipmap/num2</item>
+    <item>@mipmap/num3</item>
+    <item>@mipmap/num4</item>
+    <item>@mipmap/num5</item>
+    <item>@mipmap/num6</item>
+    <item>@mipmap/num7</item>
+    <item>@mipmap/num8</item>
+    <item>@mipmap/num9</item>
+  </array>
+  <string-array name="pace_speed_5">
+    <item>Не торопиться</item>
+    <item>Не спешить</item>
+    <item>Не нервничать</item>
+  </string-array>
+  <string-array name="pace_speed_6">
+    <item>Медленно</item>
+    <item>Медленный темп</item>
+    <item>Медленный темп</item>
+  </string-array>
+  <string-array name="products">
+    <item>ZUK</item>
+    <item>Jabra PULSE</item>
+    <item>Life Sense BPM</item>
+    <item>Watch 9</item>
+  </string-array>
+  <string-array name="products_hw">
+    <item>Jabra PULSE</item>
+  </string-array>
+  <string-array name="products_no_lifesense">
+    <item>ZUK</item>
+    <item>Jabra PULSE</item>
+  </string-array>
+  <string-array name="skin_lables">
+    <item>Желтый</item>
+    <item>Белый</item>
+    <item>Черный</item>
+  </string-array>
+  <string-array name="snooze_interval">
+    <item>15 минут раньше времени</item>
+    <item>30 минут раньше времени</item>
+    <item>На 45 минут раньше времени</item>
+    <item>На час раньше времени</item>
+  </string-array>
+  <string-array name="step_count_to_food">
+    <item>≈яйцо</item>
+    <item>≈5 конфет</item>
+    <item>≈пакет молока</item>
+    <item>≈банка колы</item>
+    <item>≈миска риса</item>
+    <item>≈пол пирожного</item>
+    <item>≈мороженое</item>
+    <item>≈пол гамбургера</item>
+    <item>≈пол пачки чипсов</item>
+    <item>≈2 банки колы</item>
+    <item>≈2 ломтика хлеба</item>
+    <item>≈2 миски риса</item>
+    <item>≈миска лапши</item>
+    <item>≈пирожное</item>
+    <item>≈3 куриных крылышка</item>
+    <item>≈2 мороженых</item>
+    <item>≈кусок пиццы</item>
+    <item>≈гамбургер</item>
+  </string-array>
+  <string-array name="sunday_mode_weektitle">
+    <item>С</item>
+    <item>П</item>
+    <item>Ч</item>
+    <item>С</item>
+    <item>Ч</item>
+    <item>П</item>
+    <item>С</item>
+  </string-array>
+  <string-array name="trend_day_by_hour">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13</item>
+    <item>14</item>
+    <item>15</item>
+    <item>16</item>
+    <item>17</item>
+    <item>18</item>
+    <item>19</item>
+    <item>20</item>
+    <item>21</item>
+    <item>22</item>
+    <item>23</item>
+    <item>24</item>
+  </string-array>
 </resources>
