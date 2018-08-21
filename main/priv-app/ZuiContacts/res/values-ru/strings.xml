@@ -171,6 +171,8 @@
     <string name="contacts_deleted_two_named_toast">Контакты %1$s и %2$s удалены</string>
     <string name="contacts_export_will_start_message">Контакты скоро будут экспортированы.</string>
     <string name="contacts_linking_progress_bar">Связывание контактов…</string>
+    <string name="contacts_settings_catagory_title_display">Отображение</string>
+    <string name="contacts_settings_category_title_contacts">Контакты</string>
     <string name="contacts_unavailable_add_account">Добавить аккаунт</string>
     <string name="contacts_unavailable_import_contacts">Импортировать</string>
     <string name="contacts_unlinking_progress_bar">Разделение контактов…</string>
@@ -219,6 +221,7 @@
     <string name="display_all_contacts">Все контакты</string>
     <string name="display_more_groups">Другие группы...</string>
     <string name="display_options_phonetic_name_fields">Транскрипция имени</string>
+    <string name="display_options_sim_contacts_enabled">Показать SIM-контакты</string>
     <string name="display_options_sort_by_family_name">Фамилия</string>
     <string name="display_options_sort_by_given_name">Имя</string>
     <string name="display_options_sort_list_by">Сортировка</string>
@@ -341,6 +344,7 @@
     <string name="list_filter_phones">Все контакты с номерами телефонов</string>
     <string name="list_filter_phones_work">Контакты из рабочего профиля</string>
     <string name="list_filter_single">Контакт</string>
+    <string name="list_header_groups_lable">Мои группы</string>
     <string name="local_invisible_directory">Другое</string>
     <string name="local_profile_title">Мой профиль</string>
     <string name="local_search_label">Все контакты</string>
@@ -544,8 +548,10 @@
     <string name="video_chat">Видеочат</string>
     <string name="view_updates_from_group">Обновления</string>
     <string name="websiteLabelsGroup">Веб-сайт</string>
-    <string name="display_options_sim_contacts_enabled">Показать SIM-контакты</string>
-    <string name="contacts_settings_catagory_title_display">Отображение</string>
-    <string name="contacts_settings_category_title_contacts">Контакты</string>
-	<string name="list_header_groups_lable">Мои группы</string>
+    <string name="listview_x_title_items_selected">%1$s элементов</string>
+    <string name="listview_x_title_main">%1$s выбрано</string>
+    <string name="listview_x_title_no_item_selected">Выбрать</string>
+    <string name="listview_x_title_one_item_selected">1 элемент</string>
+    <string name="listview_x_title_select_all">Выбрать все</string>
+    <string name="listview_x_title_unselect_all">Снять все</string>
 </resources>
