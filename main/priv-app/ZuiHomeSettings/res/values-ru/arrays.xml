@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXMonth">
+        <item>январь</item>
+        <item>февраль</item>
+        <item>Март</item>
+        <item>апрель</item>
+        <item>май</item>
+        <item>июнь</item>
+        <item>июль</item>
+        <item>август</item>
+        <item>сентябрь</item>
+        <item>октябрь</item>
+        <item>ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="datePickerXWeek">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="desktop_previewa_menu_list">
+        <item>Установка обоев</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="lockscreen_previewa_menu_list">
+        <item>Установка обоев</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="mainui_cta_short_message_word">
+        <item>Подключаться к сети для просмотра и загрузки шрифтов</item>
+    </string-array>
+    <string-array name="mainui_cta_short_title_word">
+        <item>Доступ к мобильной сети</item>
+    </string-array>
+    <string-array name="wallpapers">
+        <item>wallpaper_021</item>
+        <item>wallpaper_000</item>
+        <item>wallpaper_001</item>
+        <item>wallpaper_002</item>
+        <item>wallpaper_003</item>
+        <item>wallpaper_006</item>
+        <item>wallpaper_007</item>
+        <item>wallpaper_008</item>
+        <item>wallpaper_009</item>
+        <item>wallpaper_010</item>
+        <item>wallpaper_011</item>
+        <item>wallpaper_012</item>
+        <item>wallpaper_013</item>
+        <item>wallpaper_014</item>
+        <item>wallpaper_015</item>
+        <item>wallpaper_016</item>
+        <item>wallpaper_017</item>
+        <item>wallpaper_018</item>
+        <item>wallpaper_019</item>
+        <item>wallpaper_020</item>
+        <item>poly_000</item>
+        <item>poly_001</item>
+    </string-array>
+</resources>

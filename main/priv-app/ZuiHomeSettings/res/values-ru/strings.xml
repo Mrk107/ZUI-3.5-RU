@@ -127,7 +127,7 @@
     <string name="superscript_manager_title">Значки</string>
     <string name="time_picker_dialog_x_am">AM</string>
     <string name="time_picker_dialog_x_complete">ОК</string>
-    <string name="time_picker_dialog_x_midnight">midnight</string>
+    <string name="time_picker_dialog_x_midnight">полночь</string>
     <string name="time_picker_dialog_x_noon">noon</string>
     <string name="time_picker_dialog_x_pm">PM</string>
     <string name="time_picker_dialog_x_title">%1$s:%2$s %3$s</string>
@@ -147,9 +147,9 @@
     <string name="wallsetsuccess">Успех</string>
     <string name="workspace_loop_settings_title">Цикл</string>
     <string name="xuilauncher_app_name">Лаунчер</string>
-    <string name="com_lenovo_lsf_pay_comfire_alipay_install">请安装支付宝，支付更顺畅更安全！</string>
+    <string name="com_lenovo_lsf_pay_comfire_alipay_install">Пожалуйста, установите Alipay и платите более плавно и безопасно!</string>
     <string name="com_lenovogame_cashpay_account_label">Аккаунт:</string>
-    <string name="com_lenovogame_cashpay_alipay_needinstall_text">支付宝未安装</string>
+    <string name="com_lenovogame_cashpay_alipay_needinstall_text">Alipay не установлен</string>
     <string name="com_lenovogame_cashpay_balance_label">Баланс</string>
     <string name="com_lenovogame_cashpay_cashier_title">Кассир Lenovo</string>
     <string name="com_lenovogame_cashpay_charge_pay_Type_title">Пополнение и оплата</string>
@@ -164,8 +164,8 @@
     <string name="com_lenovogame_cashpay_name_25">WechatPay</string>
     <string name="com_lenovogame_cashpay_name_7">UnionPay</string>
     <string name="com_lenovogame_cashpay_name_8">Alipay</string>
-    <string name="com_lenovogame_cashpay_need_price_label">Need to pay:</string>
-    <string name="com_lenovogame_cashpay_network_error">Network connection failed, please try again!</string>
+    <string name="com_lenovogame_cashpay_need_price_label">Нужно платить:</string>
+    <string name="com_lenovogame_cashpay_network_error">Не удалось подключиться к сети, повторите попытку!</string>
     <string name="com_lenovogame_cashpay_order_label">Цена:</string>
     <string name="com_lenovogame_cashpay_prepare_pay">Подготовка к оплате ...</string>
     <string name="com_lenovogame_cashpay_product_label">Товар:</string>
@@ -173,10 +173,10 @@
     <string name="com_lenovogame_cashpay_query_result">Проверка результатов ...</string>
     <string name="com_lenovogame_cashpay_query_wait_text">Проверить позже</string>
     <string name="com_lenovogame_cashpay_query_waiting_text">Проверка результатов, пожалуйста, подождите ...</string>
-    <string name="com_lenovogame_cashpay_query_waiting_to_account_text">recharge Not arrived, please wait ...</string>
-    <string name="com_lenovogame_cashpay_security_label">You are now in the secure payment environment, please pay!</string>
-    <string name="com_lenovogame_cashpay_weixin_needinstall_text">Wechat need to be installed!</string>
-    <string name="com_lenovogame_cashpay_weixin_version_low_text">Wechat need to be upgraded!</string>
+    <string name="com_lenovogame_cashpay_query_waiting_to_account_text">перезарядка Не прибыл, подождите ...</string>
+    <string name="com_lenovogame_cashpay_security_label">Теперь вы находитесь в безопасной платежной среде, пожалуйста, оплатите!</string>
+    <string name="com_lenovogame_cashpay_weixin_needinstall_text">Wechat необходимо установить!</string>
+    <string name="com_lenovogame_cashpay_weixin_version_low_text">Wechat нужно обновить!</string>
     <string name="controlcenter_mmchat_article_floatwin_prompt">Это помогает решить проблему, когда Вы не можете вернуться к статье, не ответив на сообщение WeChat.</string>
     <string name="controlcenter_mmchat_article_floatwin_title">Статья в всплывающем окне</string>
     <string name="controlcenter_mmchat_article_task_title">Показать Wechat сообщение/статью в недавних</string>
@@ -190,7 +190,7 @@
     <string name="font_pay_fail">Платеж не прошел</string>
     <string name="font_set_fail">Не удалось настроить параметры, повторите попытку.</string>
     <string name="get_order">Создание порядка ...</string>
-    <string name="get_order_fail">Failed to create order</string>
+    <string name="get_order_fail">Не удалось создать заказ</string>
     <string name="hangban_title">Рейс</string>
     <string name="hanglv_title">Воздушные путешествия</string>
     <string name="mainui_cta_agree">Разрешить</string>

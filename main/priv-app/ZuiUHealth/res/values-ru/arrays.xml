@@ -129,22 +129,22 @@
   </string-array>
   <string-array name="monday_mode_weektitle">
     <item>П</item>
-    <item>Ч</item>
+    <item>В</item>
     <item>С</item>
     <item>Ч</item>
     <item>П</item>
     <item>С</item>
-    <item>С</item>
+    <item>В</item>
   </string-array>
   <string-array name="motto_cn">
-    <item>Моя любовь ходить, а спорт приносит мне бесконечное удовольствие。</item>
-    <item>Упражнение должно быть регулярным, настаивать, люди и машины, как обычные упражнения не могут ржаветь。</item>
+    <item>Моя любовь ходить, и спорт приносит мне бесконечное удовольствие。</item>
+    <item>Упражнение должно быть регулярным люди и машины, как и обычные упражнения не могут ржаветь。</item>
     <item>В мире нет более красивой одежды, чем сильные мускулы и свежая кожа.</item>
-    <item>Главное - это не размер власти, но как долго это может продолжаться.</item>
+    <item>Главное - это не размер, а то как долго это может продолжаться.</item>
     <item>Здоровье тела ухудшается его неподвижностью, и оно сохраняется в течение длительного времени из-за физических упражнений.</item>
-    <item>Главное - это не размер власти, но как долго это может продолжаться.</item>
+    <item>Главное - это не размер, а то как долго это может продолжаться.</item>
     <item>С точки зрения упражнений лучше сидеть и сидеть, чем стоять и стоять, как ходьба.</item>
-    <item>Безразлично к славе и удаче, сочетание движений, работы и отдыха.</item>
+    <item>Безразличие к славе и удаче, сочетание движений, работы и отдыха.</item>
     <item>Упражнение - источник здоровья и секрет долголетия.</item>
   </string-array>
   <string-array name="motto_cn_provenance">
@@ -229,35 +229,35 @@
     <item>Черный</item>
   </string-array>
   <string-array name="snooze_interval">
-    <item>15 минут раньше времени</item>
-    <item>30 минут раньше времени</item>
-    <item>На 45 минут раньше времени</item>
-    <item>На час раньше времени</item>
+    <item>За 15 минут</item>
+    <item>За 30 минут</item>
+    <item>За 45 минут</item>
+    <item>За час</item>
   </string-array>
   <string-array name="step_count_to_food">
-    <item>≈яйцо</item>
-    <item>≈5 конфет</item>
-    <item>≈пакет молока</item>
-    <item>≈банка колы</item>
-    <item>≈миска риса</item>
-    <item>≈пол пирожного</item>
-    <item>≈мороженое</item>
-    <item>≈пол гамбургера</item>
-    <item>≈пол пачки чипсов</item>
-    <item>≈2 банки колы</item>
-    <item>≈2 ломтика хлеба</item>
-    <item>≈2 миски риса</item>
-    <item>≈миска лапши</item>
-    <item>≈пирожное</item>
-    <item>≈3 куриных крылышка</item>
-    <item>≈2 мороженых</item>
-    <item>≈кусок пиццы</item>
-    <item>≈гамбургер</item>
+    <item>≈ яйцо</item>
+    <item>≈ 5 конфет</item>
+    <item>≈ пакет молока</item>
+    <item>≈ банка колы</item>
+    <item>≈ миска риса</item>
+    <item>≈ пол пирожного</item>
+    <item>≈ мороженое</item>
+    <item>≈ пол гамбургера</item>
+    <item>≈ пол пачки чипсов</item>
+    <item>≈ 2 банки колы</item>
+    <item>≈ 2 ломтика хлеба</item>
+    <item>≈ 2 миски риса</item>
+    <item>≈ миска лапши</item>
+    <item>≈ пирожное</item>
+    <item>≈ 3 куриных крылышка</item>
+    <item>≈ 2 мороженых</item>
+    <item>≈ кусок пиццы</item>
+    <item>≈ гамбургер</item>
   </string-array>
   <string-array name="sunday_mode_weektitle">
-    <item>С</item>
+    <item>В</item>
     <item>П</item>
-    <item>Ч</item>
+    <item>В</item>
     <item>С</item>
     <item>Ч</item>
     <item>П</item>
