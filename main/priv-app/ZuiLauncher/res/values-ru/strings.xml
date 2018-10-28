@@ -443,7 +443,17 @@
     <string name="network_error">Невозможно получить ресурсы, пожалуйста, проверьте сеть.</string>
     <string name="no_network">Сетевое соединение не удалось, проверьте вашу сеть и повторите попытку позже</string>
     <string name="prompt_information">При бэкапе данных, они перезапишут прежние, восстанавливается только макет без удаленных приложений.</string>
+<<<<<<< HEAD
+    <string name="reboot_progress">Перезагрузка</string>
+    <string name="recommend_downloading">Загрузка</string>
+    <string name="recommend_install_inprogress">Установка</string>
+    <string name="recommend_install_ready">Ожидайте</string>
+    <string name="recommend_network_settings_summary">Использовать рекомендуемую сеть чтобы скачать приложение</string>
+    <string name="recommend_network_settings_title">Рекомендации по применению и загрузки</string>
+    <string name="recommend_paused">Пауза</string>
+=======
     <string name="recommend_install_ready">Ждите</string>
+>>>>>>> d2c4b9c0b57ceab483942f8cd8b602f911cbde8d
     <string name="refuse">отмена</string>
     <string name="restore_the_desktop_layout">Восстановление макета рабочего стола</string>
     <string name="restore_the_last_backup_desktop_layout">Восстановить макет рабочего стола</string>
