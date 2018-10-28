@@ -1410,6 +1410,7 @@
     <string name="empty_list_msg">У вас нет сторонних приложений.</string>
     <string name="enable_charge_pulse_title">Включать диод при зарядке</string>
     <string name="enable_compatibility">Масштабное приложение</string>
+    <string name="enable_notification_pulse_title">Мерцание индикатора при уведомлениях</string>
     <string name="enable_quick_setting">Показать в быстрых настройках</string>
     <string name="enable_service_encryption_warning">Если вы включите %1$s, ваше устройство не будет использовать блокировку экрана для улучшения шифрования данных.</string>
     <string name="enable_service_password_reason">Поскольку включение %1$s влияет на шифрование данных, вам необходимо подтвердить свой пароль.</string>
@@ -1639,6 +1640,56 @@
     <string name="gadget_toggle_bluetooth">Обновление настройки Bluetooth</string>
     <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
+    <string name="game_assistant_advanced_performance_mode_summary">Увеличьте частоту процессора, чтобы обеспечить высокую производительность.</string>
+    <string name="game_assistant_advanced_performance_mode_title">Режим производительности</string>
+    <string name="game_assistant_buy">Купить</string>
+    <string name="game_assistant_cancel">Отмена</string>
+    <string name="game_assistant_closed">Закрыть</string>
+    <string name="game_assistant_game_inputmethod_recover_ime_app_text">Функция игровой клавиатуры должна использовать КитайКлавиатура. В вашей системе нет такого приложения; если вы хотите использовать эту функцию, вы можете перейти в приложение «Настройки-Восстановление системы» для восстановления приложения и установить его как системный ввод.</string>
+    <string name="game_assistant_game_inputmethod_set_default_ime_text">Функция игровой клавиатуры должна использовать КитайКлавиатура. Если вы хотите использовать эту функцию, вы можете перейти в «Настройки-Системная-Текущая клавиатура», чтобы установить ее как системный вход.</string>
+    <string name="game_assistant_game_inputmethod_set_fail">Установить игровую клавиатуру безуспешно</string>
+    <string name="game_assistant_game_inputmethod_summary">Необходимо установить системный ввод как КитайКлавиатура.</string>
+    <string name="game_assistant_game_inputmethod_title">Использование плавающей клавиатуры при игре</string>
+    <string name="game_assistant_main_sim_network_accelerate_dialog_content">Вы не будете получать звонки и SMS на вторичную SIM-карту.</string>
+    <string name="game_assistant_main_sim_network_accelerate_dialog_title">Включение ускорения скорости передачи данных</string>
+    <string name="game_assistant_main_sim_network_accelerate_summary">Отключите дополнительную карту, чтобы повысить производительность сети и стабильность передачи данных..</string>
+    <string name="game_assistant_main_sim_network_accelerate_title">Повышение скорости передачи данных</string>
+    <string name="game_assistant_memory_accelerate_summary">Очистите кеш, чтобы оптимизировать игровой процесс.</string>
+    <string name="game_assistant_memory_accelerate_title">Очистить кэш</string>
+    <string name="game_assistant_network_header_title">Повышение скорости сети</string>
+    <string name="game_assistant_network_switch_protect_dialog_content">Используйте сотовую сеть и не переключайтесь автоматически на WLAN во время игр.</string>
+    <string name="game_assistant_network_switch_protect_dialog_title">Предотвращение коммутации сети</string>
+    <string name="game_assistant_network_switch_protect_summary">Используйте сотовую сеть и не переключайтесь автоматически на WLAN во время игр.</string>
+    <string name="game_assistant_network_switch_protect_title">(Предотвращение коммутации сети</string>
+    <string name="game_assistant_no_internet">Не удалось активировать, пожалуйста, проверьте свою сеть.</string>
+    <string name="game_assistant_notification_undisturb_summary">Отключить уведомления, кроме входящих вызовов и аварийных сигналов.</string>
+    <string name="game_assistant_notification_undisturb_title">Не беспокоить</string>
+    <string name="game_assistant_ok">Открыть</string>
+    <string name="game_assistant_ok_activate">Активировать</string>
+    <string name="game_assistant_ok_to_recover_inputmethod">Восстановление метода ввода</string>
+    <string name="game_assistant_ok_to_set_inputmethod">Настроить метод ввода</string>
+    <string name="game_assistant_opened">Открыть</string>
+    <string name="game_assistant_performance_header_title">Режим производительности</string>
+    <string name="game_assistant_prevent_misoperation_summary">Дважды нажмите кнопку питания, чтобы отключить навигационную панель, U-Touch, прокрутку и прокрутку во время игр. Еще раз нажмите дважды, чтобы включить их.</string>
+    <string name="game_assistant_prevent_misoperation_title">Отключить навигационную панель и U-Touch</string>
+    <string name="game_assistant_special_line_confirm_dialog_content">Подключите Интернет для активации Игрового VPN.</string>
+    <string name="game_assistant_special_line_confirm_dialog_title">Игровой VPN</string>
+    <string name="game_assistant_special_line_network_summary">VPN для игр на базе UU Booster.</string>
+    <string name="game_assistant_special_line_network_summary_activate">"
+(Свободный период опыта"</string>
+    <string name="game_assistant_special_line_network_summary_brackets">)</string>
+    <string name="game_assistant_special_line_network_summary_free">"
+(Свободный опыт для:"</string>
+    <string name="game_assistant_special_line_network_summary_to_buy">"
+(Срок действия истек, нажмите кнопку «купить».)"</string>
+    <string name="game_assistant_special_line_network_summary_valid">"
+(Срок действия:"</string>
+    <string name="game_assistant_special_line_network_title">Игровая VPN</string>
+    <string name="game_assistant_summary">Оптимизировать игровые приложения и улучшить игровой опыт.</string>
+    <string name="game_assistant_title">Игровой режим</string>
+    <string name="game_assistant_title_summary">Режим производительности, DND игры</string>
+    <string name="game_assistant_title_summary_full">Режим производительности, усиление сети, игра DND</string>
+    <string name="game_assistant_undisturb_header_title">Игра DND</string>
     <string name="game_controller_settings_category">Игровой контроллер</string>
     <string name="game_storage_settings">Игры</string>
     <string name="gesture_preference_summary">Быстрые жесты для управления телефоном</string>
@@ -1731,7 +1782,7 @@
     <string name="join_two_items">%1$s и %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
     <string name="kernel_version">Версия ядра</string>
-    <string name="keyboard_and_input_methods_category">Клавиатура и входы</string>
+    <string name="keyboard_and_input_methods_category">Клавиатура и ввод</string>
     <string name="keyboard_assistance_category">Поддержка клавиатуры</string>
     <string name="keyboard_layout_default_label">По умолчанию</string>
     <string name="keyboard_layout_dialog_setup_button">Настройка раскладки клавиатуры</string>
@@ -1794,9 +1845,9 @@
     <string name="lab_features_title">Экспериментальные функции</string>
     <string name="lab_screen_record">Запись экрана</string>
     <string name="lab_splitcreen">Разделение экрана</string>
-    <string name="language_keyboard_settings_title">Языки и вход</string>
+    <string name="language_keyboard_settings_title">Языки и ввод</string>
     <string name="language_picker_title">Языки</string>
-    <string name="language_settings">Языки и вход</string>
+    <string name="language_settings">Языки и ввод</string>
     <string name="last_synced">Последний синхронизированный %1$s</string>
     <string name="last_time_used_label">Последнее использование времени</string>
     <string name="launch_by_default">Открыть по умолчанию</string>
@@ -1902,6 +1953,7 @@
     <string name="lockpassword_invalid_password">Неверный пароль</string>
     <string name="lockpassword_invalid_pin">Неверный PIN-код</string>
     <string name="lockpassword_ok_label">ОК</string>
+    <string name="lockpassword_password_no_sequential_characters">Запрещается восходящая, нисходящая или повторяющаяся последовательность символов</string>
     <string name="lockpassword_password_recently_used">«Администратор устройства не разрешает использование последнего пароля»</string>
     <string name="lockpassword_password_requires_alpha">Должен содержать хотя бы одну букву</string>
     <string name="lockpassword_password_requires_digit">Должен содержать хотя бы одну цифру</string>
@@ -2950,8 +3002,6 @@ There are other users present on this device.
     <string name="sound_work_settings">Звук рабочего профиля</string>
     <string name="sounds_headset">Отмена помех для наушников</string>
     <string name="special_access">Специальные возможности</string>
-    <string name="speed_overclocking">Режим разгона</string>
-    <string name="speed_overclocking_summary">Режим разгона повышает нагрузку на процессор.</string>
     <string name="spell_checker_not_selected">Не выбран</string>
     <string name="spellchecker_language">Язык</string>
     <string name="spellchecker_quick_settings">Настройки</string>
@@ -3196,7 +3246,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="system_package">Системные обновления не могут быть установлены на внешний носитель.</string>
     <string name="system_ui_settings">Показать тюнер SystemUI</string>
     <string name="system_update_settings_list_item_summary" />
-    <string name="system_update_settings_list_item_title">Обновление системы</string>
+    <string name="system_update_settings_list_item_title">Центр загрузок</string>
     <string name="talkback_summary">Чтение экрана в первую очередь для людей с слепотой и низким зрением</string>
     <string name="talkback_title">Отвечать</string>
     <string name="tap_to_wake">Нажмите, чтобы проснуться</string>
@@ -3246,6 +3296,12 @@ Consider using a faster ^1 for better performance."</string>
     <string name="uninstall_device_admin">Деинсталляция приложения</string>
     <string name="uninstall_text">Удалить</string>
     <string name="unknown_app">Неизвестное приложение</string>
+    <string name="unloaded_apps">Восстановление приложений</string>
+    <string name="unloaded_apps_tips">Нечего восстанавливать</string>
+    <string name="unloaded_recovery">Восстановить</string>
+    <string name="unloaded_recoverying">Восстановление</string>
+    <string name="unloaded_update">Обновить</string>
+    <string name="unloaded_updating">Обновление</string>
     <string name="unlock_change_lock_password_title">Изменить пароль разблокировки</string>
     <string name="unlock_change_lock_pattern_title">Изменить графический ключ разблокировки</string>
     <string name="unlock_change_lock_pin_title">Изменить PIN-код разблокировки</string>
@@ -4050,6 +4106,8 @@ Consider using a faster ^1 for better performance."</string>
     <string name="zone_auto_summaryOn">Использовать часовую зону сети</string>
     <string name="zone_list_menu_sort_alphabetically">Сортировать по алфавиту</string>
     <string name="zone_list_menu_sort_by_timezone">Сортировать по часовому поясу</string>
+    <string name="zui_battery_extreme">Ночное сбережение</string>
+    <string name="zui_battery_extreme_description">Когда активировано супер энергосбережение, доступны только основные функции, такие как вызов и сообщение. Новые уведомления, такие как сообщения WeChat и электронные письма, будут отложены.</string>
     <string name="zui_battery_had_usage">Время использования:</string>
     <string name="zui_battery_mods">Moto Mod</string>
     <string name="zui_battery_now">Сейчас</string>
@@ -4303,7 +4361,6 @@ Consider using a faster ^1 for better performance."</string>
     <string name="lenovo_serve_number">400-818-8818</string>
     <string name="lenovo_title">Lenovo</string>
     <string name="link_speed_label">Скорость связи:</string>
-    <string name="lockpassword_password_no_sequential_characters">Запрещается восходящая, нисходящая или повторяющаяся последовательность символов</string>
     <string name="long_pressed_back_home">Длинный переход на главный экран</string>
     <string name="macaddr_label">MAC addr:</string>
     <string name="megabyteShort">мегабайт</string>
@@ -4545,4 +4602,8 @@ Consider using a faster ^1 for better performance."</string>
     <string name="grey1">Черно-белый экран</string>
     <string name="grey2">Вкл/Выкл</string>
     <string name="doze1">Открыть</string>
+    <string name="speed_overclocking">Режим разгона</string>
+    <string name="speed_overclocking_summary">Режим разгона повышает нагрузку на процессор.</string>
+    <string name="join_user_experience_title">Делиться данными с разраб.</string>
+    <string name="anim1">Скорость анимации</string>
 </resources>

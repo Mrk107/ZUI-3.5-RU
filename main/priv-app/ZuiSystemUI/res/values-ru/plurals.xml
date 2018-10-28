@@ -54,7 +54,7 @@
         <item quantity="few">Показано %d экрана</item>
         <item quantity="many">Показано %d экранов</item>
     </plurals>
-        <plurals name="message_text">
+    <plurals name="message_text">
         <item quantity="other">%1$d уведомления(ий)</item>
         <item quantity="one">%1$d уведомление</item>
     </plurals>

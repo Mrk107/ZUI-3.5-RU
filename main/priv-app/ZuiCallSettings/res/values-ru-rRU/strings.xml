@@ -533,4 +533,6 @@ Try again or call customer service for more options."</string>
 </string>
   <string name="wifi_calling">Wi-Fi звонки</string>
   <string name="wild_prompt_str">Замените дикого персонажа на</string>
+    <string name="call_setting_auto_answer_title">Авто-ответ при подношении к уху.</string>
+    <string name="speed_dial_tile">Быстрые клавиши</string>
 </resources>
